@@ -1,0 +1,31 @@
+10 RodCutting
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+36 3 10
+1 5 8 9 10 17 17 20 24 30
+3
+9
+8
+7 8
+25
+22
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.RodCutting
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.26
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

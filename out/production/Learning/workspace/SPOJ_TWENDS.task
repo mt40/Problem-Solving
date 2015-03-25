@@ -1,0 +1,35 @@
+11 SPOJ_TWENDS
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+48 4 3 2 10 4
+8 1 2 3 4 5 6 7 8
+8 2 2 1 5 3 8 7 3
+0
+197 In game 1, the greedy strategy might lose by as many as 7 points.
+In game 2, the greedy strategy might lose by as many as 4 points.
+In game 3, the greedy strategy might lose by as many as 5 points.
+1
+1
+12 4 3 2 10 4
+0
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_TWENDS
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.22
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,39 @@
+12 PrimeFactors
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+38 3
+2147483647
+136117223861
+142391208960
+39 2147483647
+104729 1299709
+2 3 5 7 11 13
+1
+1
+9 3
+22
+39
+8
+11 2 11
+3 13
+2
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.PrimeFactors
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.15
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

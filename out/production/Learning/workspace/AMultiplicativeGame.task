@@ -1,0 +1,40 @@
+19 AMultiplicativeGame
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+17 3
+17
+162
+34012226
+33 Ollie wins.
+Stan wins.
+Stan wins.
+0
+1
+4 1
+17
+11 Ollie wins.
+0
+2
+4 1
+20
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+29 workspace.AMultiplicativeGame
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

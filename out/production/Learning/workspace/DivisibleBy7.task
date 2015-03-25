@@ -1,0 +1,39 @@
+12 DivisibleBy7
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+21 5
+0
+7
+49
+45927
+442237
+18 YES
+YES
+YES
+YES
+NO
+1
+1
+4 1
+49
+-1
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.DivisibleBy7
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.09
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

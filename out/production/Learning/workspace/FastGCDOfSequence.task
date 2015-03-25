@@ -1,0 +1,31 @@
+17 FastGCDOfSequence
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+12 3
+124 34 490
+-1
+0
+1
+13 3
+980 744 508
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+27 workspace.FastGCDOfSequence
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.23
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

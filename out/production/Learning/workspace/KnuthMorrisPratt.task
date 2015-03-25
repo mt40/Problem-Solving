@@ -1,0 +1,36 @@
+16 KnuthMorrisPratt
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+65 I DO NOT LIKE SEVENTY SEV BUT SEVENTY SEVENTY SEVEN
+SEVENTY SEVEN
+-1
+1
+1
+31 ABC ABCDAB ABCDABCDABDE
+ABCDABD
+-1
+1
+2
+23 ACABAABABDABABABA
+ABABA
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.KnuthMorrisPratt
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.22
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

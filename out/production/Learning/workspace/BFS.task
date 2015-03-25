@@ -1,0 +1,21 @@
+3 BFS
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+13 workspace.BFS
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.31
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

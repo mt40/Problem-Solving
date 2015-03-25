@@ -1,0 +1,39 @@
+9 SPOJ_ROCK
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+57 3
+15
+100110001010001
+16
+0010111101100000
+13
+1000111001001
+7 9
+13
+10
+1
+1
+21 1
+16
+0010111101100000
+-1
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_ROCK
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.24
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

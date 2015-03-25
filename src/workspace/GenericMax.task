@@ -1,0 +1,26 @@
+10 GenericMax
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+22 7
+13 -3 4 20 100 -43 0
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.GenericMax
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.20
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,37 @@
+12 MaxSumMatrix
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+42 4 4
+0 -2 -7 0
+9 2 -6 2
+-4 1 -4 1
+-1 8 0 -2
+2 15
+0
+1
+41 4 4
+4 -9 4 0
+2 0 3 -1
+-10 1 -5 2
+6 -7 7 8
+0 
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.MaxSumMatrix
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.13
+4 None
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

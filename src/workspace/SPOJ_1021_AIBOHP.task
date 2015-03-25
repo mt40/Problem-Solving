@@ -1,0 +1,73 @@
+16 SPOJ_1021_AIBOHP
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+30 6
+fft
+abb
+bacb
+babab
+abba
+baba
+11 1
+1
+1
+0
+0
+1
+0
+1
+26 5
+ab
+acbb
+abcd
+abcdb
+abadb
+9 1
+2
+3
+2
+2
+1
+2
+417 10
+auyotizffoxvbncmtvbkqgbpifpvytjvyykwideopkwxpe
+wkdwvawiuogtjziqgrqgpgdqabumjppdayjrnxpiaclxizmfjvpuu
+zsongj
+curmhvmyqxkrquv
+qbqrddakxpjgdmadmvmjjprbsmgxlzrozxldtdenddknqyrlfxeoun
+rgqmpswomfufpujhgecifzoevudvweghdgimqfdppgucmzaojlxoqkicuevl
+gykaamfwxmeejficnuxroojfikvybqkzvbajoppjudbuhqstsbyqiskpushqmmjskrkvlsiinrrembc
+elgfwhhwjppgrxrsjmwunrrvhqszthzsp
+zxongohxf
+ttojqbsbkkxnyvgplblwplljqopigwhnvcumadhkehgflfhlom
+-1
+0
+3
+11 1
+zxongohxf
+1 4
+0
+4
+6 1
+abab
+1 1
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.SPOJ_1021_AIBOHP
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.26
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

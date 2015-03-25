@@ -1,0 +1,51 @@
+15 FightTheMonster
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+23 1 2 1
+1 100 1
+1 100 100
+2 99
+0
+1
+23 100 100 100
+1 1 1
+1 1 1
+1 0
+0
+2
+23 1 1 1
+1 1 1
+100 100 100
+3 100
+0
+3
+26 50 80 92
+41 51 56
+75 93 12
+1 0
+0
+4
+26 76 63 14
+89 87 35
+20 15 56
+0 
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+25 workspace.FightTheMonster
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.16
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

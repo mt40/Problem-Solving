@@ -1,0 +1,37 @@
+9 GigaTower
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+3 179
+1 1
+1
+1
+2 -1
+1 9
+1
+2
+2 -8
+2 16
+1
+3
+2 18
+2 10
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.GigaTower
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.16
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

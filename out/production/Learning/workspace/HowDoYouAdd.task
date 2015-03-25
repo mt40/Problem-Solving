@@ -1,0 +1,26 @@
+11 HowDoYouAdd
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+6 1
+20 2
+2 21
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.HowDoYouAdd
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.14
+4 None
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

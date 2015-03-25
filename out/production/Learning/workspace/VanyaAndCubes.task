@@ -1,0 +1,29 @@
+13 VanyaAndCubes
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+1 1
+1 1
+1
+1
+2 25
+1 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.VanyaAndCubes
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.16
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

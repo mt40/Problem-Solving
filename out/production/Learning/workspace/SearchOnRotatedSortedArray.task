@@ -1,0 +1,31 @@
+26 SearchOnRotatedSortedArray
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+24 10
+8 12 15 1 2 3 4 5 6 7
+-1
+0
+1
+203 50
+753 758 783 826 841 852 914 919 923 928 929 964 118 134 174 178 178 195 224 253 269 317 322 339 352 385 388 421 429 441 455 455 459 466 489 496 517 529 536 576 587 589 638 639 662 672 685 688 712 732 
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+36 workspace.SearchOnRotatedSortedArray
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.25
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,27 @@
+10 LowerUpper
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+6 aBcFzZ
+20 abcfzz
+ABCFZZ
+AbCfZz
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.LowerUpper
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.12
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

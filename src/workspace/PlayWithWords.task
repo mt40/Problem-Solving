@@ -1,0 +1,29 @@
+13 PlayWithWords
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+21 eeegeeksforskeeggeeks
+2 50
+0
+1
+50 jcaabdovmuiwsjkskeyifhfjxebwqbuqkndxmrxpqdbnpecgdh
+2 63
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.PlayWithWords
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.12
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

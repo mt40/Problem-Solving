@@ -1,0 +1,43 @@
+12 SPOJ_DIEHARD
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+15 3
+2 10
+4 4
+20 8
+5 1
+1
+5
+1
+1
+41 5
+1 5 
+5 80 
+100 200 
+500 600 
+1000 1000 
+18 1 
+5 
+57 
+217 
+399
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_DIEHARD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

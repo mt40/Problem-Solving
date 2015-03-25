@@ -1,0 +1,48 @@
+14 VerticalSticks
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+66 6
+3
+1 2 3
+3
+3 3 3
+3
+2 2 3
+4
+10 2 4 4
+5
+10 10 10 5 10
+6
+1 2 3 4 5 6
+30 4.33
+3.00
+4.00
+6.00
+5.80
+11.15
+1
+1
+19 1
+8
+3 2 5 3 3 4 1 2
+5 15.25
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+24 workspace.VerticalSticks
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.20
+4 none
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
