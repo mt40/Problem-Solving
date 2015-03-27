@@ -4,22 +4,17 @@
 9 input.txt
 8 STANDARD
 10 output.txt
-3
-0
-7 3
-1 2 3
--1
-0
-1
-9 4
-4 3 1 2
--1
-1
 2
-12 5
-1 2 10 8 7
--1
 0
+11 ABCD
+AEFCDH
+-1
+1
+1
+20 abciefgh
+abklefghcdg
+-1
+1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
@@ -27,10 +22,10 @@
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.02.05
+10 2015.03.27
 0 
 1
-17 java.util.Scanner
+25 helperClasses.InputReader
 19 java.io.PrintWriter
 0
 0

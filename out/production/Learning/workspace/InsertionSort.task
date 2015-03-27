@@ -1,28 +1,23 @@
-12 test_project
+13 InsertionSort
 6 SINGLE
 8 STANDARD
 9 input.txt
 8 STANDARD
 10 output.txt
-2
+1
 0
-11 ABCD
-AEFCDH
--1
-1
-1
-20 abciefgh
-abklefghcdg
--1
+11 5
+3 1 9 8 8
+9 1 3 8 8 9
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-22 workspace.test_project
+23 workspace.InsertionSort
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.27
+10 2015.03.26
 0 
 1
 25 helperClasses.InputReader

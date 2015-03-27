@@ -1,38 +1,32 @@
 package workspace;
 
-import java.util.Scanner;
+import helperClasses.InputReader;
 import java.io.PrintWriter;
 
 public class test_project {
-    int []a;
-    int n;
+    public void solve(int testNumber, InputReader in, PrintWriter out) {
+        String s = in.next();
+        char []a = s.toCharArray();
+        char []b = in.next().toCharArray();
+        int n = a.length, m = b.length;
 
-    public void solve(int testNumber, Scanner in, PrintWriter out) {
-        n = in.nextInt();
-        a = new int[n];
+        int ans = 0, pos = 0;
+        int [][]LCSuffix = new int[n][m];
+        for(int i = 0; i < n; ++i) {
+            for(int j = 0; j < m; ++j) {
+                if(i == 0 && j == 0 && a[i] == b[j])
+                    LCSuffix[i][j] = 1;
+                else if(a[i] == b[j])
+                    LCSuffix[i][j] = LCSuffix[i - 1][j - 1] + 1;
 
-        for(int i = 0; i < n; ++i)
-            a[i] = in.nextInt();
-
-        qSort(a, 0, n - 1);
-        for(int i = 0; i < n; ++i)
-            out.print(a[i] + " ");
-    }
-
-    void qSort(int []a, int low, int hi) {
-        int i = low, j = hi;
-        int mid = (i + j) / 2;
-        while(i <= j) {
-            while(a[i] < a[mid]) i++;
-            while(a[j] > a[mid]) j--;
-            if(i <= j) {
-                int tmp = a[i];
-                a[i] = a[j];
-                a[j] = tmp;
-                i++; j--;
+                if(LCSuffix[i][j] > ans) {
+                    ans = LCSuffix[i][j];
+                    pos = i;
+                }
             }
         }
-        if(low < j) qSort(a, low, j);
-        if(i < hi) qSort(a, i, hi);
+
+        out.println(ans);
+        out.println(s.substring(pos - ans + 1, pos + 1));
     }
 }

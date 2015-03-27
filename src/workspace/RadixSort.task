@@ -1,28 +1,23 @@
-12 test_project
+9 RadixSort
 6 SINGLE
 8 STANDARD
 9 input.txt
 8 STANDARD
 10 output.txt
-2
+1
 0
-11 ABCD
-AEFCDH
--1
-1
-1
-20 abciefgh
-abklefghcdg
--1
+35 11
+123 44 5 11 768 9990 1 10 10 9 9
+32 1 5 9 9 10 10 11 44 123 768 9990
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-22 workspace.test_project
+19 workspace.RadixSort
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.27
+10 2015.03.26
 0 
 1
 25 helperClasses.InputReader

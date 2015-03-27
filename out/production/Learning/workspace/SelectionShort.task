@@ -1,28 +1,23 @@
-12 test_project
+14 SelectionShort
 6 SINGLE
 8 STANDARD
 9 input.txt
 8 STANDARD
 10 output.txt
-2
+1
 0
-11 ABCD
-AEFCDH
--1
-1
-1
-20 abciefgh
-abklefghcdg
--1
+17 7
+3 1 10 9 9 8 11
+15 1 3 8 9 9 10 11
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-22 workspace.test_project
+24 workspace.SelectionShort
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.27
+10 2015.03.26
 0 
 1
 25 helperClasses.InputReader
