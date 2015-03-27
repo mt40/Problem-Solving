@@ -17,37 +17,34 @@ public class Main {
 		OutputStream outputStream = System.out;
 		InputReader in = new InputReader(inputStream);
 		PrintWriter out = new PrintWriter(outputStream);
-		test_project solver = new test_project();
+		CF_189A solver = new CF_189A();
 		solver.solve(1, in, out);
 		out.close();
 	}
 }
 
-class test_project {
+class CF_189A {
     public void solve(int testNumber, InputReader in, PrintWriter out) {
-        String s = in.next();
-        char []a = s.toCharArray();
-        char []b = in.next().toCharArray();
-        int n = a.length, m = b.length;
+        int n = in.nextInt();
+        int a = in.nextInt();
+        int b = in.nextInt();
+        int c = in.nextInt();
 
-        int ans = 0, pos = 0;
-        int [][]LCSuffix = new int[n][m];
-        for(int i = 0; i < n; ++i) {
-            for(int j = 0; j < m; ++j) {
-                if(i == 0 && j == 0 && a[i] == b[j])
-                    LCSuffix[i][j] = 1;
-                else if(a[i] == b[j])
-                    LCSuffix[i][j] = LCSuffix[i - 1][j - 1] + 1;
-
-                if(LCSuffix[i][j] > ans) {
-                    ans = LCSuffix[i][j];
-                    pos = i;
-                }
+        int []dp = new int[n + 1];
+        dp[0] = 0;
+        for(int i = 0; i <= n; ++i) {
+            if(dp[i] > 0 || i == 0) {
+                if(i + a <= n)
+                    dp[i + a] = Math.max(dp[i + a], dp[i] + 1);
+                if(i + b <= n)
+                    dp[i + b] = Math.max(dp[i + b], dp[i] + 1);
+                if(i + c <= n)
+                    dp[i + c] = Math.max(dp[i + c], dp[i] + 1);
             }
         }
 
-        out.println(ans);
-        out.println(s.substring(pos - ans + 1, pos + 1));
+        out.println(dp[n]);
+        //out.println(Arrays.toString(dp));
     }
 }
 
@@ -69,6 +66,10 @@ class InputReader {
             }
         }
         return tokenizer.nextToken();
+    }
+
+    public int nextInt() {
+        return Integer.parseInt(next());
     }
 
 }
