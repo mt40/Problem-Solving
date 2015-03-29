@@ -1,0 +1,62 @@
+12 SPOJ_GNYR09F
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+81 10
+1 5 2
+2 20 8
+3 30 17
+4 40 24
+5 50 37
+6 60 52
+7 70 59
+8 80 73
+9 90 84
+10 100 90
+92 1 6
+2 63426
+3 1861225
+4 168212501
+5 44874764
+6 160916
+7 22937308
+8 99167
+9 15476
+10 23076518
+0
+1
+34 5
+1 5 2
+2 20 8
+3 5 1 
+4 7 3 
+5 7 4
+25 1 6
+2 63426
+3 10
+4 16
+5 8
+1
+2
+7 1
+1 5 2
+3 1 6
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_GNYR09F
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.29
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

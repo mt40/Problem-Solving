@@ -14,7 +14,7 @@ public class EditDistance {
         text = t.toCharArray();
         pat = p.toCharArray();
         n = text.length;
-        m = text.length;
+        m = pat.length;
 
         // dp[i][j] optimal score of A: 0...i & B: 0...j
         int [][]dp = new int[n][m];

@@ -17,35 +17,35 @@ public class Main {
 		OutputStream outputStream = System.out;
 		InputReader in = new InputReader(inputStream);
 		PrintWriter out = new PrintWriter(outputStream);
-		CF_189A solver = new CF_189A();
-		solver.solve(1, in, out);
+		SPOJ_GNYR09F solver = new SPOJ_GNYR09F();
+		int testCount = Integer.parseInt(in.next());
+		for (int i = 1; i <= testCount; i++)
+			solver.solve(i, in, out);
 		out.close();
 	}
 }
 
-class CF_189A {
+class SPOJ_GNYR09F {
+    int n, k;
     public void solve(int testNumber, InputReader in, PrintWriter out) {
-        int n = in.nextInt();
-        int a = in.nextInt();
-        int b = in.nextInt();
-        int c = in.nextInt();
+        int id = in.nextInt();
+        n = in.nextInt();
+        k = in.nextInt();
 
-        int []dp = new int[n + 1];
-        dp[0] = 0;
-        for(int i = 0; i <= n; ++i) {
-            if(dp[i] > 0 || i == 0) {
-                if(i + a <= n)
-                    dp[i + a] = Math.max(dp[i + a], dp[i] + 1);
-                if(i + b <= n)
-                    dp[i + b] = Math.max(dp[i + b], dp[i] + 1);
-                if(i + c <= n)
-                    dp[i + c] = Math.max(dp[i + c], dp[i] + 1);
+        int [][][]dp = new int[n + 1][k + 1][2];
+        dp[1][0][0] = dp[1][0][1] = 1;
+        for(int i = 2; i <= n; ++i) {
+            for(int j = 0; j < i && j <= k; ++j) {
+                dp[i][j][0] = dp[i - 1][j][0] + dp[i - 1][j][1];
+                dp[i][j][1] = dp[i - 1][j][0];
+                if(j > 0)
+                    dp[i][j][1] += dp[i - 1][j - 1][1];
             }
         }
 
-        out.println(dp[n]);
-        //out.println(Arrays.toString(dp));
+        out.printf("%d %d\n", id, dp[n][k][0] + dp[n][k][1]);
     }
+
 }
 
 class InputReader {
