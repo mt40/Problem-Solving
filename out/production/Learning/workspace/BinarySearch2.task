@@ -1,0 +1,26 @@
+13 BinarySearch2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+31 10 13
+1 3 5 9 10 11 15 21 22 22
+2 11
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.BinarySearch2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.30
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

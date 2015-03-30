@@ -1,0 +1,28 @@
+17 LCA_in_BinaryTree
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+24 7
+9 5 11 1 7 6 10
+1
+6 10
+1 9
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+27 workspace.LCA_in_BinaryTree
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.30
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

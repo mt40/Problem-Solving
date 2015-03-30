@@ -15,11 +15,17 @@ public class DFS {
             for(int j = 0; j < V; ++j)
                 adj[i][j] = in.nextInt();
 
-        //dfs(new int[V], 0);
-        //bfs();
-        //connectedComponent();
-        //topoSort();
-        //isBipartite();
+        int []visit = new int[V];
+        for(int i = 0; i < V; ++i) {
+            if(visit[i] == 0)
+                dfs(visit, i);
+        }
+        System.out.println();
+        bfs();
+        System.out.println();
+        connectedComponent();
+        topoSort();
+        isBipartite();
         //out.println(isBipartite2(new int[V], new HashMap<Integer, Integer>(), 0));
         find_articulation();
     }
@@ -37,14 +43,17 @@ public class DFS {
     public void bfs() {
         int []visit = new int[V];
         Queue<Integer> q = new LinkedList<Integer>();
-        q.add(0); // enqueue root
-        while(q.size() > 0) {
-            int v = q.poll(); // dequeue
-            visit[v] = 1;
-            System.out.print(v + " ");
-            for(int i = 0; i < V; ++i)
-                if(adj[v][i] == 1 && visit[i] == 0 && !q.contains(i))
-                    q.add(i);
+        for(int j = 0; j < V; ++j) {
+            if(visit[j] == 0)
+                q.add(j); // enqueue root
+            while (q.size() > 0) {
+                int v = q.poll(); // dequeue
+                visit[v] = 1;
+                System.out.print(v + " ");
+                for (int i = 0; i < V; ++i)
+                    if (adj[v][i] == 1 && visit[i] == 0 && !q.contains(i))
+                        q.add(i);
+            }
         }
     }
 
