@@ -1,4 +1,4 @@
-13 SPOJ_MBEEWALK
+7 CF_501B
 6 SINGLE
 8 STANDARD
 9 input.txt
@@ -6,20 +6,25 @@
 10 output.txt
 1
 0
-5 2
-2
-4
-4 6
-90
+102 5
+Misha ILoveCodeforces
+Vasya Petrov
+Petrov VasyaPetrov123
+ILoveCodeforces MikeMirzayanov
+Petya Ivanov
+56 3
+Petya Ivanov
+Misha MikeMirzayanov
+Vasya VasyaPetrov123
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-23 workspace.SPOJ_MBEEWALK
+17 workspace.CF_501B
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.31
+10 2015.04.10
 0 
 1
 25 helperClasses.InputReader

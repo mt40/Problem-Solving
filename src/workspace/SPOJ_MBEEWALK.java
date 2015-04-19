@@ -8,58 +8,31 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class SPOJ_MBEEWALK {
-    int []X, Y, D; // tọa độ x, y và khoảng cách đến tâm
-    Map<String, Integer> data;
-    int len;
     public void solve(int testNumber, InputReader in, PrintWriter out) {
-        /**
-         * Đầu tiên là dựng hệ tọa độ cho tổ ong
-         */
-        int max = 200000; // lấy đại 1 số lớn hơn 100000
-        X = new int[max];
-        Y = new int[max];
-        D = new int[max];
-        data = new HashMap<String, Integer>();
-        /**
-         * Dựng các điểm trên hệ trục Oxy sẽ thấy dc pattern của nó
-         */
-        len = 1;
-        int cell = 2, x, y;
-        while(cell < 100000 && len <= 7) {
-            for(x = len - 1, y = 1; x > 0; --x, ++y, cell++)
-                update(cell, x, y);
-            for(x = 0; x > -len; --x, cell++)       update(cell, x, len);
-            for(y = len; y > 0; --y, cell++)        update(cell, x, y);
-            for(x = -len; x < 0; ++x, --y, cell++)  update(cell, x, y);
-            for(x = 0; x < len; ++x, cell++)        update(cell, x, y);
-            for(y = -len; y < 0; ++y, cell++)       update(cell, x, y);
+        int [][][]dp = new int[100][100][15];
+        dp[50][50][0] = 1;
+        for(int len = 1; len <= 14; ++len) {
+            for(int i = 1; i < 100; ++i) {
+                for(int j = 1; j < 100; ++j) {
+                    if(dp[i][j][len - 1] > 0 || (i == 50 && j == 50 && len == 1)) {
+                        int walk = dp[i][j][len-1];
 
-            update(cell, len, y);
-            len++; cell++;
+                        dp[i - 1][j][len] += walk;
+                        dp[i - 1][j - 1][len] += walk;
+                        dp[i][j - 1][len] += walk;
+                        dp[i][j + 1][len] += walk;
+                        dp[i + 1][j + 1][len] += walk;
+                        dp[i + 1][j][len] += walk;
+                    }
+                }
+            }
         }
 
-        // input
-        int n = in.nextInt();
-        // TODO
-
-        out.println(data.containsKey("1,0"));
-    }
-
-    void update(int cell, int x, int y) {
-        data.put("" + x + "," + y, len);
-    }
-
-    class Point {
-        int x, y;
-
-        public Point(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            return x == ((Point)o).x && y == ((Point)o).y;
+        int test = in.nextInt();
+        for(int i = 0; i < test; ++i) {
+            int n = in.nextInt();
+            out.println(dp[50][50][n]);
         }
     }
+
 }

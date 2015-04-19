@@ -1,5 +1,5 @@
 13 SPOJ_MBEEWALK
-12 MULTI_NUMBER
+6 SINGLE
 8 STANDARD
 9 input.txt
 8 STANDARD
@@ -19,7 +19,7 @@
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.29
+10 2015.03.31
 0 
 1
 25 helperClasses.InputReader

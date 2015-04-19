@@ -1,25 +1,24 @@
-13 SPOJ_MBEEWALK
-6 SINGLE
+21 GreatestCommonDivisor
+12 MULTI_NUMBER
 8 STANDARD
 9 input.txt
 8 STANDARD
 10 output.txt
 1
 0
-5 2
-2
-4
-4 6
-90
+17 2
+44 2004
+2014 98
+-1
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-23 workspace.SPOJ_MBEEWALK
+31 workspace.GreatestCommonDivisor
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.31
+10 2015.04.07
 0 
 1
 25 helperClasses.InputReader

@@ -1,4 +1,4 @@
-13 SPOJ_MBEEWALK
+20 Hackerrank_GemStones
 6 SINGLE
 8 STANDARD
 9 input.txt
@@ -6,20 +6,20 @@
 10 output.txt
 1
 0
-5 2
-2
-4
-4 6
-90
+20 3
+abcdde
+baccd
+eeabg
+1 2
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
 4 Main
-23 workspace.SPOJ_MBEEWALK
+30 workspace.Hackerrank_GemStones
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.03.31
+10 2015.04.07
 0 
 1
 25 helperClasses.InputReader

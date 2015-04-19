@@ -22,6 +22,8 @@ public class LCA_in_BinaryTree {
             Node lca = LCA(root, x, y);
             out.println(lca.val);
         }
+
+        out.println("height = " + height(root, 0));
     }
 
     void print(Node cur) {
@@ -57,6 +59,14 @@ public class LCA_in_BinaryTree {
 
         // if no x & y in the left sub-tree, answer is in the right sub-tree
         return left == null ? right : left;
+    }
+
+    int height(Node cur, int height) {
+        if(cur == null)
+            return height;
+        int h = height(cur.left, height + 1);
+        h = Math.max(h, height(cur.right, height + 1));
+        return h;
     }
 
     class Node {
