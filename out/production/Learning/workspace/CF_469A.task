@@ -1,0 +1,45 @@
+7 CF_469A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+15 4
+3 1 2 3
+2 2 4
+17 I become the guy.
+0
+1
+15 4
+3 1 2 3
+2 2 3
+16 Oh, my keyboard!
+0
+2
+40 10
+8 8 10 7 3 1 4 2 6
+8 9 5 10 3 7 2 4 8
+17 I become the guy.
+0
+3
+11 3
+1 2
+2 2 3
+16 Oh, my keyboard!
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_469A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.26
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

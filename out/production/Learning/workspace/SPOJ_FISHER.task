@@ -1,0 +1,36 @@
+11 SPOJ_FISHER
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+73 4 7
+0 5 2 3
+5 0 2 3
+3 1 0 2
+3 3 2 0
+
+0 2 2 7
+2 0 1 2
+2 2 0 5
+7 2 5 0
+
+0 0
+3 6 6
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_FISHER
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

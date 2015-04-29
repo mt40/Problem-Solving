@@ -1,0 +1,30 @@
+16 Bitwise_absolute
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+14 3
+-1
+-555
+1234
+10 1
+555
+1234
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.Bitwise_absolute
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.28
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
