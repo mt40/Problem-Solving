@@ -1,0 +1,32 @@
+7 CF_514C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+37 2 3
+aaaaa
+acacaca
+aabaa
+ccacacc
+caaac
+9 YES
+NO
+NO
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_514C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.03
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

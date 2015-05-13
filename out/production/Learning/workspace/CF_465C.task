@@ -1,0 +1,46 @@
+7 CF_465C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+7 3 3
+cba
+2 NO
+1
+1
+7 3 4
+cba
+3 cbd
+1
+2
+8 4 4
+abcd
+4 abda
+1
+3
+9 5 5
+abead
+-1
+1
+4
+16 11 3
+abcabcabcab
+11 acbacbacbac
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_465C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.02
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
