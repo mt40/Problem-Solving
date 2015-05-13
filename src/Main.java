@@ -1,11 +1,10 @@
-import java.util.Arrays;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.IOException;
 import java.util.StringTokenizer;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 
 /**
  * Built using CHelper plug-in
@@ -18,57 +17,57 @@ public class Main {
 		OutputStream outputStream = System.out;
 		InputReader in = new InputReader(inputStream);
 		PrintWriter out = new PrintWriter(outputStream);
-		CF_467C solver = new CF_467C();
+		CF_515C solver = new CF_515C();
 		solver.solve(1, in, out);
 		out.close();
 	}
 }
 
-class CF_467C {
-    long[] cul;
-
+class CF_515C {
     public void solve(int testNumber, InputReader in, PrintWriter out) {
         int n = in.nextInt();
-        int m = in.nextInt();
-        int k = in.nextInt();
+        char[]a = in.next().toCharArray();
 
-        int []a = new int[n + 1];
-        for(int i = 1; i <= n; ++i)
-            a[i] = in.nextInt();
-
-        cul = new long[n + 1];
-        for(int i = 1; i <= n; ++i)
-            cul[i] = cul[i - 1] + a[i];
-
-        long ans = 0;
-        long [][]dp = new long[3][n + 1];
-        for(int j = m; j <= n; ++j) {
-            dp[1][j] = Math.max(dp[1][j - 1], sum(j - m + 1, j));
-            ans = Math.max(ans, dp[1][j]);
-        }
-
-        int prev = 1, cur = 2;
-        for(int i = 2; i <= k; ++i) {
-            for(int j = m; j <= n; ++j) {
-                if(dp[prev][j - m] > 0) {
-                    dp[cur][j] += dp[prev][j - m] + sum(j - m + 1, j);
-                    dp[cur][j] = Math.max(dp[cur][j - 1], dp[cur][j]);
-                    ans = Math.max(ans, dp[cur][j]);
+        int []nums = new int[10];
+        for(int i = 0; i < n; ++i) {
+            int x = a[i] - '0';
+            for(int j = 1; j <= x; ++j) {
+                int tmp = j;
+                if(tmp == 1)
+                    nums[1]++;
+                else {
+                    for(int k = 2; k <= j; ++k) {
+                        while(tmp % k == 0) {
+                            nums[k]++;
+                            tmp /= k;
+                        }
+                    }
                 }
             }
-            cur = prev;
-            prev = 3 - cur;
-            Arrays.fill(dp[cur], 0);
         }
 
-//        for(int i = 1; i <= 2; ++i)
-//            System.out.println(Arrays.toString(dp[i]));
+        String ans = "";
+        for(int i = 9; i >= 1; --i) {
+            while(nums[i] > 0) {
+                for(int j = 1; j <= i; ++j) {
+                    if(j == 4)
+                        nums[2] -= 2;
+                    else if(j == 6) {
+                        nums[2]--; nums[3]--;
+                    }
+                    else if(j == 8)
+                        nums[2] -= 4;
+                    else if(j == 9)
+                        nums[3] -= 3;
+                    else
+                        nums[j]--;
+                }
+                ans += i + "";
+            }
+        }
 
+        //System.out.println(Arrays.toString(nums));
         out.println(ans);
-    }
-
-    long sum(int l, int r) {
-        return cul[r] - cul[l - 1];
     }
 }
 
