@@ -1,0 +1,37 @@
+7 CF_218B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+9 4 3
+2 1 1
+3 5 5
+0
+1
+9 4 3
+2 2 2
+3 7 6
+0
+2
+15 10 5
+10 3 3 1 2
+6 58 26
+
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_218B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

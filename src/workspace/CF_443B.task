@@ -1,0 +1,42 @@
+7 CF_443B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+6 aaba
+2
+1 6
+0
+1
+9 aaabbbb
+2
+1 6
+0
+2
+14 abracadabra
+10
+2 20
+0
+3
+14 zumtumtlitf
+2
+
+1 6
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_443B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

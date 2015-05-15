@@ -1,27 +1,9 @@
+package workspace;
+
 import java.util.Scanner;
-import java.io.OutputStream;
 import java.io.PrintWriter;
-import java.io.IOException;
-import java.io.InputStream;
 
-/**
- * Built using CHelper plug-in
- * Actual solution is at the top
- * @author mthai
- */
-public class Main {
-	public static void main(String[] args) {
-		InputStream inputStream = System.in;
-		OutputStream outputStream = System.out;
-		Scanner in = new Scanner(inputStream);
-		PrintWriter out = new PrintWriter(outputStream);
-		CF_443B solver = new CF_443B();
-		solver.solve(1, in, out);
-		out.close();
-	}
-}
-
-class CF_443B {
+public class CF_443B {
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         char []a = in.next().toCharArray();
         int n = a.length;
@@ -36,6 +18,7 @@ class CF_443B {
             }
         }
 
+        // trap: we have to find the existing longest tandem repeat
         int max = 0;
         for(int len = 2; len <= n; len += 2) {
             for(int i = 0; i + len - 1 < n; ++i) {
@@ -57,4 +40,3 @@ class CF_443B {
         return true;
     }
 }
-
