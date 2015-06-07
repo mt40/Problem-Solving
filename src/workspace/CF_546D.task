@@ -1,0 +1,47 @@
+7 CF_546D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+9 2
+3 1
+6 3
+3 2
+5
+1
+1
+70 8
+7 1
+263 262
+1000003 1000002
+5000000 4999995
+2 1
+7 4
+12345 12345
+10 1
+17 8
+1
+1
+23
+1
+4
+0
+15
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_546D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.07
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

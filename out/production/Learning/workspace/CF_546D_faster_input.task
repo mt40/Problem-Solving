@@ -1,0 +1,40 @@
+20 CF_546D_faster_input
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+70 8
+7 1
+263 262
+1000003 1000002
+5000000 4999995
+2 1
+7 4
+12345 12345
+10 1
+17 8
+1
+1
+23
+1
+4
+0
+15
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+30 workspace.CF_546D_faster_input
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.07
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
