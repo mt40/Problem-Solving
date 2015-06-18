@@ -1,27 +1,10 @@
+package workspace;
+
+import java.util.Arrays;
 import java.util.Scanner;
-import java.io.OutputStream;
 import java.io.PrintWriter;
-import java.io.IOException;
-import java.io.InputStream;
 
-/**
- * Built using CHelper plug-in
- * Actual solution is at the top
- * @author mthai
- */
-public class Main {
-	public static void main(String[] args) {
-		InputStream inputStream = System.in;
-		OutputStream outputStream = System.out;
-		Scanner in = new Scanner(inputStream);
-		PrintWriter out = new PrintWriter(outputStream);
-		CF_425A solver = new CF_425A();
-		solver.solve(1, in, out);
-		out.close();
-	}
-}
-
-class CF_425A {
+public class CF_425A {
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         int n = in.nextInt();
         int k = in.nextInt();
@@ -54,6 +37,7 @@ class CF_425A {
                 }
             }
 
+            // culmulative sum
             int []cul = new int[n + 1];
             for(int j = 1; j <= n; ++j)
                 cul[j] = cul[j - 1] + clone[j - 1];
@@ -66,6 +50,10 @@ class CF_425A {
 
         }
 
+        /**
+         * Remember to check if all elements are negative
+         * if so, pick the biggest one
+         */
         boolean isAllNeg = true;
         for(int i : a) {
             if(i >= 0)
@@ -89,4 +77,3 @@ class CF_425A {
         arr[j] = tmp;
     }
 }
-
