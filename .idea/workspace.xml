@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87707281-7ec6-4764-906d-58738818a3dc" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\My Document\Java projects\Problem-Solving\src\workspace\CF_425A.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\My Document\Java projects\Problem-Solving\src\workspace\CF_425A.task" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/CF_425A.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/CF_425A.task" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/DFS.java" afterPath="$PROJECT_DIR$/src/workspace/DFS.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chelper.properties" afterPath="$PROJECT_DIR$/chelper.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -27,95 +32,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CF_66A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_66A.java">
+      <file leaf-file-name="KnuthMorrisPrath2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_493D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_493D.java">
+      <file leaf-file-name="CF_327B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_327B.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_546D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_546D.java">
+      <file leaf-file-name="CF_448D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_448D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="5" selection-start-line="43" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_546D_faster_input.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_546D_faster_input.java">
+      <file leaf-file-name="CF_180A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_180A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ASCII_and_Integer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/ASCII_and_Integer.java">
+      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/BFS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_7A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_7A.java">
+      <file leaf-file-name="BinarySearch2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/BinarySearch2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HKR_SubstringDiff.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java">
+      <file leaf-file-name="LowerUpper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/LowerUpper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_425A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_425A.java">
+      <file leaf-file-name="SearchOnRotatedSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/SearchOnRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5303293">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SlidingWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/SlidingWindow.java">
+      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/workspace/MajorityElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
-              <folding>
-                <element signature="method#log_time#0;class#SlidingWindow#0" expanded="false" />
-                <element signature="method#log_time2#0;class#SlidingWindow#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.6721582">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,29 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/workspace/TowerOfHanoi.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_469C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_467A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/Bitwise_absolute.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_467B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_467C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_466A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_466B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_465B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/Fast_case_change.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_465C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HashSet_custom.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_514C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_527B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_225C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_278A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_519B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_463B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_515C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_221A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_285C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_389B.java" />
         <option value="$PROJECT_DIR$/src/workspace/CF_244A.java" />
         <option value="$PROJECT_DIR$/src/workspace/CF_157B.java" />
         <option value="$PROJECT_DIR$/src/workspace/CF_218B.java" />
@@ -184,6 +163,29 @@
         <option value="$PROJECT_DIR$/src/workspace/SlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java" />
         <option value="$PROJECT_DIR$/src/workspace/CF_425A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_354A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_313C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_121A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_303A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_229A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_151B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_9C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_68A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_437B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_185A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_12B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_407A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/DigitSumFrom1ToN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_519D.java" />
+        <option value="$PROJECT_DIR$/src/workspace/DynamicLengthStringHash.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MaxDifference.java" />
+        <option value="$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class" />
+        <option value="$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_327B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/DFS.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_448D.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_180A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_56A.java" />
       </list>
     </option>
   </component>
@@ -198,9 +200,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -245,7 +248,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,27 +299,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problem-Solving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helperClasses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,10 +325,10 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Task.CF_425A">
+  <component name="RunManager" selected="Task.BFS">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -497,38 +482,8 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="AMultiplicativeGame" type="Task" factoryName="Task">
-      <taskConf>src/workspace/AMultiplicativeGame.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="ASCII_and_Integer" type="Task" factoryName="Task">
-      <taskConf>src/workspace/ASCII_and_Integer.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="AnagramStrings" type="Task" factoryName="Task">
-      <taskConf>src/workspace/AnagramStrings.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Arithmetic_Operation" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Arithmetic_Operation.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ArrayCircularShift" type="Task" factoryName="Task">
-      <taskConf>src/workspace/ArrayCircularShift.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -539,26 +494,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BalanceBrackets" type="Task" factoryName="Task">
-      <taskConf>src/workspace/BalanceBrackets.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BellmanFord" type="Task" factoryName="Task">
-      <taskConf>src/workspace/BellmanFord.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="BinarySearch2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/BinarySearch2.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -566,23 +503,11 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Bitwise_absolute" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Bitwise_absolute.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="BracketsWithDepth" type="Task" factoryName="Task">
       <taskConf>src/workspace/BracketsWithDepth.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BubbleSort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/BubbleSort.task</taskConf>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -597,52 +522,8 @@
       <taskConf>src/workspace/CF_221A.task</taskConf>
       <method />
     </configuration>
-    <configuration default="false" name="CF_225C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_225C.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_278A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_278A.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_285C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_285C.task</taskConf>
-      <method />
-    </configuration>
     <configuration default="false" name="CF_294B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_294B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_389B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_389B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_431A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_431A.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_431B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_431B.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -663,110 +544,8 @@
       <taskConf>src/workspace/CF_431D.task</taskConf>
       <method />
     </configuration>
-    <configuration default="false" name="CF_455A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_455A.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_463B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_463B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_465B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_465B.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_465C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_465C.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="CF_466A" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_466A.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_466B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_466B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_467A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_467A.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_467B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_467B.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_467C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_467C.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_469A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_469A.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_469B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_469B.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_469C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_469C.task</taskConf>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -801,24 +580,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CF_476B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_476B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_476B_dp" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_476B_dp.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="CF_478A" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_478A.task</taskConf>
       <RunnerSettings RunnerId="Debug">
@@ -843,68 +604,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CF_501B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_501B.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="CF_514A" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_514A.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_514B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_514B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_514C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_514C.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_515C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_515C.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_519B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_519B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_527B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_527B.task</taskConf>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -927,44 +628,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Candies" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Candies.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChangeBase" type="Task" factoryName="Task">
-      <taskConf>src/workspace/ChangeBase.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="CountingSort" type="Task" factoryName="Task">
       <taskConf>src/workspace/CountingSort.task</taskConf>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CuttingStick" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CuttingStick.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="DFS" type="Task" factoryName="Task">
-      <taskConf>src/workspace/DFS.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -972,42 +643,6 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DivisibleBy7" type="Task" factoryName="Task">
-      <taskConf>src/workspace/DivisibleBy7.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="EditDistance" type="Task" factoryName="Task">
-      <taskConf>src/workspace/EditDistance.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="EulerPhi" type="Task" factoryName="Task">
-      <taskConf>src/workspace/EulerPhi.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ExponentBySquaring" type="Task" factoryName="Task">
-      <taskConf>src/workspace/ExponentBySquaring.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1018,18 +653,6 @@
     <configuration default="false" name="ExtendedEuclid2" type="Task" factoryName="Task">
       <taskConf>src/workspace/ExtendedEuclid2.task</taskConf>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FastGCDOfSequence" type="Task" factoryName="Task">
-      <taskConf>src/workspace/FastGCDOfSequence.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1045,111 +668,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FightTheMonster" type="Task" factoryName="Task">
-      <taskConf>src/workspace/FightTheMonster.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="GenericMax" type="Task" factoryName="Task">
-      <taskConf>src/workspace/GenericMax.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="GigaTower" type="Task" factoryName="Task">
       <taskConf>src/workspace/GigaTower.task</taskConf>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="GreatestCommonDivisor" type="Task" factoryName="Task">
-      <taskConf>src/workspace/GreatestCommonDivisor.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Hackerrank_GemStones" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Hackerrank_GemStones.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="HashSet_custom" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HashSet_custom.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Heap" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Heap.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="HowDoYouAdd" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HowDoYouAdd.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="InsertionSort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/InsertionSort.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="IsPowerOf2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/IsPowerOf2.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="KnuthMorrisPratt" type="Task" factoryName="Task">
-      <taskConf>src/workspace/KnuthMorrisPratt.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LCA_in_BinaryTree" type="Task" factoryName="Task">
-      <taskConf>src/workspace/LCA_in_BinaryTree.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LegoBlocks" type="Task" factoryName="Task">
-      <taskConf>src/workspace/LegoBlocks.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1177,62 +698,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LowerUpper" type="Task" factoryName="Task">
-      <taskConf>src/workspace/LowerUpper.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MBLAST" type="Task" factoryName="Task">
-      <taskConf>src/workspace/MBLAST.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MajorityElement" type="Task" factoryName="Task">
-      <taskConf>src/workspace/MajorityElement.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MatrixMultiplication" type="Task" factoryName="Task">
-      <taskConf>src/workspace/MatrixMultiplication.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="MaxAndMin" type="Task" factoryName="Task">
       <taskConf>src/workspace/MaxAndMin.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MaxSumMatrix" type="Task" factoryName="Task">
-      <taskConf>src/workspace/MaxSumMatrix.task</taskConf>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1255,12 +722,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="MergeSort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/MergeSort.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="MultiplicativeOrder" type="Task" factoryName="Task">
       <taskConf>src/workspace/MultiplicativeOrder.task</taskConf>
       <RunnerSettings RunnerId="Debug">
@@ -1273,56 +734,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="NextSmallestPalindrome" type="Task" factoryName="Task">
-      <taskConf>src/workspace/NextSmallestPalindrome.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="PairOfAGivenSum" type="Task" factoryName="Task">
-      <taskConf>src/workspace/PairOfAGivenSum.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Permutation" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Permutation.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="PlayWithWords" type="Task" factoryName="Task">
       <taskConf>src/workspace/PlayWithWords.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PowerOf2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/PowerOf2.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PrimeFactors" type="Task" factoryName="Task">
-      <taskConf>src/workspace/PrimeFactors.task</taskConf>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1339,255 +758,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="QuickSort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/QuickSort.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RadixSort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/RadixSort.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RecoverBinaryTree" type="Task" factoryName="Task">
-      <taskConf>src/workspace/RecoverBinaryTree.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RedJohnIsBack" type="Task" factoryName="Task">
-      <taskConf>src/workspace/RedJohnIsBack.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="RodCutting" type="Task" factoryName="Task">
-      <taskConf>src/workspace/RodCutting.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_1021_AIBOHP" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_1021_AIBOHP.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_2416_DSUBSEQ" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_2416_DSUBSEQ.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_3033_SOLDIER" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_3033_SOLDIER.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_33_TRIP" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_33_TRIP.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_5449_ANARC09A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_5449_ANARC09A.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_63_SQRBR" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_63_SQRBR.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_7676_CPCRC1C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_7676_CPCRC1C.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_8611_NY10E" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_8611_NY10E.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_ANARC05B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_ANARC05B.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_ANARC05H" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_ANARC05H.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="SPOJ_ASSIGN" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_ASSIGN.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_BMJ" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_BMJ.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_DANGER" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_DANGER.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_DIEHARD" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_DIEHARD.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_EDIST" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_EDIST.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_FCTRL2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_FCTRL2.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_FIBSUM" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_FIBSUM.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_FISHER" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_FISHER.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_GNYR09F" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_GNYR09F.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_HASHIT" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_HASHIT.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1597,38 +776,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SPOJ_KNAPSACK" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_KNAPSACK.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_M3TILE" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_M3TILE.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="SPOJ_MBEEWALK" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_MBEEWALK.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_MMAXPER" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_MMAXPER.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1651,102 +800,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SPOJ_ONP" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_ONP.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_PALIN" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_PALIN.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_POUR1" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_POUR1.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_PRIME1" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_PRIME1.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_ROCK" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_ROCK.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_SAMER08F" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_SAMER08F.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_SBANK" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_SBANK.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_TEST" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_TEST.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_TETRA" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_TETRA.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_TWENDS" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_TWENDS.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SPOJ_WORDS1" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SPOJ_WORDS1.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="SamAndSubstring" type="Task" factoryName="Task">
       <taskConf>src/workspace/SamAndSubstring.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SearchOnRotatedSortedArray" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SearchOnRotatedSortedArray.task</taskConf>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1769,36 +824,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SegmentTree" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SegmentTree.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SelectionShort" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SelectionShort.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Sieve2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Sieve2.task</taskConf>
-      <method />
-    </configuration>
     <configuration default="false" name="SplayTree" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SplayTree.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="StockMax" type="Task" factoryName="Task">
-      <taskConf>src/workspace/StockMax.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1815,84 +842,12 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Subsets" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Subsets.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SuffixArray" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SuffixArray.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TeamOlympiad" type="Task" factoryName="Task">
-      <taskConf>src/workspace/TeamOlympiad.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="TestError" type="Task" factoryName="Task">
       <taskConf>src/workspace/TestError.task</taskConf>
       <method />
     </configuration>
-    <configuration default="false" name="TowerOfHanoi" type="Task" factoryName="Task">
-      <taskConf>src/workspace/TowerOfHanoi.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Trie" type="Task" factoryName="Task">
-      <taskConf>src/workspace/Trie.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UnimodalSearch" type="Task" factoryName="Task">
-      <taskConf>src/workspace/UnimodalSearch.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="VanyaAndCubes" type="Task" factoryName="Task">
       <taskConf>src/workspace/VanyaAndCubes.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="VerticalSticks" type="Task" factoryName="Task">
-      <taskConf>src/workspace/VerticalSticks.task</taskConf>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1915,92 +870,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="test2" type="Task" factoryName="Task">
-      <taskConf>src/workspace/test2.task</taskConf>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="test_input" type="Task" factoryName="Task">
-      <taskConf>src/workspace/test_input.task</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_project" type="Task" factoryName="Task">
-      <taskConf>src/workspace/test_project.task</taskConf>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_244A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_244A.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_157B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_157B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_218B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_218B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_282C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_282C.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_6C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_6C.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_443B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_443B.task</taskConf>
       <method />
     </configuration>
     <configuration default="false" name="CF_182B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_182B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_490C" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_490C.task</taskConf>
+      <taskConf />
       <method />
     </configuration>
     <configuration default="false" name="CF_248B" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_248B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="HKR_TheBlacklist" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HKR_TheBlacklist.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="QuickSelect" type="Task" factoryName="Task">
-      <taskConf>src/workspace/QuickSelect.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_540B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_540B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="HKR_SupermanCelebratesDiwali" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HKR_SupermanCelebratesDiwali.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_234B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_234B.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_339D" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_339D.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="HKR_euler77" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HKR_euler77.task</taskConf>
       <method />
     </configuration>
     <configuration default="false" name="CF_13A" type="Task" factoryName="Task">
@@ -2008,238 +889,180 @@
       <method />
     </configuration>
     <configuration default="false" name="HKR_euler76" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HKR_euler76.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_376B" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_376B.task</taskConf>
+      <taskConf />
       <method />
     </configuration>
     <configuration default="false" name="CF_66A" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_66A.task</taskConf>
       <method />
     </configuration>
-    <configuration default="false" name="CF_493D" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_493D.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_546D" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_546D.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_546D_faster_input" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_546D_faster_input.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="CF_7A" type="Task" factoryName="Task">
-      <taskConf>src/workspace/CF_7A.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="FastPerfectSquareCheck" type="Task" factoryName="Task">
-      <taskConf>src/workspace/FastPerfectSquareCheck.task</taskConf>
-      <method />
-    </configuration>
-    <configuration default="false" name="HKR_SubstringDiff" type="Task" factoryName="Task">
-      <taskConf>src/workspace/HKR_SubstringDiff.task</taskConf>
-      <method />
-    </configuration>
     <configuration default="false" name="SlidingWindow" type="Task" factoryName="Task">
-      <taskConf>src/workspace/SlidingWindow.task</taskConf>
+      <taskConf />
       <method />
     </configuration>
     <configuration default="false" name="CF_425A" type="Task" factoryName="Task">
       <taskConf>src/workspace/CF_425A.task</taskConf>
       <method />
     </configuration>
-    <list size="188">
-      <item index="0" class="java.lang.String" itemvalue="Task.AMultiplicativeGame" />
-      <item index="1" class="java.lang.String" itemvalue="Task.ASCII_and_Integer" />
-      <item index="2" class="java.lang.String" itemvalue="Task.AnagramStrings" />
-      <item index="3" class="java.lang.String" itemvalue="Task.Arithmetic_Operation" />
-      <item index="4" class="java.lang.String" itemvalue="Task.ArrayCircularShift" />
-      <item index="5" class="java.lang.String" itemvalue="Task.BFS" />
-      <item index="6" class="java.lang.String" itemvalue="Task.BalanceBrackets" />
-      <item index="7" class="java.lang.String" itemvalue="Task.BellmanFord" />
-      <item index="8" class="java.lang.String" itemvalue="Task.BinarySearch2" />
-      <item index="9" class="java.lang.String" itemvalue="Task.Bitwise_absolute" />
-      <item index="10" class="java.lang.String" itemvalue="Task.BracketsWithDepth" />
-      <item index="11" class="java.lang.String" itemvalue="Task.BubbleSort" />
-      <item index="12" class="java.lang.String" itemvalue="Task.CF_189A" />
-      <item index="13" class="java.lang.String" itemvalue="Task.CF_221A" />
-      <item index="14" class="java.lang.String" itemvalue="Task.CF_225C" />
-      <item index="15" class="java.lang.String" itemvalue="Task.CF_278A" />
-      <item index="16" class="java.lang.String" itemvalue="Task.CF_285C" />
-      <item index="17" class="java.lang.String" itemvalue="Task.CF_294B" />
-      <item index="18" class="java.lang.String" itemvalue="Task.CF_389B" />
-      <item index="19" class="java.lang.String" itemvalue="Task.CF_431A" />
-      <item index="20" class="java.lang.String" itemvalue="Task.CF_431B" />
-      <item index="21" class="java.lang.String" itemvalue="Task.CF_431C" />
-      <item index="22" class="java.lang.String" itemvalue="Task.CF_431D" />
-      <item index="23" class="java.lang.String" itemvalue="Task.CF_455A" />
-      <item index="24" class="java.lang.String" itemvalue="Task.CF_463B" />
-      <item index="25" class="java.lang.String" itemvalue="Task.CF_465B" />
-      <item index="26" class="java.lang.String" itemvalue="Task.CF_465C" />
-      <item index="27" class="java.lang.String" itemvalue="Task.CF_466A" />
-      <item index="28" class="java.lang.String" itemvalue="Task.CF_466B" />
-      <item index="29" class="java.lang.String" itemvalue="Task.CF_467A" />
-      <item index="30" class="java.lang.String" itemvalue="Task.CF_467B" />
-      <item index="31" class="java.lang.String" itemvalue="Task.CF_467C" />
-      <item index="32" class="java.lang.String" itemvalue="Task.CF_469A" />
-      <item index="33" class="java.lang.String" itemvalue="Task.CF_469B" />
-      <item index="34" class="java.lang.String" itemvalue="Task.CF_469C" />
-      <item index="35" class="java.lang.String" itemvalue="Task.CF_471A" />
-      <item index="36" class="java.lang.String" itemvalue="Task.CF_474B" />
-      <item index="37" class="java.lang.String" itemvalue="Task.CF_476A" />
-      <item index="38" class="java.lang.String" itemvalue="Task.CF_476B" />
-      <item index="39" class="java.lang.String" itemvalue="Task.CF_476B_dp" />
-      <item index="40" class="java.lang.String" itemvalue="Task.CF_478A" />
-      <item index="41" class="java.lang.String" itemvalue="Task.CF_478B" />
-      <item index="42" class="java.lang.String" itemvalue="Task.CF_501A" />
-      <item index="43" class="java.lang.String" itemvalue="Task.CF_501B" />
-      <item index="44" class="java.lang.String" itemvalue="Task.CF_514A" />
-      <item index="45" class="java.lang.String" itemvalue="Task.CF_514B" />
-      <item index="46" class="java.lang.String" itemvalue="Task.CF_514C" />
-      <item index="47" class="java.lang.String" itemvalue="Task.CF_515C" />
-      <item index="48" class="java.lang.String" itemvalue="Task.CF_519B" />
-      <item index="49" class="java.lang.String" itemvalue="Task.CF_527B" />
-      <item index="50" class="java.lang.String" itemvalue="Task.CF_PlayingWithPaper" />
-      <item index="51" class="java.lang.String" itemvalue="Task.Candies" />
-      <item index="52" class="java.lang.String" itemvalue="Task.ChangeBase" />
-      <item index="53" class="java.lang.String" itemvalue="Task.CountingSort" />
-      <item index="54" class="java.lang.String" itemvalue="Task.CuttingStick" />
-      <item index="55" class="java.lang.String" itemvalue="Task.DFS" />
-      <item index="56" class="java.lang.String" itemvalue="Task.DivisibleBy7" />
-      <item index="57" class="java.lang.String" itemvalue="Task.EditDistance" />
-      <item index="58" class="java.lang.String" itemvalue="Task.EulerPhi" />
-      <item index="59" class="java.lang.String" itemvalue="Task.ExponentBySquaring" />
-      <item index="60" class="java.lang.String" itemvalue="Task.ExtendedEuclid" />
-      <item index="61" class="java.lang.String" itemvalue="Task.ExtendedEuclid2" />
-      <item index="62" class="java.lang.String" itemvalue="Task.FastGCDOfSequence" />
-      <item index="63" class="java.lang.String" itemvalue="Task.Fast_case_change" />
-      <item index="64" class="java.lang.String" itemvalue="Task.FibonacciModified" />
-      <item index="65" class="java.lang.String" itemvalue="Task.FightTheMonster" />
-      <item index="66" class="java.lang.String" itemvalue="Task.GenericMax" />
-      <item index="67" class="java.lang.String" itemvalue="Task.GigaTower" />
-      <item index="68" class="java.lang.String" itemvalue="Task.GreatestCommonDivisor" />
-      <item index="69" class="java.lang.String" itemvalue="Task.Hackerrank_GemStones" />
-      <item index="70" class="java.lang.String" itemvalue="Task.HashSet_custom" />
-      <item index="71" class="java.lang.String" itemvalue="Task.Heap" />
-      <item index="72" class="java.lang.String" itemvalue="Task.HowDoYouAdd" />
-      <item index="73" class="java.lang.String" itemvalue="Task.InsertionSort" />
-      <item index="74" class="java.lang.String" itemvalue="Task.IsPowerOf2" />
-      <item index="75" class="java.lang.String" itemvalue="Task.KnuthMorrisPratt" />
-      <item index="76" class="java.lang.String" itemvalue="Task.LCA_in_BinaryTree" />
-      <item index="77" class="java.lang.String" itemvalue="Task.LegoBlocks" />
-      <item index="78" class="java.lang.String" itemvalue="Task.LinearDiophantine" />
-      <item index="79" class="java.lang.String" itemvalue="Task.LongestPalindrome" />
-      <item index="80" class="java.lang.String" itemvalue="Task.LowerUpper" />
-      <item index="81" class="java.lang.String" itemvalue="Task.MBLAST" />
-      <item index="82" class="java.lang.String" itemvalue="Task.MajorityElement" />
-      <item index="83" class="java.lang.String" itemvalue="Task.MatrixMultiplication" />
-      <item index="84" class="java.lang.String" itemvalue="Task.MaxAndMin" />
-      <item index="85" class="java.lang.String" itemvalue="Task.MaxSumMatrix" />
-      <item index="86" class="java.lang.String" itemvalue="Task.MaximumSubarray" />
-      <item index="87" class="java.lang.String" itemvalue="Task.MergeSort" />
-      <item index="88" class="java.lang.String" itemvalue="Task.MultiplicativeOrder" />
-      <item index="89" class="java.lang.String" itemvalue="Task.NextSmallestPalindrome" />
-      <item index="90" class="java.lang.String" itemvalue="Task.PairOfAGivenSum" />
-      <item index="91" class="java.lang.String" itemvalue="Task.Permutation" />
-      <item index="92" class="java.lang.String" itemvalue="Task.PlayWithWords" />
-      <item index="93" class="java.lang.String" itemvalue="Task.PowerOf2" />
-      <item index="94" class="java.lang.String" itemvalue="Task.PrimeFactors" />
-      <item index="95" class="java.lang.String" itemvalue="Task.QuadraticCongruence" />
-      <item index="96" class="java.lang.String" itemvalue="Task.QuickSort" />
-      <item index="97" class="java.lang.String" itemvalue="Task.RadixSort" />
-      <item index="98" class="java.lang.String" itemvalue="Task.RecoverBinaryTree" />
-      <item index="99" class="java.lang.String" itemvalue="Task.RedJohnIsBack" />
-      <item index="100" class="java.lang.String" itemvalue="Task.RodCutting" />
-      <item index="101" class="java.lang.String" itemvalue="Task.SPOJ_1021_AIBOHP" />
-      <item index="102" class="java.lang.String" itemvalue="Task.SPOJ_2416_DSUBSEQ" />
-      <item index="103" class="java.lang.String" itemvalue="Task.SPOJ_3033_SOLDIER" />
-      <item index="104" class="java.lang.String" itemvalue="Task.SPOJ_33_TRIP" />
-      <item index="105" class="java.lang.String" itemvalue="Task.SPOJ_5449_ANARC09A" />
-      <item index="106" class="java.lang.String" itemvalue="Task.SPOJ_63_SQRBR" />
-      <item index="107" class="java.lang.String" itemvalue="Task.SPOJ_7676_CPCRC1C" />
-      <item index="108" class="java.lang.String" itemvalue="Task.SPOJ_8611_NY10E" />
-      <item index="109" class="java.lang.String" itemvalue="Task.SPOJ_ANARC05B" />
-      <item index="110" class="java.lang.String" itemvalue="Task.SPOJ_ANARC05H" />
-      <item index="111" class="java.lang.String" itemvalue="Task.SPOJ_ASSIGN" />
-      <item index="112" class="java.lang.String" itemvalue="Task.SPOJ_BMJ" />
-      <item index="113" class="java.lang.String" itemvalue="Task.SPOJ_DANGER" />
-      <item index="114" class="java.lang.String" itemvalue="Task.SPOJ_DIEHARD" />
-      <item index="115" class="java.lang.String" itemvalue="Task.SPOJ_EDIST" />
-      <item index="116" class="java.lang.String" itemvalue="Task.SPOJ_FCTRL2" />
-      <item index="117" class="java.lang.String" itemvalue="Task.SPOJ_FIBSUM" />
-      <item index="118" class="java.lang.String" itemvalue="Task.SPOJ_FISHER" />
-      <item index="119" class="java.lang.String" itemvalue="Task.SPOJ_GNYR09F" />
-      <item index="120" class="java.lang.String" itemvalue="Task.SPOJ_HASHIT" />
-      <item index="121" class="java.lang.String" itemvalue="Task.SPOJ_IWGBS" />
-      <item index="122" class="java.lang.String" itemvalue="Task.SPOJ_KNAPSACK" />
-      <item index="123" class="java.lang.String" itemvalue="Task.SPOJ_M3TILE" />
-      <item index="124" class="java.lang.String" itemvalue="Task.SPOJ_MBEEWALK" />
-      <item index="125" class="java.lang.String" itemvalue="Task.SPOJ_MMAXPER" />
-      <item index="126" class="java.lang.String" itemvalue="Task.SPOJ_NHAY" />
-      <item index="127" class="java.lang.String" itemvalue="Task.SPOJ_ONP" />
-      <item index="128" class="java.lang.String" itemvalue="Task.SPOJ_PALIN" />
-      <item index="129" class="java.lang.String" itemvalue="Task.SPOJ_POUR1" />
-      <item index="130" class="java.lang.String" itemvalue="Task.SPOJ_PRIME1" />
-      <item index="131" class="java.lang.String" itemvalue="Task.SPOJ_ROCK" />
-      <item index="132" class="java.lang.String" itemvalue="Task.SPOJ_SAMER08F" />
-      <item index="133" class="java.lang.String" itemvalue="Task.SPOJ_SBANK" />
-      <item index="134" class="java.lang.String" itemvalue="Task.SPOJ_TEST" />
-      <item index="135" class="java.lang.String" itemvalue="Task.SPOJ_TETRA" />
-      <item index="136" class="java.lang.String" itemvalue="Task.SPOJ_TWENDS" />
-      <item index="137" class="java.lang.String" itemvalue="Task.SPOJ_WORDS1" />
-      <item index="138" class="java.lang.String" itemvalue="Task.SamAndSubstring" />
-      <item index="139" class="java.lang.String" itemvalue="Task.SearchOnRotatedSortedArray" />
-      <item index="140" class="java.lang.String" itemvalue="Task.SearchingInBST" />
-      <item index="141" class="java.lang.String" itemvalue="Task.SegmentTree" />
-      <item index="142" class="java.lang.String" itemvalue="Task.SelectionShort" />
-      <item index="143" class="java.lang.String" itemvalue="Task.Sieve2" />
-      <item index="144" class="java.lang.String" itemvalue="Task.SplayTree" />
-      <item index="145" class="java.lang.String" itemvalue="Task.StockMax" />
-      <item index="146" class="java.lang.String" itemvalue="Task.String_inplace_operations" />
-      <item index="147" class="java.lang.String" itemvalue="Task.Subsets" />
-      <item index="148" class="java.lang.String" itemvalue="Task.SuffixArray" />
-      <item index="149" class="java.lang.String" itemvalue="Task.TeamOlympiad" />
-      <item index="150" class="java.lang.String" itemvalue="Task.TestError" />
-      <item index="151" class="java.lang.String" itemvalue="Task.TowerOfHanoi" />
-      <item index="152" class="java.lang.String" itemvalue="Task.Trie" />
-      <item index="153" class="java.lang.String" itemvalue="Task.UnimodalSearch" />
-      <item index="154" class="java.lang.String" itemvalue="Task.VanyaAndCubes" />
-      <item index="155" class="java.lang.String" itemvalue="Task.VerticalSticks" />
-      <item index="156" class="java.lang.String" itemvalue="Task.WhatGoesUp" />
-      <item index="157" class="java.lang.String" itemvalue="Task.test2" />
-      <item index="158" class="java.lang.String" itemvalue="Task.test_input" />
-      <item index="159" class="java.lang.String" itemvalue="Task.test_project" />
-      <item index="160" class="java.lang.String" itemvalue="Task.CF_244A" />
-      <item index="161" class="java.lang.String" itemvalue="Task.CF_157B" />
-      <item index="162" class="java.lang.String" itemvalue="Task.CF_218B" />
-      <item index="163" class="java.lang.String" itemvalue="Task.CF_282C" />
-      <item index="164" class="java.lang.String" itemvalue="Task.CF_6C" />
-      <item index="165" class="java.lang.String" itemvalue="Task.CF_443B" />
-      <item index="166" class="java.lang.String" itemvalue="Task.CF_182B" />
-      <item index="167" class="java.lang.String" itemvalue="Task.CF_490C" />
-      <item index="168" class="java.lang.String" itemvalue="Task.CF_248B" />
-      <item index="169" class="java.lang.String" itemvalue="Task.HKR_TheBlacklist" />
-      <item index="170" class="java.lang.String" itemvalue="Task.QuickSelect" />
-      <item index="171" class="java.lang.String" itemvalue="Task.CF_540B" />
-      <item index="172" class="java.lang.String" itemvalue="Task.HKR_SupermanCelebratesDiwali" />
-      <item index="173" class="java.lang.String" itemvalue="Task.CF_234B" />
-      <item index="174" class="java.lang.String" itemvalue="Task.CF_339D" />
-      <item index="175" class="java.lang.String" itemvalue="Task.HKR_euler77" />
-      <item index="176" class="java.lang.String" itemvalue="Task.CF_13A" />
-      <item index="177" class="java.lang.String" itemvalue="Task.HKR_euler76" />
-      <item index="178" class="java.lang.String" itemvalue="Task.CF_376B" />
-      <item index="179" class="java.lang.String" itemvalue="Task.CF_66A" />
-      <item index="180" class="java.lang.String" itemvalue="Task.CF_493D" />
-      <item index="181" class="java.lang.String" itemvalue="Task.CF_546D" />
-      <item index="182" class="java.lang.String" itemvalue="Task.CF_546D_faster_input" />
-      <item index="183" class="java.lang.String" itemvalue="Task.CF_7A" />
-      <item index="184" class="java.lang.String" itemvalue="Task.FastPerfectSquareCheck" />
-      <item index="185" class="java.lang.String" itemvalue="Task.HKR_SubstringDiff" />
-      <item index="186" class="java.lang.String" itemvalue="Task.SlidingWindow" />
-      <item index="187" class="java.lang.String" itemvalue="Task.CF_425A" />
+    <configuration default="false" name="CF_354A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_354A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_313C" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_313C.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_121A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_121A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_303A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_303A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_229A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_229A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_151B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_151B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_9C" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_9C.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_68A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_68A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_437B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_437B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_185A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_185A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_12B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_12B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_407A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_407A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DigitSumFrom1ToN" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DigitSumFrom1ToN.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_519D" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_519D.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DynamicLengthStringHash" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DynamicLengthStringHash.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MaxDifference" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MaxDifference.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="KnuthMorrisPrath2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/KnuthMorrisPrath2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_327B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_327B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_448D" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_448D.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_180A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_180A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_56A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_56A.task</taskConf>
+      <method />
+    </configuration>
+    <list size="74">
+      <item index="0" class="java.lang.String" itemvalue="Task.ASCII_and_Integer" />
+      <item index="1" class="java.lang.String" itemvalue="Task.BFS" />
+      <item index="2" class="java.lang.String" itemvalue="Task.BinarySearch2" />
+      <item index="3" class="java.lang.String" itemvalue="Task.BracketsWithDepth" />
+      <item index="4" class="java.lang.String" itemvalue="Task.CF_189A" />
+      <item index="5" class="java.lang.String" itemvalue="Task.CF_221A" />
+      <item index="6" class="java.lang.String" itemvalue="Task.CF_294B" />
+      <item index="7" class="java.lang.String" itemvalue="Task.CF_431C" />
+      <item index="8" class="java.lang.String" itemvalue="Task.CF_431D" />
+      <item index="9" class="java.lang.String" itemvalue="Task.CF_466A" />
+      <item index="10" class="java.lang.String" itemvalue="Task.CF_471A" />
+      <item index="11" class="java.lang.String" itemvalue="Task.CF_474B" />
+      <item index="12" class="java.lang.String" itemvalue="Task.CF_476A" />
+      <item index="13" class="java.lang.String" itemvalue="Task.CF_478A" />
+      <item index="14" class="java.lang.String" itemvalue="Task.CF_478B" />
+      <item index="15" class="java.lang.String" itemvalue="Task.CF_501A" />
+      <item index="16" class="java.lang.String" itemvalue="Task.CF_514A" />
+      <item index="17" class="java.lang.String" itemvalue="Task.CF_PlayingWithPaper" />
+      <item index="18" class="java.lang.String" itemvalue="Task.CountingSort" />
+      <item index="19" class="java.lang.String" itemvalue="Task.DFS" />
+      <item index="20" class="java.lang.String" itemvalue="Task.ExtendedEuclid" />
+      <item index="21" class="java.lang.String" itemvalue="Task.ExtendedEuclid2" />
+      <item index="22" class="java.lang.String" itemvalue="Task.Fast_case_change" />
+      <item index="23" class="java.lang.String" itemvalue="Task.FibonacciModified" />
+      <item index="24" class="java.lang.String" itemvalue="Task.GigaTower" />
+      <item index="25" class="java.lang.String" itemvalue="Task.LinearDiophantine" />
+      <item index="26" class="java.lang.String" itemvalue="Task.LongestPalindrome" />
+      <item index="27" class="java.lang.String" itemvalue="Task.MaxAndMin" />
+      <item index="28" class="java.lang.String" itemvalue="Task.MaximumSubarray" />
+      <item index="29" class="java.lang.String" itemvalue="Task.MultiplicativeOrder" />
+      <item index="30" class="java.lang.String" itemvalue="Task.PairOfAGivenSum" />
+      <item index="31" class="java.lang.String" itemvalue="Task.PlayWithWords" />
+      <item index="32" class="java.lang.String" itemvalue="Task.QuadraticCongruence" />
+      <item index="33" class="java.lang.String" itemvalue="Task.RodCutting" />
+      <item index="34" class="java.lang.String" itemvalue="Task.SPOJ_ASSIGN" />
+      <item index="35" class="java.lang.String" itemvalue="Task.SPOJ_IWGBS" />
+      <item index="36" class="java.lang.String" itemvalue="Task.SPOJ_MBEEWALK" />
+      <item index="37" class="java.lang.String" itemvalue="Task.SPOJ_NHAY" />
+      <item index="38" class="java.lang.String" itemvalue="Task.SamAndSubstring" />
+      <item index="39" class="java.lang.String" itemvalue="Task.SearchingInBST" />
+      <item index="40" class="java.lang.String" itemvalue="Task.SplayTree" />
+      <item index="41" class="java.lang.String" itemvalue="Task.String_inplace_operations" />
+      <item index="42" class="java.lang.String" itemvalue="Task.TestError" />
+      <item index="43" class="java.lang.String" itemvalue="Task.VanyaAndCubes" />
+      <item index="44" class="java.lang.String" itemvalue="Task.WhatGoesUp" />
+      <item index="45" class="java.lang.String" itemvalue="Task.test_input" />
+      <item index="46" class="java.lang.String" itemvalue="Task.CF_182B" />
+      <item index="47" class="java.lang.String" itemvalue="Task.CF_248B" />
+      <item index="48" class="java.lang.String" itemvalue="Task.CF_13A" />
+      <item index="49" class="java.lang.String" itemvalue="Task.HKR_euler76" />
+      <item index="50" class="java.lang.String" itemvalue="Task.CF_66A" />
+      <item index="51" class="java.lang.String" itemvalue="Task.SlidingWindow" />
+      <item index="52" class="java.lang.String" itemvalue="Task.CF_425A" />
+      <item index="53" class="java.lang.String" itemvalue="Task.CF_354A" />
+      <item index="54" class="java.lang.String" itemvalue="Task.CF_313C" />
+      <item index="55" class="java.lang.String" itemvalue="Task.CF_121A" />
+      <item index="56" class="java.lang.String" itemvalue="Task.CF_303A" />
+      <item index="57" class="java.lang.String" itemvalue="Task.CF_229A" />
+      <item index="58" class="java.lang.String" itemvalue="Task.CF_151B" />
+      <item index="59" class="java.lang.String" itemvalue="Task.CF_9C" />
+      <item index="60" class="java.lang.String" itemvalue="Task.CF_68A" />
+      <item index="61" class="java.lang.String" itemvalue="Task.CF_437B" />
+      <item index="62" class="java.lang.String" itemvalue="Task.CF_185A" />
+      <item index="63" class="java.lang.String" itemvalue="Task.CF_12B" />
+      <item index="64" class="java.lang.String" itemvalue="Task.CF_407A" />
+      <item index="65" class="java.lang.String" itemvalue="Task.DigitSumFrom1ToN" />
+      <item index="66" class="java.lang.String" itemvalue="Task.CF_519D" />
+      <item index="67" class="java.lang.String" itemvalue="Task.DynamicLengthStringHash" />
+      <item index="68" class="java.lang.String" itemvalue="Task.MaxDifference" />
+      <item index="69" class="java.lang.String" itemvalue="Task.KnuthMorrisPrath2" />
+      <item index="70" class="java.lang.String" itemvalue="Task.CF_327B" />
+      <item index="71" class="java.lang.String" itemvalue="Task.CF_448D" />
+      <item index="72" class="java.lang.String" itemvalue="Task.CF_180A" />
+      <item index="73" class="java.lang.String" itemvalue="Task.CF_56A" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -2277,8 +1100,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
@@ -2289,8 +1112,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32488114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2299,12 +1121,13 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40231788" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37802908" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3178808" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32471728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40562913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32148626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2357,18 +1180,21 @@
           <properties />
           <option name="timeStamp" value="242" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workspace/CF_437B.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="417" />
+      <option name="time" value="450" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Task">
-        <watch expression="cul[3000000]" language="JAVA" custom="" />
-        <watch expression="cul[4000000]" language="JAVA" custom="" />
-        <watch expression="cul[4200000]" language="JAVA" custom="" />
-        <watch expression="cul[4999999]" language="JAVA" custom="" />
+        <watch expression="a.peekFirst()" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -2377,223 +1203,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_527B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_467C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58219177">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_469C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21367522">
-          <caret line="19" column="32" selection-start-line="17" selection-start-column="27" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_467A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46495727">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_225C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_469B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_514A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_478B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_294B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_278A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_519B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_463B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_515C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_221A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_471A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_285C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_389B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_244A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_157B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_218B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_282C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_6C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_443B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_182B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33164558">
-          <caret line="861" column="0" selection-start-line="861" selection-start-column="0" selection-end-line="861" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_248B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_TheBlacklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="49" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_540B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_SupermanCelebratesDiwali.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/CF_490C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2647,7 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2655,14 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3806818">
-          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2670,7 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="5" selection-start-line="43" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2678,7 +1277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2686,14 +1284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="646" column="0" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2704,29 +1294,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35355285">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/SlidingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
-          <folding>
-            <element signature="method#log_time#0;class#SlidingWindow#0" expanded="false" />
-            <element signature="method#log_time2#0;class#SlidingWindow#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2734,14 +1305,267 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42009884">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/CF_425A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5303293">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.1878089">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32784185">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.26">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_313C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_354A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_121A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_303A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_229A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_151B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_9C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_68A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_437B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/PowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23224044">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_185A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_407A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56852794">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_12B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/DigitSumFrom1ToN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_519D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/DynamicLengthStringHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPratt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36060607">
+          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MultiplicativeOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_327B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="55" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_448D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_56A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7123519">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_180A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BinarySearch2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/LowerUpper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SearchOnRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6721582">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding />
         </state>
       </provider>

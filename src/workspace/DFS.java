@@ -138,7 +138,7 @@ public class DFS {
                     return false;
             }
             else if(adj[v][i] == 1 && v != i && colors.get(i) == colors.get(v))
-                return false;
+                return false; // odd circle, cannot use 2 colors
         }
         return true;
     }
