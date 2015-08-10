@@ -1,0 +1,36 @@
+17 KnuthMorrisPrath2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 abcabd
+-1
+0
+1
+25 bacbababaabcbab
+abababca
+
+-1
+0
+2
+16 cabababac
+ababac
+1 3
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+27 workspace.KnuthMorrisPrath2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.07.29
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

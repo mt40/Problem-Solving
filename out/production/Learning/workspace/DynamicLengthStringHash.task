@@ -1,0 +1,26 @@
+23 DynamicLengthStringHash
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+30 12
+bat_dong_san_com_vn_6849493
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+33 workspace.DynamicLengthStringHash
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.07.16
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

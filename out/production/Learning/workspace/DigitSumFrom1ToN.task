@@ -1,0 +1,33 @@
+16 DigitSumFrom1ToN
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+1 5
+2 15
+1
+1
+2 12
+2 51
+1
+2
+3 328
+4 3241
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.DigitSumFrom1ToN
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.07.07
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,31 @@
+7 CF_354A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+18 3 4 4 19 1
+42 3 99
+3 576
+1
+1
+17 4 7 2 3 9
+1 2 3 4
+2 34
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_354A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.19
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
