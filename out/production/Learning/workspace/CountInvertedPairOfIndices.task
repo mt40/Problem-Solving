@@ -1,0 +1,30 @@
+26 CountInvertedPairOfIndices
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+37 2
+4
+1 4 3 2
+10
+8 1 0 9 5 2 2 10 15 20
+4 3
+11
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+36 workspace.CountInvertedPairOfIndices
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

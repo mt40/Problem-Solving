@@ -1,0 +1,31 @@
+16 DividingTheSpoil
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+60 16
+65 35 245 195 65 150 275 155 120 320 75 40 200 100 220 99
+9 1179 1180
+1
+1
+11 5
+5 1 2 4 6
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.DividingTheSpoil
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.08.29
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

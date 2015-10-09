@@ -1,0 +1,26 @@
+17 DutchNationalFlag
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+28 10 3
+7 20 1 5 9 3 10 6 5 999
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+27 workspace.DutchNationalFlag
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.03
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

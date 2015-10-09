@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87707281-7ec6-4764-906d-58738818a3dc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/BinarySearch2.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/BinarySearch2.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/BinarySearch2.task" afterPath="$PROJECT_DIR$/src/workspace/BinarySearch2.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/FibonacciModified.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/FibonacciModified.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/FibonacciModified.task" afterPath="$PROJECT_DIR$/src/workspace/FibonacciModified.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java" afterPath="$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/MaximumSubarray.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/MaximumSubarray.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/MaximumSubarray.task" afterPath="$PROJECT_DIR$/src/workspace/MaximumSubarray.task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyTaskClass.template" afterPath="$PROJECT_DIR$/MyTaskClass.template" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learning.iws" />
@@ -24,48 +34,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="KnuthMorrisPrath2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CF_327B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_327B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CF_448D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_448D.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CF_180A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/CF_180A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/BFS.java">
+      <file leaf-file-name="LongestIncreasingSubarray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/LongestIncreasingSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -74,51 +44,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/BinarySearch2.java">
+      <file leaf-file-name="StackSorting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/StackSorting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LowerUpper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/LowerUpper.java">
+      <file leaf-file-name="InfixToPostfix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/InfixToPostfix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchOnRotatedSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/SearchOnRotatedSortedArray.java">
+      <file leaf-file-name="sort_tmp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/sort_tmp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+              <folding>
+                <element signature="method#bubbleSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#insertionSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#selectionSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#quickSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#quickSort#1;class#sort_tmp#0" expanded="false" />
+                <element signature="method#countingSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#mergeSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#radixSort#0;class#sort_tmp#0" expanded="false" />
+                <element signature="method#radixSort#1;class#sort_tmp#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SkipListImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/SkipListImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="70" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/MajorityElement.java">
+      <file leaf-file-name="CF_584A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_584A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DigitSumFrom1ToN.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/workspace/DigitSumFrom1ToN.java">
+      <file leaf-file-name="CF_584B.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_584B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36408567">
-              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadixSort2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/RadixSort2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -137,57 +137,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/workspace/CF_244A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_157B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_218B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_282C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_6C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_443B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_182B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_490C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_248B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HKR_TheBlacklist.java" />
-        <option value="$PROJECT_DIR$/src/workspace/QuickSelect.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_540B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HKR_SupermanCelebratesDiwali.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_234B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_339D.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HKR_euler77.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_13A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HKR_euler76.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_376B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_66A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_493D.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_546D.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_546D_faster_input.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_7A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/FastPerfectSquareCheck.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SlidingWindow.java" />
-        <option value="$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_425A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_354A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_313C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_121A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_303A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_229A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_151B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_9C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_68A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_437B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_185A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_12B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_407A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_519D.java" />
-        <option value="$PROJECT_DIR$/src/workspace/DynamicLengthStringHash.java" />
-        <option value="$PROJECT_DIR$/src/workspace/MaxDifference.java" />
-        <option value="$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class" />
-        <option value="$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_327B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/DFS.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_448D.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_180A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_56A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/DigitSumFrom1ToN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/ScoreCombination.java" />
+        <option value="$PROJECT_DIR$/src/workspace/PlanningAFishingTrip.java" />
+        <option value="$PROJECT_DIR$/src/workspace/PickupCoinsGame.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SchedulingTutors.java" />
+        <option value="$PROJECT_DIR$/src/workspace/GraphRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/StringTransformToString.java" />
+        <option value="$PROJECT_DIR$/src/workspace/GraphIsBipartite.java" />
+        <option value="$PROJECT_DIR$/src/workspace/TaskSchedule.java" />
+        <option value="$PROJECT_DIR$/src/workspace/UnionFindAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/workspace/BellmanFort2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/PossibleElectionTie.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MinDifSubsets.java" />
+        <option value="$PROJECT_DIR$/src/workspace/PrettyPrinting.java" />
+        <option value="$PROJECT_DIR$/src/workspace/ExponentBySquaring2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MatrixMul2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MatrixPow.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SplayTree2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/Dijkstra_K_ShortestPath.java" />
+        <option value="$PROJECT_DIR$/src/workspace/DoublyLinkedListImplementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SplayTreeImplementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SkipListImplementation2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SkipListImplementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CycleDetect_TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/src/workspace/BIT_Implementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/ArrayListImplementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/FindDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/workspace/AVL_Implementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_580A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_580B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_580C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CapsAssignment.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MINK.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SwapOddEvenBits.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/workspace/EfficientGCD.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_KAGAIN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/LongestValidSubstring.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MaxSubarrayCircular.java" />
+        <option value="$PROJECT_DIR$/src/workspace/MaximumSubarrayNoAdjacent.java" />
+        <option value="$PROJECT_DIR$/src/workspace/IsomorphicStrings.java" />
+        <option value="$PROJECT_DIR$/src/workspace/KMP_temp.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SubsetSumToK.java" />
+        <option value="$PROJECT_DIR$/src/workspace/Dijkstras.java" />
+        <option value="$PROJECT_DIR$/src/workspace/Knapsack_revisit.java" />
+        <option value="$PROJECT_DIR$/src/workspace/LongestMaxSubarrayUpperbound.java" />
+        <option value="$PROJECT_DIR$/src/workspace/Fast_case_change.java" />
+        <option value="$PROJECT_DIR$/src/workspace/BinaryAddition.java" />
+        <option value="$PROJECT_DIR$/src/workspace/BigIntegerImplementation.java" />
+        <option value="$PROJECT_DIR$/src/workspace/BIT_2d.java" />
+        <option value="$PROJECT_DIR$/src/workspace/sort_tmp.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_584A.java" />
       </list>
     </option>
   </component>
@@ -202,10 +202,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="575" />
+    <option name="width" value="798" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -250,7 +249,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,6 +302,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +312,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyTaskClass.template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TaskClass.template" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
@@ -327,10 +326,10 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Task.DigitSumFrom1ToN">
+  <component name="RunManager" selected="Task.CF_584B">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -493,18 +492,6 @@
     <configuration default="false" name="BFS" type="Task" factoryName="Task">
       <taskConf>src/workspace/BFS.task</taskConf>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinarySearch2" type="Task" factoryName="Task">
-      <taskConf />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -990,81 +977,670 @@
       <taskConf>src/workspace/CF_56A.task</taskConf>
       <method />
     </configuration>
-    <list size="74">
+    <configuration default="false" name="CF_551B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_551B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_570A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_570A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PossibleElectionTie" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PossibleElectionTie.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="Knapsack_revisit" type="Task" factoryName="Task">
+      <taskConf>src/workspace/Knapsack_revisit.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DividingTheSpoil" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DividingTheSpoil.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_574A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_574A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_574C" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_574C.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SkipList" type="Task" factoryName="Task">
+      <taskConf />
+      <method />
+    </configuration>
+    <configuration default="false" name="SkipListImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SkipListImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SwapBit" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SwapBit.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseBit" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ReverseBit.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ClosestNumberWithEqual1s" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ClosestNumberWithEqual1s.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BaseConversion" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BaseConversion.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="IntersectRectangles" type="Task" factoryName="Task">
+      <taskConf>src/workspace/IntersectRectangles.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BitwiseMultiplication" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BitwiseMultiplication.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BitwiseAddition" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BitwiseAddition.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DutchNationalFlag" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DutchNationalFlag.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BitwiseSubtraction" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BitwiseSubtraction.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SubsetSumModN" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SubsetSumModN.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestIncreasingSubarray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LongestIncreasingSubarray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BigIntegerImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BigIntegerImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="NextPermutation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/NextPermutation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ArrayRotation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ArrayRotation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="KMP" type="Task" factoryName="Task">
+      <taskConf>src/workspace/KMP.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LinkedListImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LinkedListImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="InfixToPostfix" type="Task" factoryName="Task">
+      <taskConf>src/workspace/InfixToPostfix.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PostfixToInfix" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PostfixToInfix.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PostfixEvaluation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PostfixEvaluation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="StackSorting" type="Task" factoryName="Task">
+      <taskConf>src/workspace/StackSorting.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreeImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinaryTreeImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreeReconstruction" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinaryTreeReconstruction.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreeReconstruction2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinaryTreeReconstruction2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="TrieImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/TrieImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="HeapImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/HeapImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="StackUsingHeap" type="Task" factoryName="Task">
+      <taskConf>src/workspace/StackUsingHeap.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearch2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinarySearch2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearch3" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinarySearch3.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchFor_Ai_Equal_i" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SearchFor_Ai_Equal_i.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MinimumOfSortedCycleArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MinimumOfSortedCycleArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearchInCircleArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinarySearchInCircleArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchingIn2SortedArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SearchingIn2SortedArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SquareRoot" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SquareRoot.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="QuickSelect2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/QuickSelect2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="QuickSort2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/QuickSort2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="FindDuplicate" type="Task" factoryName="Task">
+      <taskConf>src/workspace/FindDuplicate.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="AlmostSortedArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/AlmostSortedArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="RadixSort2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/RadixSort2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="IntersectionOfSortedArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/IntersectionOfSortedArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="UnionOfSortedArrays" type="Task" factoryName="Task">
+      <taskConf>src/workspace/UnionOfSortedArrays.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="UnionOfInterval" type="Task" factoryName="Task">
+      <taskConf>src/workspace/UnionOfInterval.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PancakeSorting" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PancakeSorting.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SuccessorInBinaryTree" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SuccessorInBinaryTree.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CommonNodeOf2BST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CommonNodeOf2BST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SmallestBSTFromSortedArray" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SmallestBSTFromSortedArray.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SmallestBSTFromSortedList" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SmallestBSTFromSortedList.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DoublyLinkedListFromBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DoublyLinkedListFromBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="K_LargestElementsInBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/K_LargestElementsInBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BST_FromPreorderTraversal" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BST_FromPreorderTraversal.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LargestDistinctNumber" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LargestDistinctNumber.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="GenerateDistinctDigitsNumber" type="Task" factoryName="Task">
+      <taskConf>src/workspace/GenerateDistinctDigitsNumber.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LCAinBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LCAinBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DescendantAndAncestorBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DescendantAndAncestorBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="RangeQueryInBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/RangeQueryInBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ViewFromAbove" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ViewFromAbove.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MaxInBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MaxInBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SubtreeSizeInBST" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SubtreeSizeInBST.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SPOJ_WATER" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SPOJ_WATER.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CountInvertedPairOfIndices" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CountInvertedPairOfIndices.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ClosestPairOfPoints" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ClosestPairOfPoints.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="TreeDiameter" type="Task" factoryName="Task">
+      <taskConf>src/workspace/TreeDiameter.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MaxSubarrayCircular" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MaxSubarrayCircular.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestNondecreasingSubsequence" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LongestNondecreasingSubsequence.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestNondecreasingSubsequence2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LongestNondecreasingSubsequence2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestMaxSubarrayUpperbound" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LongestMaxSubarrayUpperbound.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MaxSubmatrixContains1" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MaxSubmatrixContains1.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="FindPathInMatrix" type="Task" factoryName="Task">
+      <taskConf>src/workspace/FindPathInMatrix.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CombinationNoOverflow" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CombinationNoOverflow.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ScoreCombination" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ScoreCombination.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PlanningAFishingTrip" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PlanningAFishingTrip.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PickupCoinsGame" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PickupCoinsGame.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SchedulingTutors" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SchedulingTutors.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="GraphRepresentation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/GraphRepresentation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="StringTransformToString" type="Task" factoryName="Task">
+      <taskConf>src/workspace/StringTransformToString.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="GraphIsBipartite" type="Task" factoryName="Task">
+      <taskConf>src/workspace/GraphIsBipartite.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="TaskSchedule" type="Task" factoryName="Task">
+      <taskConf>src/workspace/TaskSchedule.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="UnionFindAlgorithm" type="Task" factoryName="Task">
+      <taskConf>src/workspace/UnionFindAlgorithm.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="Dijkstras" type="Task" factoryName="Task">
+      <taskConf>src/workspace/Dijkstras.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BellmanFort2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BellmanFort2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SubsetSumToK" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SubsetSumToK.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MinDifSubsets" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MinDifSubsets.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="PrettyPrinting" type="Task" factoryName="Task">
+      <taskConf>src/workspace/PrettyPrinting.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ExponentBySquaring2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ExponentBySquaring2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MatrixMul2" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MatrixMul2.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MatrixPow" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MatrixPow.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SplayTreeImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SplayTreeImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="Dijkstra_K_ShortestPath" type="Task" factoryName="Task">
+      <taskConf>src/workspace/Dijkstra_K_ShortestPath.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="DoublyLinkedListImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/DoublyLinkedListImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CycleDetect_TopologicalSort" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CycleDetect_TopologicalSort.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BIT_Implementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BIT_Implementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="ArrayListImplementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/ArrayListImplementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="AVL_Implementation" type="Task" factoryName="Task">
+      <taskConf>src/workspace/AVL_Implementation.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_580A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_580A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_580B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_580B.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_580C" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_580C.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CapsAssignment" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CapsAssignment.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SPOJ_MINK" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SPOJ_MINK.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SwapOddEvenBits" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SwapOddEvenBits.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="EfficientGCD" type="Task" factoryName="Task">
+      <taskConf>src/workspace/EfficientGCD.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="SPOJ_KAGAIN" type="Task" factoryName="Task">
+      <taskConf>src/workspace/SPOJ_KAGAIN.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestValidSubstring" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LongestValidSubstring.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MaximumSubarrayNoAdjacent" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MaximumSubarrayNoAdjacent.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="IsomorphicStrings" type="Task" factoryName="Task">
+      <taskConf>src/workspace/IsomorphicStrings.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="KMP_temp" type="Task" factoryName="Task">
+      <taskConf>src/workspace/KMP_temp.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryAddition" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BinaryAddition.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="BIT_2d" type="Task" factoryName="Task">
+      <taskConf>src/workspace/BIT_2d.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="sort_tmp" type="Task" factoryName="Task">
+      <taskConf>src/workspace/sort_tmp.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_584A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_584A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_584B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_584B.task</taskConf>
+      <method />
+    </configuration>
+    <list size="191">
       <item index="0" class="java.lang.String" itemvalue="Task.ASCII_and_Integer" />
       <item index="1" class="java.lang.String" itemvalue="Task.BFS" />
-      <item index="2" class="java.lang.String" itemvalue="Task.BinarySearch2" />
-      <item index="3" class="java.lang.String" itemvalue="Task.BracketsWithDepth" />
-      <item index="4" class="java.lang.String" itemvalue="Task.CF_189A" />
-      <item index="5" class="java.lang.String" itemvalue="Task.CF_221A" />
-      <item index="6" class="java.lang.String" itemvalue="Task.CF_294B" />
-      <item index="7" class="java.lang.String" itemvalue="Task.CF_431C" />
-      <item index="8" class="java.lang.String" itemvalue="Task.CF_431D" />
-      <item index="9" class="java.lang.String" itemvalue="Task.CF_466A" />
-      <item index="10" class="java.lang.String" itemvalue="Task.CF_471A" />
-      <item index="11" class="java.lang.String" itemvalue="Task.CF_474B" />
-      <item index="12" class="java.lang.String" itemvalue="Task.CF_476A" />
-      <item index="13" class="java.lang.String" itemvalue="Task.CF_478A" />
-      <item index="14" class="java.lang.String" itemvalue="Task.CF_478B" />
-      <item index="15" class="java.lang.String" itemvalue="Task.CF_501A" />
-      <item index="16" class="java.lang.String" itemvalue="Task.CF_514A" />
-      <item index="17" class="java.lang.String" itemvalue="Task.CF_PlayingWithPaper" />
-      <item index="18" class="java.lang.String" itemvalue="Task.CountingSort" />
-      <item index="19" class="java.lang.String" itemvalue="Task.DFS" />
-      <item index="20" class="java.lang.String" itemvalue="Task.ExtendedEuclid" />
-      <item index="21" class="java.lang.String" itemvalue="Task.ExtendedEuclid2" />
-      <item index="22" class="java.lang.String" itemvalue="Task.Fast_case_change" />
-      <item index="23" class="java.lang.String" itemvalue="Task.FibonacciModified" />
-      <item index="24" class="java.lang.String" itemvalue="Task.GigaTower" />
-      <item index="25" class="java.lang.String" itemvalue="Task.LinearDiophantine" />
-      <item index="26" class="java.lang.String" itemvalue="Task.LongestPalindrome" />
-      <item index="27" class="java.lang.String" itemvalue="Task.MaxAndMin" />
-      <item index="28" class="java.lang.String" itemvalue="Task.MaximumSubarray" />
-      <item index="29" class="java.lang.String" itemvalue="Task.MultiplicativeOrder" />
-      <item index="30" class="java.lang.String" itemvalue="Task.PairOfAGivenSum" />
-      <item index="31" class="java.lang.String" itemvalue="Task.PlayWithWords" />
-      <item index="32" class="java.lang.String" itemvalue="Task.QuadraticCongruence" />
-      <item index="33" class="java.lang.String" itemvalue="Task.RodCutting" />
-      <item index="34" class="java.lang.String" itemvalue="Task.SPOJ_ASSIGN" />
-      <item index="35" class="java.lang.String" itemvalue="Task.SPOJ_IWGBS" />
-      <item index="36" class="java.lang.String" itemvalue="Task.SPOJ_MBEEWALK" />
-      <item index="37" class="java.lang.String" itemvalue="Task.SPOJ_NHAY" />
-      <item index="38" class="java.lang.String" itemvalue="Task.SamAndSubstring" />
-      <item index="39" class="java.lang.String" itemvalue="Task.SearchingInBST" />
-      <item index="40" class="java.lang.String" itemvalue="Task.SplayTree" />
-      <item index="41" class="java.lang.String" itemvalue="Task.String_inplace_operations" />
-      <item index="42" class="java.lang.String" itemvalue="Task.TestError" />
-      <item index="43" class="java.lang.String" itemvalue="Task.VanyaAndCubes" />
-      <item index="44" class="java.lang.String" itemvalue="Task.WhatGoesUp" />
-      <item index="45" class="java.lang.String" itemvalue="Task.test_input" />
-      <item index="46" class="java.lang.String" itemvalue="Task.CF_182B" />
-      <item index="47" class="java.lang.String" itemvalue="Task.CF_248B" />
-      <item index="48" class="java.lang.String" itemvalue="Task.CF_13A" />
-      <item index="49" class="java.lang.String" itemvalue="Task.HKR_euler76" />
-      <item index="50" class="java.lang.String" itemvalue="Task.CF_66A" />
-      <item index="51" class="java.lang.String" itemvalue="Task.SlidingWindow" />
-      <item index="52" class="java.lang.String" itemvalue="Task.CF_425A" />
-      <item index="53" class="java.lang.String" itemvalue="Task.CF_354A" />
-      <item index="54" class="java.lang.String" itemvalue="Task.CF_313C" />
-      <item index="55" class="java.lang.String" itemvalue="Task.CF_121A" />
-      <item index="56" class="java.lang.String" itemvalue="Task.CF_303A" />
-      <item index="57" class="java.lang.String" itemvalue="Task.CF_229A" />
-      <item index="58" class="java.lang.String" itemvalue="Task.CF_151B" />
-      <item index="59" class="java.lang.String" itemvalue="Task.CF_9C" />
-      <item index="60" class="java.lang.String" itemvalue="Task.CF_68A" />
-      <item index="61" class="java.lang.String" itemvalue="Task.CF_437B" />
-      <item index="62" class="java.lang.String" itemvalue="Task.CF_185A" />
-      <item index="63" class="java.lang.String" itemvalue="Task.CF_12B" />
-      <item index="64" class="java.lang.String" itemvalue="Task.CF_407A" />
-      <item index="65" class="java.lang.String" itemvalue="Task.DigitSumFrom1ToN" />
-      <item index="66" class="java.lang.String" itemvalue="Task.CF_519D" />
-      <item index="67" class="java.lang.String" itemvalue="Task.DynamicLengthStringHash" />
-      <item index="68" class="java.lang.String" itemvalue="Task.MaxDifference" />
-      <item index="69" class="java.lang.String" itemvalue="Task.KnuthMorrisPrath2" />
-      <item index="70" class="java.lang.String" itemvalue="Task.CF_327B" />
-      <item index="71" class="java.lang.String" itemvalue="Task.CF_448D" />
-      <item index="72" class="java.lang.String" itemvalue="Task.CF_180A" />
-      <item index="73" class="java.lang.String" itemvalue="Task.CF_56A" />
+      <item index="2" class="java.lang.String" itemvalue="Task.BracketsWithDepth" />
+      <item index="3" class="java.lang.String" itemvalue="Task.CF_189A" />
+      <item index="4" class="java.lang.String" itemvalue="Task.CF_221A" />
+      <item index="5" class="java.lang.String" itemvalue="Task.CF_294B" />
+      <item index="6" class="java.lang.String" itemvalue="Task.CF_431C" />
+      <item index="7" class="java.lang.String" itemvalue="Task.CF_431D" />
+      <item index="8" class="java.lang.String" itemvalue="Task.CF_466A" />
+      <item index="9" class="java.lang.String" itemvalue="Task.CF_471A" />
+      <item index="10" class="java.lang.String" itemvalue="Task.CF_474B" />
+      <item index="11" class="java.lang.String" itemvalue="Task.CF_476A" />
+      <item index="12" class="java.lang.String" itemvalue="Task.CF_478A" />
+      <item index="13" class="java.lang.String" itemvalue="Task.CF_478B" />
+      <item index="14" class="java.lang.String" itemvalue="Task.CF_501A" />
+      <item index="15" class="java.lang.String" itemvalue="Task.CF_514A" />
+      <item index="16" class="java.lang.String" itemvalue="Task.CF_PlayingWithPaper" />
+      <item index="17" class="java.lang.String" itemvalue="Task.CountingSort" />
+      <item index="18" class="java.lang.String" itemvalue="Task.DFS" />
+      <item index="19" class="java.lang.String" itemvalue="Task.ExtendedEuclid" />
+      <item index="20" class="java.lang.String" itemvalue="Task.ExtendedEuclid2" />
+      <item index="21" class="java.lang.String" itemvalue="Task.Fast_case_change" />
+      <item index="22" class="java.lang.String" itemvalue="Task.FibonacciModified" />
+      <item index="23" class="java.lang.String" itemvalue="Task.GigaTower" />
+      <item index="24" class="java.lang.String" itemvalue="Task.LinearDiophantine" />
+      <item index="25" class="java.lang.String" itemvalue="Task.LongestPalindrome" />
+      <item index="26" class="java.lang.String" itemvalue="Task.MaxAndMin" />
+      <item index="27" class="java.lang.String" itemvalue="Task.MaximumSubarray" />
+      <item index="28" class="java.lang.String" itemvalue="Task.MultiplicativeOrder" />
+      <item index="29" class="java.lang.String" itemvalue="Task.PairOfAGivenSum" />
+      <item index="30" class="java.lang.String" itemvalue="Task.PlayWithWords" />
+      <item index="31" class="java.lang.String" itemvalue="Task.QuadraticCongruence" />
+      <item index="32" class="java.lang.String" itemvalue="Task.RodCutting" />
+      <item index="33" class="java.lang.String" itemvalue="Task.SPOJ_ASSIGN" />
+      <item index="34" class="java.lang.String" itemvalue="Task.SPOJ_IWGBS" />
+      <item index="35" class="java.lang.String" itemvalue="Task.SPOJ_MBEEWALK" />
+      <item index="36" class="java.lang.String" itemvalue="Task.SPOJ_NHAY" />
+      <item index="37" class="java.lang.String" itemvalue="Task.SamAndSubstring" />
+      <item index="38" class="java.lang.String" itemvalue="Task.SearchingInBST" />
+      <item index="39" class="java.lang.String" itemvalue="Task.SplayTree" />
+      <item index="40" class="java.lang.String" itemvalue="Task.String_inplace_operations" />
+      <item index="41" class="java.lang.String" itemvalue="Task.TestError" />
+      <item index="42" class="java.lang.String" itemvalue="Task.VanyaAndCubes" />
+      <item index="43" class="java.lang.String" itemvalue="Task.WhatGoesUp" />
+      <item index="44" class="java.lang.String" itemvalue="Task.test_input" />
+      <item index="45" class="java.lang.String" itemvalue="Task.CF_182B" />
+      <item index="46" class="java.lang.String" itemvalue="Task.CF_248B" />
+      <item index="47" class="java.lang.String" itemvalue="Task.CF_13A" />
+      <item index="48" class="java.lang.String" itemvalue="Task.HKR_euler76" />
+      <item index="49" class="java.lang.String" itemvalue="Task.CF_66A" />
+      <item index="50" class="java.lang.String" itemvalue="Task.SlidingWindow" />
+      <item index="51" class="java.lang.String" itemvalue="Task.CF_425A" />
+      <item index="52" class="java.lang.String" itemvalue="Task.CF_354A" />
+      <item index="53" class="java.lang.String" itemvalue="Task.CF_313C" />
+      <item index="54" class="java.lang.String" itemvalue="Task.CF_121A" />
+      <item index="55" class="java.lang.String" itemvalue="Task.CF_303A" />
+      <item index="56" class="java.lang.String" itemvalue="Task.CF_229A" />
+      <item index="57" class="java.lang.String" itemvalue="Task.CF_151B" />
+      <item index="58" class="java.lang.String" itemvalue="Task.CF_9C" />
+      <item index="59" class="java.lang.String" itemvalue="Task.CF_68A" />
+      <item index="60" class="java.lang.String" itemvalue="Task.CF_437B" />
+      <item index="61" class="java.lang.String" itemvalue="Task.CF_185A" />
+      <item index="62" class="java.lang.String" itemvalue="Task.CF_12B" />
+      <item index="63" class="java.lang.String" itemvalue="Task.CF_407A" />
+      <item index="64" class="java.lang.String" itemvalue="Task.DigitSumFrom1ToN" />
+      <item index="65" class="java.lang.String" itemvalue="Task.CF_519D" />
+      <item index="66" class="java.lang.String" itemvalue="Task.DynamicLengthStringHash" />
+      <item index="67" class="java.lang.String" itemvalue="Task.MaxDifference" />
+      <item index="68" class="java.lang.String" itemvalue="Task.KnuthMorrisPrath2" />
+      <item index="69" class="java.lang.String" itemvalue="Task.CF_327B" />
+      <item index="70" class="java.lang.String" itemvalue="Task.CF_448D" />
+      <item index="71" class="java.lang.String" itemvalue="Task.CF_180A" />
+      <item index="72" class="java.lang.String" itemvalue="Task.CF_56A" />
+      <item index="73" class="java.lang.String" itemvalue="Task.CF_551B" />
+      <item index="74" class="java.lang.String" itemvalue="Task.CF_570A" />
+      <item index="75" class="java.lang.String" itemvalue="Task.PossibleElectionTie" />
+      <item index="76" class="java.lang.String" itemvalue="Task.Knapsack_revisit" />
+      <item index="77" class="java.lang.String" itemvalue="Task.DividingTheSpoil" />
+      <item index="78" class="java.lang.String" itemvalue="Task.CF_574A" />
+      <item index="79" class="java.lang.String" itemvalue="Task.CF_574C" />
+      <item index="80" class="java.lang.String" itemvalue="Task.SkipList" />
+      <item index="81" class="java.lang.String" itemvalue="Task.SkipListImplementation" />
+      <item index="82" class="java.lang.String" itemvalue="Task.SwapBit" />
+      <item index="83" class="java.lang.String" itemvalue="Task.ReverseBit" />
+      <item index="84" class="java.lang.String" itemvalue="Task.ClosestNumberWithEqual1s" />
+      <item index="85" class="java.lang.String" itemvalue="Task.BaseConversion" />
+      <item index="86" class="java.lang.String" itemvalue="Task.IntersectRectangles" />
+      <item index="87" class="java.lang.String" itemvalue="Task.BitwiseMultiplication" />
+      <item index="88" class="java.lang.String" itemvalue="Task.BitwiseAddition" />
+      <item index="89" class="java.lang.String" itemvalue="Task.DutchNationalFlag" />
+      <item index="90" class="java.lang.String" itemvalue="Task.BitwiseSubtraction" />
+      <item index="91" class="java.lang.String" itemvalue="Task.SubsetSumModN" />
+      <item index="92" class="java.lang.String" itemvalue="Task.LongestIncreasingSubarray" />
+      <item index="93" class="java.lang.String" itemvalue="Task.BigIntegerImplementation" />
+      <item index="94" class="java.lang.String" itemvalue="Task.NextPermutation" />
+      <item index="95" class="java.lang.String" itemvalue="Task.ArrayRotation" />
+      <item index="96" class="java.lang.String" itemvalue="Task.KMP" />
+      <item index="97" class="java.lang.String" itemvalue="Task.LinkedListImplementation" />
+      <item index="98" class="java.lang.String" itemvalue="Task.InfixToPostfix" />
+      <item index="99" class="java.lang.String" itemvalue="Task.PostfixToInfix" />
+      <item index="100" class="java.lang.String" itemvalue="Task.PostfixEvaluation" />
+      <item index="101" class="java.lang.String" itemvalue="Task.StackSorting" />
+      <item index="102" class="java.lang.String" itemvalue="Task.BinaryTreeImplementation" />
+      <item index="103" class="java.lang.String" itemvalue="Task.BinaryTreeReconstruction" />
+      <item index="104" class="java.lang.String" itemvalue="Task.BinaryTreeReconstruction2" />
+      <item index="105" class="java.lang.String" itemvalue="Task.TrieImplementation" />
+      <item index="106" class="java.lang.String" itemvalue="Task.HeapImplementation" />
+      <item index="107" class="java.lang.String" itemvalue="Task.StackUsingHeap" />
+      <item index="108" class="java.lang.String" itemvalue="Task.BinarySearch2" />
+      <item index="109" class="java.lang.String" itemvalue="Task.BinarySearch3" />
+      <item index="110" class="java.lang.String" itemvalue="Task.SearchFor_Ai_Equal_i" />
+      <item index="111" class="java.lang.String" itemvalue="Task.MinimumOfSortedCycleArray" />
+      <item index="112" class="java.lang.String" itemvalue="Task.BinarySearchInCircleArray" />
+      <item index="113" class="java.lang.String" itemvalue="Task.SearchingIn2SortedArray" />
+      <item index="114" class="java.lang.String" itemvalue="Task.SquareRoot" />
+      <item index="115" class="java.lang.String" itemvalue="Task.QuickSelect2" />
+      <item index="116" class="java.lang.String" itemvalue="Task.QuickSort2" />
+      <item index="117" class="java.lang.String" itemvalue="Task.FindDuplicate" />
+      <item index="118" class="java.lang.String" itemvalue="Task.AlmostSortedArray" />
+      <item index="119" class="java.lang.String" itemvalue="Task.RadixSort2" />
+      <item index="120" class="java.lang.String" itemvalue="Task.IntersectionOfSortedArray" />
+      <item index="121" class="java.lang.String" itemvalue="Task.UnionOfSortedArrays" />
+      <item index="122" class="java.lang.String" itemvalue="Task.UnionOfInterval" />
+      <item index="123" class="java.lang.String" itemvalue="Task.PancakeSorting" />
+      <item index="124" class="java.lang.String" itemvalue="Task.SuccessorInBinaryTree" />
+      <item index="125" class="java.lang.String" itemvalue="Task.CommonNodeOf2BST" />
+      <item index="126" class="java.lang.String" itemvalue="Task.SmallestBSTFromSortedArray" />
+      <item index="127" class="java.lang.String" itemvalue="Task.SmallestBSTFromSortedList" />
+      <item index="128" class="java.lang.String" itemvalue="Task.DoublyLinkedListFromBST" />
+      <item index="129" class="java.lang.String" itemvalue="Task.K_LargestElementsInBST" />
+      <item index="130" class="java.lang.String" itemvalue="Task.BST_FromPreorderTraversal" />
+      <item index="131" class="java.lang.String" itemvalue="Task.LargestDistinctNumber" />
+      <item index="132" class="java.lang.String" itemvalue="Task.GenerateDistinctDigitsNumber" />
+      <item index="133" class="java.lang.String" itemvalue="Task.LCAinBST" />
+      <item index="134" class="java.lang.String" itemvalue="Task.DescendantAndAncestorBST" />
+      <item index="135" class="java.lang.String" itemvalue="Task.RangeQueryInBST" />
+      <item index="136" class="java.lang.String" itemvalue="Task.ViewFromAbove" />
+      <item index="137" class="java.lang.String" itemvalue="Task.MaxInBST" />
+      <item index="138" class="java.lang.String" itemvalue="Task.SubtreeSizeInBST" />
+      <item index="139" class="java.lang.String" itemvalue="Task.SPOJ_WATER" />
+      <item index="140" class="java.lang.String" itemvalue="Task.CountInvertedPairOfIndices" />
+      <item index="141" class="java.lang.String" itemvalue="Task.ClosestPairOfPoints" />
+      <item index="142" class="java.lang.String" itemvalue="Task.TreeDiameter" />
+      <item index="143" class="java.lang.String" itemvalue="Task.MaxSubarrayCircular" />
+      <item index="144" class="java.lang.String" itemvalue="Task.LongestNondecreasingSubsequence" />
+      <item index="145" class="java.lang.String" itemvalue="Task.LongestNondecreasingSubsequence2" />
+      <item index="146" class="java.lang.String" itemvalue="Task.LongestMaxSubarrayUpperbound" />
+      <item index="147" class="java.lang.String" itemvalue="Task.MaxSubmatrixContains1" />
+      <item index="148" class="java.lang.String" itemvalue="Task.FindPathInMatrix" />
+      <item index="149" class="java.lang.String" itemvalue="Task.CombinationNoOverflow" />
+      <item index="150" class="java.lang.String" itemvalue="Task.ScoreCombination" />
+      <item index="151" class="java.lang.String" itemvalue="Task.PlanningAFishingTrip" />
+      <item index="152" class="java.lang.String" itemvalue="Task.PickupCoinsGame" />
+      <item index="153" class="java.lang.String" itemvalue="Task.SchedulingTutors" />
+      <item index="154" class="java.lang.String" itemvalue="Task.GraphRepresentation" />
+      <item index="155" class="java.lang.String" itemvalue="Task.StringTransformToString" />
+      <item index="156" class="java.lang.String" itemvalue="Task.GraphIsBipartite" />
+      <item index="157" class="java.lang.String" itemvalue="Task.TaskSchedule" />
+      <item index="158" class="java.lang.String" itemvalue="Task.UnionFindAlgorithm" />
+      <item index="159" class="java.lang.String" itemvalue="Task.Dijkstras" />
+      <item index="160" class="java.lang.String" itemvalue="Task.BellmanFort2" />
+      <item index="161" class="java.lang.String" itemvalue="Task.SubsetSumToK" />
+      <item index="162" class="java.lang.String" itemvalue="Task.MinDifSubsets" />
+      <item index="163" class="java.lang.String" itemvalue="Task.PrettyPrinting" />
+      <item index="164" class="java.lang.String" itemvalue="Task.ExponentBySquaring2" />
+      <item index="165" class="java.lang.String" itemvalue="Task.MatrixMul2" />
+      <item index="166" class="java.lang.String" itemvalue="Task.MatrixPow" />
+      <item index="167" class="java.lang.String" itemvalue="Task.SplayTreeImplementation" />
+      <item index="168" class="java.lang.String" itemvalue="Task.Dijkstra_K_ShortestPath" />
+      <item index="169" class="java.lang.String" itemvalue="Task.DoublyLinkedListImplementation" />
+      <item index="170" class="java.lang.String" itemvalue="Task.CycleDetect_TopologicalSort" />
+      <item index="171" class="java.lang.String" itemvalue="Task.BIT_Implementation" />
+      <item index="172" class="java.lang.String" itemvalue="Task.ArrayListImplementation" />
+      <item index="173" class="java.lang.String" itemvalue="Task.AVL_Implementation" />
+      <item index="174" class="java.lang.String" itemvalue="Task.CF_580A" />
+      <item index="175" class="java.lang.String" itemvalue="Task.CF_580B" />
+      <item index="176" class="java.lang.String" itemvalue="Task.CF_580C" />
+      <item index="177" class="java.lang.String" itemvalue="Task.CapsAssignment" />
+      <item index="178" class="java.lang.String" itemvalue="Task.SPOJ_MINK" />
+      <item index="179" class="java.lang.String" itemvalue="Task.SwapOddEvenBits" />
+      <item index="180" class="java.lang.String" itemvalue="Task.EfficientGCD" />
+      <item index="181" class="java.lang.String" itemvalue="Task.SPOJ_KAGAIN" />
+      <item index="182" class="java.lang.String" itemvalue="Task.LongestValidSubstring" />
+      <item index="183" class="java.lang.String" itemvalue="Task.MaximumSubarrayNoAdjacent" />
+      <item index="184" class="java.lang.String" itemvalue="Task.IsomorphicStrings" />
+      <item index="185" class="java.lang.String" itemvalue="Task.KMP_temp" />
+      <item index="186" class="java.lang.String" itemvalue="Task.BinaryAddition" />
+      <item index="187" class="java.lang.String" itemvalue="Task.BIT_2d" />
+      <item index="188" class="java.lang.String" itemvalue="Task.sort_tmp" />
+      <item index="189" class="java.lang.String" itemvalue="Task.CF_584A" />
+      <item index="190" class="java.lang.String" itemvalue="Task.CF_584B" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -1102,34 +1678,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="575" y="0" width="798" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32428116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31629393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23273657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44408944" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.57843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37802908" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32471728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32148626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1165,12 +1742,6 @@
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/workspace/MaxAndMin.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/workspace/SPOJ_MBEEWALK.java</url>
           <line>32</line>
           <properties />
@@ -1188,11 +1759,17 @@
           <properties />
           <option name="timeStamp" value="437" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workspace/SearchingIn2SortedArray.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="450" />
+      <option name="time" value="745" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Task">
@@ -1205,327 +1782,182 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_490C.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/UnionFindAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6375">
+          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BellmanFort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SubsetSumToK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053125">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MinDifSubsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.146875">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/PrettyPrinting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93125">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/GraphIsBipartite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2508361">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/DoublyLinkedListImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_234B.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/CycleDetect_TopologicalSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_339D.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ScoreCombination.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_euler77.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxSubmatrixContains1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_13A.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/LongestMaxSubarrayUpperbound.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_euler76.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ClosestPairOfPoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_376B.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/CountInvertedPairOfIndices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_66A.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ViewFromAbove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_493D.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/PossibleElectionTie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_546D.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/SquareRoot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="5" selection-start-line="43" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_546D_faster_input.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/BinarySearchInCircleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/ASCII_and_Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/FastPerfectSquareCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SlidingWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_7A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42009884">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_425A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1878089">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/HKR_SubstringDiff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32784185">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.26">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_313C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_354A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_121A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_303A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_229A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_151B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_9C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_68A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_437B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/PowerOf2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23224044">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_185A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_407A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56852794">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_12B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_519D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/DynamicLengthStringHash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/MaxDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPratt.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxAndMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36060607">
-          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/MultiplicativeOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/DynamicLengthStringHash.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_327B.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ReverseBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ArrayRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/DFS.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/ClosestNumberWithEqual1s.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="145" column="55" selection-start-line="145" selection-start-column="55" selection-end-line="145" selection-end-column="55" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_448D.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/Fast_case_change.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_56A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7123519">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_180A.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/NextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/BFS.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/LongestIncreasingSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1533,42 +1965,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/BinarySearch2.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/StackSorting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/LowerUpper.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/InfixToPostfix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SearchOnRotatedSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/PostfixToInfix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/MajorityElement.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/BitwiseSubtraction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BaseConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/EfficientGCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BitwiseAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BinaryAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.085">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325">
+          <caret line="863" column="0" selection-start-line="863" selection-start-column="0" selection-end-line="863" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BIT_2d.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0075">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BigIntegerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1925">
+          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BIT_Implementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/DigitSumFrom1ToN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36408567">
-          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.085">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SubtreeSizeInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1275">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BitwiseMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/ExponentBySquaring2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CombinationNoOverflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/StackUsingHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/HeapImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5075">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/RadixSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/sort_tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="method#bubbleSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#insertionSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#selectionSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#quickSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#quickSort#1;class#sort_tmp#0" expanded="false" />
+            <element signature="method#countingSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#mergeSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#radixSort#0;class#sort_tmp#0" expanded="false" />
+            <element signature="method#radixSort#1;class#sort_tmp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SkipListImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_584A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_584B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,26 @@
+15 NextPermutation
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+10 4
+7 5 10 2
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+25 workspace.NextPermutation
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.04
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

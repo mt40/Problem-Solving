@@ -1,0 +1,34 @@
+14 PrettyPrinting
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+51 9 36
+I have inserted a large number of new examples
+-1
+1
+1
+172 28 36
+I have inserted a large number of new examples
+from the papers for the Mathematical Tripos
+during the last twenty years, which should be useful
+to Cambridge students.
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+24 workspace.PrettyPrinting
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.18
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

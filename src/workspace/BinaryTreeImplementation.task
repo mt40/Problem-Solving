@@ -1,0 +1,36 @@
+24 BinaryTreeImplementation
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+18 7
+10 22 6 3 7 18 5
+-1
+1
+1
+10 3
+10 22 18
+-1
+0
+2
+17 6
+10 6 22 7 18 17
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+34 workspace.BinaryTreeImplementation
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.07
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -7,4 +7,8 @@ public class %TaskClass% {
 	int INF = 1 << 31 - 1;
     public void solve(int testNumber, %InputClass% in, %OutputClass% out) {
     }
+
+    public void readStr(%InputClass% in) {
+    	return in.next().toCharArray();
+    }
 }

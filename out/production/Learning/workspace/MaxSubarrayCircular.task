@@ -1,0 +1,36 @@
+19 MaxSubarrayCircular
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+38 9
+904 40 523 12 -335 -385 -124 481 -31
+4 1929
+1
+1
+39 9
+904 40 523 12 -335 -385 -124 -481 -31
+-1
+1
+2
+23 7
+-10 50 50 -1 -1 20 -1
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+29 workspace.MaxSubarrayCircular
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

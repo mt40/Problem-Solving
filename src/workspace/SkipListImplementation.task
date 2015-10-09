@@ -1,0 +1,35 @@
+22 SkipListImplementation
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+22 5 2 1
+1 4 6 7 10
+4 2
+1
+-1
+1
+1
+48 10 3 3
+0 4 5 5 12 10 27 36 60 99
+0 99 14
+12 5 27
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+32 workspace.SkipListImplementation
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.01
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

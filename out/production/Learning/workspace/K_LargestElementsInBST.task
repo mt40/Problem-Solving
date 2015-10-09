@@ -1,0 +1,26 @@
+22 K_LargestElementsInBST
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+56 18 10
+15 4 1 9 19 22 17 130 21 11 0 5 65 72 101 99 26 51
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+32 workspace.K_LargestElementsInBST
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.13
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

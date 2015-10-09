@@ -1,0 +1,40 @@
+6 BIT_2d
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+98 8
+3 4
+1 4 2 0
+0 3 5 1
+4 1 0 2
+sum 2 2
+up 1 0 2
+sum 2 2
+up 1 1 1
+up 0 3 0
+up 2 3 10
+sum 2 3
+sum 1 1
+10 20
+22
+31
+8
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+16 workspace.BIT_2d
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.10.06
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

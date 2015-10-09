@@ -1,0 +1,35 @@
+21 LargestDistinctNumber
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+38 5
+12345
+12333
+11112
+10000000
+100020009
+-1
+1
+1
+5 1
+123
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+31 workspace.LargestDistinctNumber
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.13
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,27 @@
+16 CommonNodeOf2BST
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+30 7 5
+5 1 10 0 4 7 9
+10 7 4 9 20
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.CommonNodeOf2BST
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.12
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

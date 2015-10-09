@@ -1,0 +1,40 @@
+12 TreeDiameter
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+93 15
+B A 14
+B C 7
+C F 3
+C D 4
+D E 6
+B G 3
+G H 2
+G I 1
+I K 6
+I L 4
+L M 4
+L N 2
+N O 1
+N P 2
+N Q 3
+2 31
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.TreeDiameter
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.15
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

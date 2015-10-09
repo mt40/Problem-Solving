@@ -1,0 +1,39 @@
+13 BinarySearch3
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+36 10 3
+0 1 4 7 8 10 10 16 22 29
+9
+0
+10
+6 -1
+0
+5
+1
+1
+50 10 2
+-14 -10 2 108 108 243 285 285 285 401
+108
+285
+3 3
+6
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.BinarySearch3
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.09
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

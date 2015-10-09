@@ -1,0 +1,36 @@
+25 BST_FromPreorderTraversal
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+13 5
+15 4 1 9 17
+-1
+0
+1
+19 7
+15 4 1 9 19 17 22
+-1
+0
+2
+53 18
+15 4 1 0 9 5 11 19 17 22 21 130 65 26 31 72 101 99
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+35 workspace.BST_FromPreorderTraversal
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.13
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

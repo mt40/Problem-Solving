@@ -1,0 +1,31 @@
+8 sort_tmp
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+45 15
+23 24 1 22 19 35 17 49 29 18 13 12 48 36 9
+-1
+1
+1
+43 15
+32 23 19 50 45 1 42 15 31 17 19 2 1 12 5
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.sort_tmp
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.10.06
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

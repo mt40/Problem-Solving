@@ -1,0 +1,31 @@
+10 RadixSort2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+26 8
+170 45 75 90 802 24 2 66
+24 2 24 45 66 75 90 170 802
+1
+1
+39 10
+5 0 442 13 9060 1023 82 123 50001 29
+36 0 5 13 29 82 123 442 1023 9060 50001
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.RadixSort2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.11
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

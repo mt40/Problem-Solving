@@ -1,0 +1,31 @@
+13 ArrayRotation
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+34 10 3
+8 20 3 6 1 0 5 99 42 14
+0
+1
+5
+71 8 20 3 6 1 0 5 99 42 14
+14 8 20 3 6 1 0 5 99 42
+0 5 99 42 14 8 20 3 6 1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.ArrayRotation
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.05
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

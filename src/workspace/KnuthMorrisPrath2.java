@@ -43,6 +43,7 @@ public class KnuthMorrisPrath2 {
                 j -= skip;
                 match_len -= skip;
                 System.out.printf("Mismatch at %d -> skip %d char\n", i, skip);
+
             }
             else {
                 i++; j = 0;

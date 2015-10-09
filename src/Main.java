@@ -16,34 +16,23 @@ public class Main {
         OutputStream outputStream = System.out;
         Scanner in = new Scanner(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        CF_56A solver = new CF_56A();
+        CF_584A solver = new CF_584A();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class CF_56A {
+    static class CF_584A {
         public void solve(int testNumber, Scanner in, PrintWriter out) {
-            String[] drinks = {"ABSINTH", "BEER", "BRANDY", "CHAMPAGNE", "GIN", "RUM", "SAKE", "TEQUILA", "VODKA", "WHISKEY", "WINE"};
-            int n = in.nextInt();
-            int count = 0;
-            for (int i = 0; i < n; ++i) {
-                String s = in.next();
-                if (find(drinks, s) >= 0) {
-                    count++;
-                } else if (Character.isDigit(s.charAt(0)) && Integer.valueOf(s) < 18) {
-                    count++;
-                }
-            }
-            out.println(count);
-        }
+            int n = in.nextInt(), t = in.nextInt();
+            String ans = "" + t;
 
-        int find(String[] arr, String s) {
-            for (int i = 0; i < arr.length; ++i) {
-                String a = arr[i];
-                if (a.compareTo(s) == 0)
-                    return i;
-            }
-            return -1;
+            while (ans.length() < n)
+                ans += '0';
+
+            if (n == 1 && t == 10)
+                out.println(-1);
+            else
+                out.println(ans);
         }
 
     }

@@ -1,0 +1,36 @@
+7 CF_570A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+21 3 3
+1 2 3
+2 3 1
+1 2 1
+1 2
+1
+1
+29 3 4
+10 10 3
+5 1 6
+2 2 2
+1 5 7
+1 1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_570A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.08.26
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

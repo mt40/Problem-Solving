@@ -1,0 +1,35 @@
+24 DescendantAndAncestorBST
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+98 18 5
+15 4 1 9 19 22 17 130 21 11 0 5 65 72 101 99 26 51
+22 19 26
+21 22 5
+22 17 130
+22 1 130
+9 4 11
+27 true
+false
+false
+false
+true
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+34 workspace.DescendantAndAncestorBST
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.09.14
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
