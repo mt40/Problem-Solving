@@ -1,0 +1,40 @@
+11 CC_THREEDIF
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+39 5
+3 3 3
+2 4 2
+1 2 3
+25 12 2012
+1 1 2013
+14 6
+4
+1
+578880
+0
+1
+1
+55 2
+1 1 1
+100000000000000 100000000000000 100000000000000
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.CC_THREEDIF
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.07
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

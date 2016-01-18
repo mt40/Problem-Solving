@@ -1,0 +1,31 @@
+7 CF_340C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 3
+2 3 5
+4 22 3
+1
+1
+87 11
+264369 1534831 746006 8732743 2422032 1104102 2408339 5497310 850018 7817985 1746853
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_340C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.01
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

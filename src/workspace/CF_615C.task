@@ -1,0 +1,63 @@
+7 CF_615C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+7
+0
+10 abc
+cbaabc
+9 2
+3 1
+1 3
+1
+1
+16 aaabrytaaa
+ayrat
+13 3
+1 1
+6 5
+8 7
+1
+2
+6 ami
+no
+2 -1
+1
+3
+14 abc
+bbbcbbaabc
+-1
+1
+4
+3 a
+c
+2 -1
+1
+5
+3 a
+a
+5 1
+1 1
+1
+6
+5 aaa
+a
+5 1
+1 1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_615C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.08
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

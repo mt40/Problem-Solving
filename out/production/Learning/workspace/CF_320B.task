@@ -1,0 +1,31 @@
+7 CF_320B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+32 5
+1 1 5
+1 5 11
+2 1 2
+1 2 9
+2 1 2
+6 NO
+YES
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_320B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.24
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

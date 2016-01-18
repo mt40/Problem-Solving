@@ -1,0 +1,42 @@
+7 CF_602A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+24 6 2
+1 0 1 1 1 1
+2 10
+4 7
+1 =
+1
+1
+17 3 3
+1 0 2
+2 5
+2 4
+1 <
+1
+2
+39 7 16
+15 15 4 0 0 7 10
+7 9
+4 8 0 3 1 5 0
+1 >
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_602A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.13
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

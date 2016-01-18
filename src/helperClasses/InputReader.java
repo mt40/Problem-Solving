@@ -41,4 +41,7 @@ public class InputReader {
         return Integer.parseInt(next());
     }
 
+    public long nextLong() {
+        return Long.parseLong(next());
+    }
 }

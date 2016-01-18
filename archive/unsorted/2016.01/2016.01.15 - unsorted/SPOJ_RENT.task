@@ -1,0 +1,40 @@
+9 SPOJ_RENT
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+29 1
+4
+0 5 10
+3 7 14
+5 9 7
+6 9 8
+2 18
+1
+1
+35 1
+5
+1 6 5
+3 5 15
+7 8 4
+6 8 1
+4 8 20
+2 20
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_RENT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

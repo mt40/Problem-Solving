@@ -2,13 +2,14 @@ package %package%;
 
 import %InputClassFQN%;
 import %OutputClassFQN%;
+import helperClasses.ShortScanner;
+import helperClasses.Util;
 
 public class %TaskClass% {
-	int INF = 1 << 31 - 1;
-    public void solve(int testNumber, %InputClass% in, %OutputClass% out) {
-    }
+    int inf = Integer.MAX_VALUE;
 
-    public void readStr(%InputClass% in) {
-    	return in.next().toCharArray();
+    public void solve(int testNumber, %InputClass% input, %OutputClass% out) {
+        ShortScanner in = new ShortScanner(input);
+
     }
 }

@@ -1,0 +1,36 @@
+12 SPOJ_CPCRC1C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+18 1 10
+100 777
+-1 -1
+7 46
+8655
+1
+1
+29 0 123
+123 123
+0 1
+12 15
+-1 -1
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_CPCRC1C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,67 @@
+9 SPOJ_TOE1
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+26 2
+X.O
+OO.
+XXX
+
+O.X
+XX.
+OOO
+6 yes
+no
+1
+1
+52 4
+XOX
+OXO
+XOX
+
+XOX
+OOO
+XOX
+
+XOX
+XO.
+.O.
+
+XOX
+XOO
+XOX
+13 yes
+no
+yes
+no
+1
+2
+26 2
+XXX
+OOO
+...
+
+XXX
+OO.
+O..
+5 no
+no
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_TOE1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

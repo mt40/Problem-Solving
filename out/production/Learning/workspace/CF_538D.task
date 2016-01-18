@@ -1,0 +1,67 @@
+7 CF_538D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+31 5
+oxxxx
+x...x
+x...x
+x...x
+xxxxo
+93 YES
+....x....
+....x....
+....x....
+....x....
+xxxxoxxxx
+....x....
+....x....
+....x....
+....x....
+1
+1
+43 6
+.x.x..
+x.x.x.
+.xo..x
+x..ox.
+.x.x.x
+..x.x.
+135 YES
+...........
+...........
+...........
+....x.x....
+...x...x...
+.....o.....
+...x...x...
+....x.x....
+...........
+...........
+...........
+1
+2
+13 3
+o.x
+oxx
+o.x
+2 NO
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_538D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.31
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

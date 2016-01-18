@@ -1,0 +1,57 @@
+10 SPOJ_CLONE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+70 9 6
+AAAAAA
+ACACAC
+GTTTTG
+ACACAC
+GTTTTG
+ACACAC
+ACACAC
+TCCCCC
+TCCCCC
+0 0
+17 1
+2
+0
+1
+0
+0
+0
+0
+0
+1
+1
+17 5 1
+b
+b
+b
+a
+b
+0 0
+9 1
+0
+0
+1
+0
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_CLONE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

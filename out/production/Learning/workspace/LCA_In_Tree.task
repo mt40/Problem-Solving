@@ -1,0 +1,41 @@
+11 LCA_In_Tree
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+83 13 5
+1 2 1 3 1 4
+3 5 3 6
+4 7
+6 8 6 9
+7 10 7 11
+10 12 10 13
+12 13
+8 13
+10 7
+5 5
+9 5
+
+10 10
+1
+7
+5
+3
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.LCA_In_Tree
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.13
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

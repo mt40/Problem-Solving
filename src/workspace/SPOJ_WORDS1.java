@@ -1,98 +1,60 @@
 package workspace;
 
-import helperClasses.InputReader;
-
+import java.util.Scanner;
 import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.List;
+import helperClasses.ShortScanner;
 
 public class SPOJ_WORDS1 {
-    public void solve(int testNumber, InputReader in, PrintWriter out) {
-        int[][] adj_matrix = new int[26][26]; // 26 letters in alphabet
-        int n = in.nextInt();
+    double max(double...v) {double m=Double.NEGATIVE_INFINITY; for (double d:v) if(d>m)m=d; return m;}
+    long max(long...v) {long m=Long.MIN_VALUE; for(long i:v)if(i>m)m=i; return m;}
+    double min(double...v) {double m=Double.POSITIVE_INFINITY; for (double d:v) if(d<m)m=d; return m;}
+    long min(long...v) {long m=Long.MAX_VALUE; for(long i:v)if(i<m)m=i; return m;}
+    int inf = Integer.MAX_VALUE;
 
-        for (int i = 0; i < n; ++i) {
-            char[] a = in.next().toCharArray();
-            int start = a[0] - 'a';
-            int end = a[a.length - 1] - 'a';
-            // connect this edge, but not 2 same vertices
-            if (start != end)
-                adj_matrix[start][end] = 1;
+    public void solve(int testNumber, Scanner input, PrintWriter out) {
+        ShortScanner in = new ShortScanner(input);
+        int n = in.i();
+        int []in_deg = new int[26], out_deg = new int[26];
+        boolean [][]g = new boolean[26][26];
+        boolean []vst = new boolean[26];
+        int v = 0;
+        for(int i = 0; i < n; ++i) {
+            char []c = in.c();
+            int a = c[0]-'a', b = c[c.length - 1]-'a';
+            if(!vst[a]) v++; vst[a] = true;
+            if(!vst[b]) v++; vst[b] = true;
+            out_deg[a]++;
+            in_deg[b]++;
+            g[a][b] = true;
         }
 
-        // calculate degree of each vertex
-        int[] out_edge = new int[26]; // out-going edge
-        int[] in_edge = new int[26]; // in-coming edge
-        for (int i = 0; i < 26; ++i) {
-            for (int j = 0; j < 26; ++j) {
-                if (adj_matrix[i][j] == 1) {
-                    out_edge[i]++;
-                    in_edge[j]++;
-                }
-            }
+        boolean ok = true;
+        int start = -1, end = -1;
+        for(int i = 0; i < 26; ++i) {
+            if(in_deg[i] == out_deg[i]) continue;
+            if(in_deg[i] - out_deg[i] == 1 && end == -1)
+                end = i;
+            else if(in_deg[i] - out_deg[i] == -1 && start == -1)
+                start = i;
+            else ok = false;
         }
 
-        // Euler Trail condition for directed graph
-        // https://www.wikiwand.com/en/Eulerian_path
-        int valid_edge = 0;
-        List<Integer> edges = new ArrayList<Integer>();
-        for (int i = 0; i < 26; ++i) {
-            if (in_edge[i] - out_edge[i] == 1) {
-                valid_edge++;
-                edges.add(i);
-            }
-            if (out_edge[i] - in_edge[i] == 1) {
-                valid_edge++;
-                edges.add(i);
-            }
-            if (Math.abs(in_edge[i] - out_edge[i]) > 1)
-                valid_edge = 9999; // which means there is no solution
-        }
+        vst = new boolean[26];
+        dfs(g, start, vst);
+        int cnt = 0;
+        for(boolean b : vst) if(b) cnt++;
+        if(cnt != v) ok = false;
 
-        // check again using DFS
-        boolean ans = check(adj_matrix, edges, valid_edge, out_edge, in_edge);
-
-        if (ans)
-            out.println("Ordering is possible.");
-        else
-            out.println("The door cannot be opened.");
+        if(ok) out.println("Ordering is possible.");
+        else out.println("The door cannot be opened.");
     }
 
-    boolean check(int[][] adj_matrix, List<Integer> edges, int valid_edge, int[] out_edge, int[] in_edge) {
-        if (valid_edge == 2 || valid_edge == 0) {
-            int start = -1;
-            if (valid_edge == 2) {
-                start = edges.get(0);
-                if(out_edge[start] - in_edge[start] < 0)
-                    start = edges.get(1);
-            }
-            else {
-                for (int i = 0; i < 26; ++i)
-                    if (out_edge[i] > 0) {
-                        start = i;
-                        break;
-                    }
-            }
-
-            dfs(adj_matrix, start);
-            // Now all edges must be cleared(visited) after dfs
-            for (int i = 0; i < 26; ++i) {
-                for (int j = 0; j < 26; ++j)
-                    if (adj_matrix[i][j] == 1)
-                        return false;
-            }
-        }
-        else
-            return false;
-        return true;
-    }
-
-    void dfs(int[][] adj, int start) {
-        for (int j = 0; j < 26; ++j) {
-            if (adj[start][j] == 1) {
-                adj[start][j] = 0; // clear this edge
-                dfs(adj, j);
-            }
+    void dfs(boolean [][]graph, int start, boolean []vst) {
+        if(start < 0) start = 0;
+        vst[start] = true;
+        for(int i = 0; i < graph.length; ++i) {
+            if(vst[i] || i == start || !graph[start][i]) continue;
+            dfs(graph, i, vst);
         }
     }
 }

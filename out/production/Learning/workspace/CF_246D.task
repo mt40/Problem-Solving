@@ -1,0 +1,50 @@
+7 CF_246D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+39 6 6
+1 1 2 3 5 8
+1 2
+3 2
+1 4
+4 3
+4 5
+4 6
+1 3
+1
+1
+37 5 6
+4 2 5 2 4
+1 2
+2 3
+3 1
+5 3
+5 4
+3 4
+1 2
+1
+2
+16 3 1
+13 13 4
+1 2
+
+1 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_246D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.26
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

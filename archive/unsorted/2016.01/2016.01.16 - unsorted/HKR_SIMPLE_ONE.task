@@ -1,0 +1,21 @@
+14 HKR_SIMPLE_ONE
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+0
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+24 workspace.HKR_SIMPLE_ONE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

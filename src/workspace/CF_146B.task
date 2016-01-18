@@ -1,0 +1,49 @@
+7 CF_146B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+7
+0
+3 1 7
+1 7
+1
+1
+6 100 47
+3 147
+1
+2
+10 10000 7774
+-1
+1
+3
+7 10000 7
+-1
+1
+4
+6 9700 7
+-1
+1
+5
+9 9700 4747
+-1
+1
+6
+3 7 7
+2 17
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_146B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.26
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

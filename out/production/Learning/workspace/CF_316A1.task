@@ -1,0 +1,45 @@
+8 CF_316A1
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+6
+0
+2 AJ
+2 81
+1
+1
+4 1?AA
+3 100
+1
+2
+1 ?
+2 10
+1
+3
+1 A
+2 10
+1
+4
+1 1
+1 1
+1
+5
+13 ?AVX?????1290
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.CF_316A1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.02
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,41 @@
+9 SPOJ_ABCD
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+4 1
+CB
+2 AD
+1
+1
+7 2
+ABAD 
+4 BCDC
+1
+2
+8 3
+ABACAD
+-1
+1
+3
+8 3
+ADCADC
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_ABCD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

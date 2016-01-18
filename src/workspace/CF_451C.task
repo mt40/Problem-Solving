@@ -1,0 +1,58 @@
+7 CF_451C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+50 6
+3 0 0 0
+3 3 0 0
+6 4 1 0
+6 3 3 0
+3 3 3 2
+15 7 3 2
+21 yes
+yes
+yes
+no
+no
+yes
+1
+1
+17 2
+3 1 1 1
+6 1 1 1
+7 yes
+yes
+1
+2
+53 1
+999999999980 258442058745 258442058715 258442068327
+2 no
+1
+3
+9 1
+3 1 1 1
+-1
+1
+4
+53 1
+999999999981 183518049086 183518049056 183518049057
+2 no
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_451C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.25
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

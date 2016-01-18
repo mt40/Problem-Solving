@@ -1,0 +1,77 @@
+7 CF_412A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+8
+0
+6 2 2
+R1
+20 PRINT 1
+LEFT
+PRINT R
+1
+1
+6 2 1
+R1
+21 PRINT R
+RIGHT
+PRINT 1
+1
+2
+10 6 4
+GO?GO!
+84 RIGHT
+RIGHT
+PRINT !
+LEFT
+PRINT O
+LEFT
+PRINT G
+LEFT
+PRINT ?
+LEFT
+PRINT O
+LEFT
+PRINT G
+1
+3
+10 6 6
+LOVEU!
+-1
+1
+4
+10 6 1
+LOVEU!
+-1
+1
+5
+10 6 3
+LOVEU!
+-1
+1
+6
+11 7 4
+LOVEU<3
+-1
+1
+7
+5 1 1
+A
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_412A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.27
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,47 @@
+9 CC_WDTBAM
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+110 3
+5
+ABCDE
+EBCDA
+0 10 20 30 40 50
+4
+CHEF
+QUIZ
+4 3 2 1 0
+8
+ABBABAAB
+ABABABAB
+100 100 100 100 100 100 100 100 100
+8 30
+4
+100
+1
+1
+32 1
+5
+ABCDE
+ABFDE
+0 10 20 30 40 50
+2 40
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.CC_WDTBAM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.06
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

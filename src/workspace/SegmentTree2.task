@@ -1,0 +1,40 @@
+12 SegmentTree2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+106 5 10
+1 2 3 4 5
+sum 1 5
+set 1 3
+sum 1 5
+sum 1 3
+set 4 0
+sum 2 5
+range 2 3 1
+range 3 5 1
+range 1 4 0
+sum 2 5
+13 15
+17
+8
+10
+15
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SegmentTree2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.13
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

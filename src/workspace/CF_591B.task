@@ -1,0 +1,50 @@
+7 CF_591B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+40 11 6
+abacabadaba
+a b
+b c
+a d
+e g
+f a
+b b
+11 cdcbcdcfcdc
+1
+1
+14 6 1
+police
+p m
+6 molice
+1
+2
+44 11 7
+abacabadaba
+a b
+b c
+a d
+e g
+f a
+b b
+f e
+11 cdcbcdcecdc
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_591B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.10.29
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

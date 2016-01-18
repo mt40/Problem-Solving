@@ -18,12 +18,12 @@ public class NextPermutation {
     }
 
     /**
-     * Ý t??ng: ?i tìm k l?n nh?t sao cho a[k] < a[k + 1]
-     * khi ?ó, ?o?n [k+1 : n-1] là gi?m d?n. Có ngh? là
-     * ?o?n [k+1 : n-1] ?ã là l?n nh?t r?i, ko còn thay ??i dc gì trong
-     * ?o?n này n?a. Do ?ó tìm r sao cho a[r] > a[k] (r ph?i xa k nh?t).
-     * Swap a[k] & a[r], reverse ?o?n [k+1 : n-1] ?? dc ?o?n t?ng d?n.
-     * ?ây chính là hoán v? k? ti?p. N?u ko tìm dc k, ?ây ?ã là hoán v? cu?i cùng.
+     * Y tuong: tim k lon nhat sao cho a[k] < a[k+1]
+     * khi do, doan [k+1 : n-1] la giam dan. Co nghia la doan [k+1 : n-1] da tao thanh
+     * 1 so lon nhat roi, ko con thay doi dc gi trong doan do nua. Sau do ta tim r sao
+     * cho a[r] > a[k] (voi r-k lon nhat co the). Swap a[k] & a[r], reverse doan
+     * [k+1 : n-1] (tuc bien no thanh doan tang dan).
+     * Neu ban dau khong tim dc so k thi co nghia day da la permutation lon nhat roi.
      */
     int[] nextPermutation(int []a) {
         int k = -1, n = a.length;

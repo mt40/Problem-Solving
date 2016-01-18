@@ -1,0 +1,35 @@
+10 SPOJ_GAMES
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+13 3
+5
+5.5
+30.25
+5 1
+2
+4
+1
+1
+13 1
+999999.9999
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_GAMES
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.07
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

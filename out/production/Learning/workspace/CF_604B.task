@@ -1,0 +1,42 @@
+7 CF_604B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+7 2 1
+2 5
+1 7
+1
+1
+11 4 3
+2 3 5 9
+1 9
+1
+2
+9 3 2
+3 5 7
+1 8
+1
+3
+13 1 2342
+12345
+
+5 12345
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_604B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.12.12
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

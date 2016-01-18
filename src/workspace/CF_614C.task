@@ -1,0 +1,52 @@
+7 CF_614C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+18 3 0 0
+0 1
+-1 2
+1 2
+21 12.566370614359172464
+0
+1
+22 4 1 -1
+0 0
+1 2
+2 0
+1 1
+21 21.991148575128551812
+0
+2
+17 3 0 0
+0 1
+0 3
+1 1
+-1
+0
+3
+19 3 0 0
+-1 1
+0 3
+1 1
+
+22 25.132741228718344928
+
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_614C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

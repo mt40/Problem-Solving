@@ -1,0 +1,62 @@
+11 SPOJ_MATSUM
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+76 1
+4
+SET 0 0 1
+SUM 0 0 3 3
+SET 2 2 12
+SUM 2 2 2 2
+SUM 2 2 3 3
+SUM 0 0 2 2
+END
+10 1
+12
+12
+13
+1
+1
+170 1
+4
+SET 0 0 10
+SUM 0 0 3 3
+SET 0 1 1
+SET 0 2 3
+SET 0 3 5
+SET 1 0 2
+SET 1 1 4
+SUM 0 0 2 2
+SUM 1 1 1 1
+SUM 0 1 1 1
+SET 2 0 1
+SET 2 1 2
+SET 0 0 2
+SUM 0 1 1 2
+SUM 0 0 2 1
+END
+14 10
+20
+4
+5
+8
+12
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_MATSUM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

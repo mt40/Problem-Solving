@@ -1,0 +1,41 @@
+7 CF_364A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+8 10
+12345
+1 6
+0
+1
+33 16
+439873893693495623498263984765
+2 40
+0
+2
+6 0
+1994
+1 0
+0
+3
+6 0
+1230
+2 19
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_364A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.01
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

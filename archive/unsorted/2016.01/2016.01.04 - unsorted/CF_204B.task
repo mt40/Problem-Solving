@@ -1,0 +1,60 @@
+7 CF_204B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+13 3
+4 7
+4 7
+7 4
+1 0
+1
+1
+22 5
+4 7
+7 4
+2 11
+9 7
+1 1
+1 2
+1
+2
+21 5
+4 3
+7 3
+2 3
+9 3
+1 3
+1 3
+1
+3
+21 5
+4 3
+3 3
+2 3
+3 3
+1 3
+1 1
+1
+4
+5 1
+2 3
+1 0
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_204B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.04
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

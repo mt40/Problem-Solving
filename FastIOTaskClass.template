@@ -1,0 +1,15 @@
+package %package%;
+
+import %InputClassFQN%;
+import %OutputClassFQN%;
+import helperClasses.FastScanner;
+import helperClasses.Util;
+
+public class %TaskClass% {
+    int inf = Integer.MAX_VALUE;
+
+    public void solve(int testNumber, %InputClass% input, %OutputClass% out) {
+        FastScanner in = new FastScanner(input);
+
+    }
+}

@@ -1,0 +1,45 @@
+16 HKR_MOST_DISTANT
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+19 4
+-1 0
+1 0
+0 1
+0 -1
+8 2.000000
+1
+1
+27 6
+0 0
+-1 0
+0 2
+1 0
+3 0
+0 -4
+8 6.000000
+1
+2
+10 2
+0 0 
+1 0
+8 1.000000
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+26 workspace.HKR_MOST_DISTANT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
