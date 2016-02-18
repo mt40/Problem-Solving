@@ -39,4 +39,15 @@ public class Util {
         for (int i : v) if (i < m) m = i;
         return m;
     }
+
+    public static char[] join(char[]...ar) {
+        int n = 0;
+        for(char []c : ar) n += c.length;
+        char []rs = new char[n];
+        int i = 0;
+        for(char []ari : ar)
+            for(char c : ari)
+                rs[i++] = c;
+        return rs;
+    }
 }

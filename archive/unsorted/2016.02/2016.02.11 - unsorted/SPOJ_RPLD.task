@@ -1,0 +1,36 @@
+9 SPOJ_RPLD
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+65 2
+2 4
+1 6102
+1 6103
+2 6102
+2 6103
+2 4
+1 6102
+1 6102
+2 6102
+2 6103
+45 Scenario #1: possible
+Scenario #2: impossible
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_RPLD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

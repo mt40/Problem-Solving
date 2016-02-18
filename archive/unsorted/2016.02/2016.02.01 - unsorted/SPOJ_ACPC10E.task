@@ -1,0 +1,28 @@
+12 SPOJ_ACPC10E
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+27 8 4 2 0
+8 4 2 1
+-1 -1 -1 -1
+26 8*2/4+0=63+0
+8*2/4+1=79+15
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_ACPC10E
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.01
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

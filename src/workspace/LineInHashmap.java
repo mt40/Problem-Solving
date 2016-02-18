@@ -56,7 +56,7 @@ public class LineInHashmap {
         }
 
         out.printf("Number of lines: %d\n", map.size());
-        out.println("Points on the same line belongs to the same line:");
+        out.println("Points on the same row belongs to the same line:");
         for(Map.Entry<Integer, Set<Point>> e : map.entrySet()) {
             out.println(Arrays.toString(e.getValue().toArray()).replaceAll("[\\[\\]]", ""));
         }

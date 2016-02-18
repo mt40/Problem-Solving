@@ -1,0 +1,68 @@
+13 SPOJ_SAMER08D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+123 3
+lovxxelyxxxxx
+xxxxxxxlovely
+1
+lovxxelyxxxxx
+xxxxxxxlovely
+3
+lovxxxelxyxxxx
+xxxlovelyxxxxxxx
+4
+lovxxxelyxxx
+xxxxxxlovely
+0
+8 6
+7
+10
+0
+1
+1
+31 1
+lovxxelyxxxxx
+xxxxxxxlovely
+0
+1 7
+1
+2
+35 3
+lovxxxelxyxxxx
+xxxlovelyxxxxxxx
+0
+2 10
+1
+3
+16 2 
+abc 
+abbc 
+0 
+1 2
+1
+4
+25 4 
+aggasdfa 
+aggakasdfa
+0
+1 8
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_SAMER08D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.31
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

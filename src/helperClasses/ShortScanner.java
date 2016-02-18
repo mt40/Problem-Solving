@@ -38,4 +38,12 @@ public class ShortScanner {
         for (int i = 0; i < n; ++i) a[i] = in.nextInt();
         return a;
     }
+
+    public int[][] arr(int n, int m) {
+        int [][]a = new int[n][m];
+        for (int i = 0; i < n; ++i)
+            for(int j = 0; j < m; ++j)
+                a[i][j] = in.nextInt();
+        return a;
+    }
 }

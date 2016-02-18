@@ -1,0 +1,43 @@
+10 SPOJ_FANCY
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+17 3
+100
+12345
+11112
+5 2
+1
+8
+1
+1
+63 2
+111121111211112111121111211112
+111111111111111111111111111111
+-1
+1
+2
+11 2
+123
+21133
+3 1
+4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_FANCY
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

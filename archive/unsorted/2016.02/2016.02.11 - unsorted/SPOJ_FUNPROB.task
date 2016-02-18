@@ -1,0 +1,30 @@
+12 SPOJ_FUNPROB
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+17 1 0
+0 1
+41 41
+0 0
+26 0.000000
+1.000000
+0.023810
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_FUNPROB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

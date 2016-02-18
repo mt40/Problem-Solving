@@ -1,0 +1,35 @@
+10 SPOJ_WPC4F
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+52 2
+3
+0 1 2
+1 4 8
+9 2 5
+4
+10 10 10
+2 4 9
+12 7 10
+6 6 6
+4 4
+25
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_WPC4F
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

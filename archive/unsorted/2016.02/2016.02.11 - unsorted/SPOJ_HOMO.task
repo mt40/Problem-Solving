@@ -1,0 +1,61 @@
+9 SPOJ_HOMO
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+101 11
+insert 1
+insert 2
+insert 1
+insert 4
+delete 1
+delete 3
+delete 2
+delete 1
+insert 4
+delete 4
+delete 4
+74 neither
+hetero
+both
+both
+hetero
+hetero
+hetero
+neither
+homo
+neither
+neither
+1
+1
+55 6
+insert 1
+delete 1
+insert 1
+delete 1
+insert 1
+insert 2
+46 neither
+neither
+neither
+neither
+neither
+hetero
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_HOMO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

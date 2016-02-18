@@ -1,0 +1,29 @@
+10 SPOJ_PTIME
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+2 10
+21 2^8 * 3^4 * 5^2 * 7^1
+1
+1
+5 10000
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_PTIME
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

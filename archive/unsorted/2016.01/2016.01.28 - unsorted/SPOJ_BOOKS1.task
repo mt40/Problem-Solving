@@ -1,0 +1,40 @@
+11 SPOJ_BOOKS1
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+65 2
+9 3
+100 200 300 400 500 600 700 800 900
+5 4
+100 100 100 100 100
+65 100 200 300 400 500 / 600 700 / 800 900
+100 / 100 / 100 / 100 100
+1
+1
+43 2
+5 3
+1 1 1 100 200
+
+5 5
+1 1 1000 1100 2000
+44 1 / 1 1 100 / 200
+1 / 1 / 1000 / 1100 / 2000
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_BOOKS1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.28
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

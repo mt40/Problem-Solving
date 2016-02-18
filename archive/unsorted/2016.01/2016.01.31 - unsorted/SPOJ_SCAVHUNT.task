@@ -1,0 +1,42 @@
+13 SPOJ_SCAVHUNT
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+96 2
+4
+SwimmingPool OldTree
+BirdsNest Garage
+Garage SwimmingPool
+3
+Toilet Hospital
+VideoGame Toilet
+91 Scenario #1:
+BirdsNest
+Garage
+SwimmingPool
+OldTree
+
+Scenario #2:
+VideoGame
+Toilet
+Hospital
+
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_SCAVHUNT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.31
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

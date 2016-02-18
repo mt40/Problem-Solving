@@ -1,0 +1,38 @@
+13 SPOJ_TDKPRIME
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+36 7
+1
+10
+100
+1000
+10000
+100000
+1000000
+37 2
+29
+541
+7919
+104729
+1299709
+15485863
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_TDKPRIME
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.24
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -25,12 +25,63 @@ public class FastScanner {
     }
 
     public char[] c() {
-        return in.next().toCharArray();
+        return c(false);
     }
 
-    public int[] arr(int n) {
-        int[] a = new int[n];
-        for (int i = 0; i < n; ++i) a[i] = in.nextInt();
+    public char[] c(boolean from1) {
+        char []tmp = in.next().toCharArray();
+        if(from1) {
+            char []a = new char[tmp.length + 1];
+            System.arraycopy(tmp, 0, a, 1, a.length - 1);
+            return a;
+        }
+        return tmp;
+    }
+
+    public char[][] c(int n, int m) {
+        char [][]a = new char[n][m];
+        for (int i = 0; i < n; ++i) {
+            char []t = c();
+            System.arraycopy(t, 0, a[i], 0, m);
+        }
+        return a;
+    }
+
+    public int[] arr(int n) { return arr(n, false); }
+
+    public int[] arr(int n, boolean from1) {
+        int []a;
+        if(from1) {
+            a = new int[n + 1];
+            for (int i = 1; i <= n; ++i) a[i] = in.nextInt();
+        }
+        else {
+            a = new int[n];
+            for (int i = 0; i < n; ++i) a[i] = in.nextInt();
+        }
+        return a;
+    }
+
+    public int[][] arr(int n, int m) {
+        int [][]a = new int[n][m];
+        for (int i = 0; i < n; ++i)
+            for(int j = 0; j < m; ++j)
+                a[i][j] = in.nextInt();
+        return a;
+    }
+
+    public long[] arrl(int n) { return arrl(n, false); }
+
+    public long[] arrl(int n, boolean from1) {
+        long []a;
+        if(from1) {
+            a = new long[n + 1];
+            for (int i = 1; i <= n; ++i) a[i] = in.nextLong();
+        }
+        else {
+            a = new long[n];
+            for (int i = 0; i < n; ++i) a[i] = in.nextLong();
+        }
         return a;
     }
 }

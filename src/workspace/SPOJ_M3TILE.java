@@ -12,7 +12,7 @@ public class SPOJ_M3TILE {
 /**
  * Ý tưởng:
  * dp[i] = cách xếp của hình 3xi
- * p[i] = cách xếp hình 3xi mà bị mất 1 miếng 1x2
+ * p[i] = cách xếp hình 3xi mà bị mất 1 miếng 2x1
  * TH1:
  *      ==
  *      |   dp[i] = p[i - 1]
@@ -22,14 +22,14 @@ public class SPOJ_M3TILE {
  * TH3:
  *      ||  (tức cách xếp hoàn hảo cho 3x2)
  *      ==  dp[i] = dp[i - 2]
- * Total: dp[i] = dp[i - 2] + 2 * p[i] (1)
- * Xét p[i]:
+ * Total: dp[i] = dp[i - 2] + 2 * p[i - 1] (1)
+ * Xét p[i-1]:
  * TH1:
  *      ==  lắp thêm    . thì còn lại dp[i - 2]
  *      |               |
  * TH2:
  *      ==  lắp thêm    .   thì phải lắp thêm   == v còn lại p(i - 2)
- *      |   (2 1x2)     ==  1x2                 =
+ *      |   (2 2x1)     ==  1x2                 =
  *                      ==                      =
  * Total: p[i-1] = dp[i-2) + p[i - 3)
  * ==> dp[i] = 3 * dp[i - 2] + 2 * p[i-3]

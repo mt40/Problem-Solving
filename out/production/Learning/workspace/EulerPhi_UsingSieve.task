@@ -1,0 +1,38 @@
+19 EulerPhi_UsingSieve
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+31 7
+1
+2
+3
+10
+99999
+1000000
+123456
+26 1
+1
+2
+4
+64800
+400000
+41088
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+29 workspace.EulerPhi_UsingSieve
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.09
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

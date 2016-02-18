@@ -158,6 +158,8 @@ public class SplayTreeImplementation {
                 // Zig-zag case (left-right): x <-right- parent <-left- root
                 else if(root.left.key < key) {
                     root.left.right = splay(root.left.right, key);
+                    // in the above case, we can do the same as here
+                    // but it costs 1 more line ...
                     if(root.left.right != null)
                         root.left = rotateLeft(root.left);
                 }

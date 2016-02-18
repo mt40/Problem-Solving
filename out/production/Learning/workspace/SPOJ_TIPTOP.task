@@ -1,0 +1,33 @@
+11 SPOJ_TIPTOP
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+5 2
+4
+5
+22 Case 1: Yes
+Case 2: No
+1
+1
+21 1
+1000000000000000000
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_TIPTOP
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.30
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

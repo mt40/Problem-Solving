@@ -1,0 +1,45 @@
+11 SPOJ_NITK06
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+13 2
+2
+1 2
+2
+2 2
+6 NO
+YES
+1
+1
+41 4
+3
+1 2 3
+4
+4 3 2 1
+4
+2 3 4 3
+5
+2 3 4 4 1
+13 NO
+NO
+YES
+YES
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_NITK06
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

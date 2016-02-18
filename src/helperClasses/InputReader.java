@@ -6,9 +6,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-/**
- * Created by Minh Thai on 3/22/2015.
- */
 public class InputReader {
     public BufferedReader reader;
     public StringTokenizer tokenizer;

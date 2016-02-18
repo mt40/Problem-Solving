@@ -1,0 +1,28 @@
+12 SPOJ_GEOPROB
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+16 2
+3 8 5
+10 18 12
+4 8
+14
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_GEOPROB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

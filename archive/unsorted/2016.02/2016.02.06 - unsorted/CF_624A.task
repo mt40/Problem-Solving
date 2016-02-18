@@ -1,0 +1,29 @@
+7 CF_624A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 2 6 2 2
+22 1.00000000000000000000
+1
+1
+7 1 9 1 2
+22 2.66666666666666650000
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_624A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.06
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

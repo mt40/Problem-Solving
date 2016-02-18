@@ -1,0 +1,35 @@
+11 SPOJ_NAKANJ
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+19 3
+a1 h8
+a1 c2
+h8 c3
+6 6
+1
+4 
+1
+1
+7 1
+h8 c3
+1 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_NAKANJ
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

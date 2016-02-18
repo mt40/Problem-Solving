@@ -1,0 +1,39 @@
+8 SPOJ_PRO
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+32 5
+3 1 2 3
+2 1 1
+4 10 5 5 1
+0
+1 2
+2 19
+1
+1
+17 5
+3 1 2 3
+0
+0
+0
+0
+1 2
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.SPOJ_PRO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.01.25
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

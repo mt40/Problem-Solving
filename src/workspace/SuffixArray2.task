@@ -1,0 +1,29 @@
+12 SuffixArray2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+6 banana
+11 3 2 5 1 4 0
+1
+1
+7 bobocel
+13 0 5 1 6 2 3 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SuffixArray2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.17
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
