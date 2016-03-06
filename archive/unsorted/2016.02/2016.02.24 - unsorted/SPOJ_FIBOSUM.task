@@ -1,0 +1,30 @@
+12 SPOJ_FIBOSUM
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+15 3
+0 3
+3 5
+10 19
+10 4
+10
+10857
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_FIBOSUM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.24
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

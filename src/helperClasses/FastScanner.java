@@ -32,7 +32,7 @@ public class FastScanner {
         char []tmp = in.next().toCharArray();
         if(from1) {
             char []a = new char[tmp.length + 1];
-            System.arraycopy(tmp, 0, a, 1, a.length - 1);
+            System.arraycopy(tmp, 0, a, 1, tmp.length);
             return a;
         }
         return tmp;

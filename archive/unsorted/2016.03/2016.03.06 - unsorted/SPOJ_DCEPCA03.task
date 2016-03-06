@@ -1,0 +1,46 @@
+13 SPOJ_DCEPCA03
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+6 2
+3
+10
+7 16
+1024
+1
+1
+22 7
+1
+2
+3
+10
+12
+10000
+11
+38 1
+4
+16
+1024
+2116
+924007155120196
+1764
+
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_DCEPCA03
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.06
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

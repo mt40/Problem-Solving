@@ -1,0 +1,39 @@
+11 SPOJ_CTGAME
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+120 2
+5 6
+R F F F F F
+F F F F F F
+R R R F F F
+F F F F F F
+F F F F F F
+
+5 5
+R R R R R
+R R R R R
+R R R R R
+R R R R R
+R R R R R
+4 45
+0
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_CTGAME
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,35 @@
+10 SPOJ_VENOM
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+21 3
+3 7 2
+81 4 1
+87 8 4
+6 1
+13
+9
+1
+1
+8 1
+10 2 1
+1 5
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_VENOM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.01
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

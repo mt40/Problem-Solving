@@ -1,0 +1,46 @@
+15 HKR_CounterGame
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+3 1
+6
+7 Richard
+1
+1
+5 2
+1
+8
+14 Richard
+Louise
+1
+2
+103 5
+6703734870638684097
+7597026128958891522
+13174607262084689114
+6959712971461184279
+12572864054437627553
+36 Richard
+Richard
+Louise
+Louise
+Louise
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+25 workspace.HKR_CounterGame
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.05
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

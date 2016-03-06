@@ -1,0 +1,35 @@
+13 SPOJ_CYLINDER
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+21 10 10
+10 50
+10 30
+0 0
+22 54.247
+785.398
+412.095
+0
+1
+9 10 30
+0 0
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_CYLINDER
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.27
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

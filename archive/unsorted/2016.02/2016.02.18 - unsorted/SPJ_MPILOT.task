@@ -1,0 +1,39 @@
+10 SPJ_MPILOT
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+45 4 
+5000 3000 
+6000 2000 
+8000 1000 
+9000 6000
+5 19000
+1
+1
+69 6 
+10000 7000 
+9000 3000 
+6000 4000 
+5000 1000 
+9000 3000 
+8000 6000 
+5 32000
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPJ_MPILOT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87707281-7ec6-4764-906d-58738818a3dc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chelper.properties" afterPath="$PROJECT_DIR$/chelper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chelper.properties" afterPath="$PROJECT_DIR$/chelper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,28 +35,7 @@
     <favorites_list name="Learning" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SuffixArray2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConvexHull.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/workspace/ConvexHull.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5296167">
-              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,57 +56,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_OPCPIZZA.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SOPJ_RPLE.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_NFACTOR.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ORDERS.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_RABBIT1.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_624A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_624B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CNEASY.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_AFS.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_STABLEMP.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GCPC11F.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_LCMSUM.java" />
-        <option value="$PROJECT_DIR$/src/workspace/EulerPhi_UsingSieve.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SplayTreeImplementation.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_TRIGALGE.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_POSTERS.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_RPLD.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_HOMO.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_JOKER1.java" />
-        <option value="$PROJECT_DIR$/src/helperClasses/FastScanner.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MAIN8_C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_AP3.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_QUEST4.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_DIV15.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_FUNPROB.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_FAKETSP.java" />
-        <option value="$PROJECT_DIR$/src/workspace/LineInHashmap.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_LINES.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_BOTTOM.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ANARC09C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_KQUERY.java" />
-        <option value="$PROJECT_DIR$/src/helperClasses/InputReader.java" />
-        <option value="$PROJECT_DIR$/src/helperClasses/FastInputReader.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_KURUK14.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GSS1.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GSS3.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GSS5.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_626A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_626B.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_AMR10C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_AMR11A.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SOLDIER.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_RPLB.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MZVRK.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_NICEDAY.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CPRIME.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MATCHING.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SuffixArray2.java" />
-        <option value="$PROJECT_DIR$/src/workspace/SPOJ_LCS.java" />
-        <option value="$PROJECT_DIR$/src/helperClasses/Util.java" />
-        <option value="$PROJECT_DIR$/src/workspace/ConvexHull.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_PCPC12J.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CYLINDER.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_DIV.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_TRAFFICN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_BEHAPPY.java" />
+        <option value="$PROJECT_DIR$/src/workspace/LCA_In_Tree.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_HAMSTER1.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MIDO.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ANDROUND.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_IITKWPCA.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MAXWOODS.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ENCONDIN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CENCRY.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_NFURY.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CUTCAKE.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_FAST2.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MTOTALF.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_OAE.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_VENOM.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_632A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_632B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_632C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_632D.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ABA12C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_RLE.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MOHIB.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GSHOP.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_LCPC12F.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SAMER08E.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SUBS.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_CLEANRBT.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SUBSEQ.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SPCU.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_631A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_631B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_631C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_SYNC13C.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_RATING.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_631D.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ARRANGE.java" />
+        <option value="$PROJECT_DIR$/src/workspace/HKR_CounterGame.java" />
+        <option value="$PROJECT_DIR$/src/workspace/HKR_SansaAndXOR.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GSS4.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CC_STRPALIN.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CC_MAXISUM.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CC_CHEFSPL.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_DCEPCA03.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GNY07D.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MBINGO.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ROBBERY2.java" />
       </list>
     </option>
   </component>
@@ -147,8 +126,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
+    <option name="x" value="697" />
+    <option name="width" value="676" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -225,8 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -246,40 +223,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problem-Solving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problem-Solving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workspace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,7 +236,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/archive/unsorted/2016.02/2016.02.17 - unsorted/SuffixArray2.task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FastIOTaskClass.template" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
@@ -300,14 +247,14 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jpower8.idea.plugin.statictic.StatisticProjectComponent" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="SearchEverywhereHistoryKey" value="util&#9;PSI&#9;JAVA://helperClasses.Util&#10;input&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/InputReader.java&#10;inpu&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/InputReader.java&#10;fas&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;fa&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;Input&#9;PSI&#9;JAVA://helperClasses.InputReader&#10;ShortS&#9;PSI&#9;JAVA://helperClasses.ShortScanner&#10;fast&#9;PSI&#9;JAVA://helperClasses.FastScanner&#10;FastSca&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;Fast&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/FastIOTaskClass.template&#10;my&#9;FILE&#9;file://D:/My Document/Java projects/Problem-Solving/MyTaskClass.template" />
   </component>
-  <component name="RunManager" selected="Task.ConvexHull">
+  <component name="RunManager" selected="Task.ASCII_and_Integer">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1377,7 +1324,19 @@
       <taskConf>src/workspace/SuffixArray2.task</taskConf>
       <method />
     </configuration>
-    <list size="162">
+    <configuration default="false" name="LargestRectagleUnderHistogram" type="Task" factoryName="Task">
+      <taskConf>src/workspace/LargestRectagleUnderHistogram.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="MultiplicationBySquaring" type="Task" factoryName="Task">
+      <taskConf>src/workspace/MultiplicationBySquaring.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="FloatingPointError" type="Task" factoryName="Task">
+      <taskConf>src/workspace/FloatingPointError.task</taskConf>
+      <method />
+    </configuration>
+    <list size="165">
       <item index="0" class="java.lang.String" itemvalue="Task.ASCII_and_Integer" />
       <item index="1" class="java.lang.String" itemvalue="Task.AVL_Implementation" />
       <item index="2" class="java.lang.String" itemvalue="Task.AdobeHackathon_APerfectArray" />
@@ -1540,6 +1499,9 @@
       <item index="159" class="java.lang.String" itemvalue="Task.MedianOf2SortedArrays_set2" />
       <item index="160" class="java.lang.String" itemvalue="Task.EulerPhi_UsingSieve" />
       <item index="161" class="java.lang.String" itemvalue="Task.SuffixArray2" />
+      <item index="162" class="java.lang.String" itemvalue="Task.LargestRectagleUnderHistogram" />
+      <item index="163" class="java.lang.String" itemvalue="Task.MultiplicationBySquaring" />
+      <item index="164" class="java.lang.String" itemvalue="Task.FloatingPointError" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -1660,12 +1622,38 @@
       <workItem from="1455545306514" duration="26443000" />
       <workItem from="1455678542364" duration="435000" />
       <workItem from="1455679022620" duration="5512000" />
-      <workItem from="1455705611548" duration="3970000" />
+      <workItem from="1455705611548" duration="5213000" />
+      <workItem from="1455770654754" duration="31318000" />
+      <workItem from="1455895055213" duration="2818000" />
+      <workItem from="1455932260048" duration="168000" />
+      <workItem from="1455932452650" duration="150000" />
+      <workItem from="1455932837078" duration="1203000" />
+      <workItem from="1455934968859" duration="7616000" />
+      <workItem from="1455983174680" duration="9878000" />
+      <workItem from="1456064460445" duration="2259000" />
+      <workItem from="1456154583893" duration="3953000" />
+      <workItem from="1456218891860" duration="12482000" />
+      <workItem from="1456303541225" duration="33594000" />
+      <workItem from="1456535667593" duration="255000" />
+      <workItem from="1456536129651" duration="9504000" />
+      <workItem from="1456554636044" duration="4851000" />
+      <workItem from="1456566006693" duration="135000" />
+      <workItem from="1456657575035" duration="4617000" />
+      <workItem from="1456669037965" duration="3249000" />
+      <workItem from="1456716928925" duration="16214000" />
+      <workItem from="1456796703166" duration="33856000" />
+      <workItem from="1456924582490" duration="1469000" />
+      <workItem from="1456975977500" duration="12842000" />
+      <workItem from="1457021952509" duration="11858000" />
+      <workItem from="1457082653565" duration="5740000" />
+      <workItem from="1457142403516" duration="3779000" />
+      <workItem from="1457167309552" duration="6780000" />
+      <workItem from="1457191458201" duration="19400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="896237000" />
+    <option name="totallyTimeSpent" value="1137468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1677,26 +1665,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="697" y="0" width="676" height="735" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28737542" sideWeight="0.50586855" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28737542" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.49413145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724252" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38147566" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56792146" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25945538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5581015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41362128" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38870433" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1704,10 +1693,38 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32225913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28737542" sideWeight="0.50586855" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5581015" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38870433" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.49413145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724252" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25945538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32225913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.template" />
@@ -1760,11 +1777,15 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="1587" />
+      <option name="time" value="1884" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Task">
-        <watch expression="primes[primes.length-1]" language="JAVA" custom="" />
+        <watch expression="b[i].rangeSum(0, n - 1)" language="JAVA" custom="" />
+        <watch expression="sumPhi[10000]" language="JAVA" custom="" />
+        <watch expression="sumPhi[10000]*sumPhi[10000]" language="JAVA" custom="" />
+        <watch expression="sumPhi[9999]" language="JAVA" custom="" />
+        <watch expression="phi[10000]" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -1773,9 +1794,58 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/workspace/Knapsack_revisit.java">
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3627204">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/ConvexHull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -1808,27 +1878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/EulerPhi_UsingSieve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1172069">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43288592">
-          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/ExponentBySquaring2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.47630924">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/LineInHashmap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1843,13 +1892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/helperClasses/FastScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8341464">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/BIT_2d.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.276808">
@@ -1861,13 +1903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03990025">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1892,35 +1927,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/BST_FromPreorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/AlmostSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/MaxFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3519164">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1928,14 +1938,191 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3066202">
           <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/ConvexHull.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5296167">
-          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.14808363">
+          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/Dijkstras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/Knapsack_revisit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/LargestRectagleUnderHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08229426">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MaxFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/ExponentBySquaring2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.29538462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MultiplicationBySquaring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32169577">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BST_FromPreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.47880298">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BinaryTreeReconstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BinaryTreeReconstruction2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8379052">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43890274">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/FloatingPointError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43890274">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/Dijkstra_K_ShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/LCA_In_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/LCAinBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.59600997">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helperClasses/FastScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.54613465">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23021583">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CombinationNoOverflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.446281">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/unsorted/2016.02/2016.02.13 - unsorted/SPOJ_BOTTOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4163763">
+          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/KnuthMorrisPrath2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027826088">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BIT_Implementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8643478">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SegmentTree2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027874565">
+          <caret line="106" column="58" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/EulerPhi_UsingSieve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.185185">
+          <caret line="247" column="0" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
           <folding />
         </state>
       </provider>

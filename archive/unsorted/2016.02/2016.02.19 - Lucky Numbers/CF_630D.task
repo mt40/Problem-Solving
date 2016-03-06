@@ -1,0 +1,33 @@
+7 CF_630D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+1 2
+2 19
+1
+1
+1 0
+1 1
+1
+2
+1 1
+1 7
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_630D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.19
+13 Lucky Numbers
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,50 @@
+11 SPOJ_GNY07D
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+22 1
+4 4 0000110100101100
+5 1 ACM
+0
+1
+63 3
+5 2 0110000010
+2 6 010000001001
+5 5 0100001000011010110000010
+17 1 HI
+2 HI
+3 HI HO
+0
+2
+48 4
+6 2 010000001001
+1 1 1
+2 1 11
+3 4 000111111000
+-1
+0
+3
+32 2
+3 4 000111111000
+3 3 000001000
+8 1 CC
+2 B
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_GNY07D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.06
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

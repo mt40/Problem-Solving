@@ -1,0 +1,26 @@
+29 LargestRectagleUnderHistogram
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+15 7
+6 2 5 4 5 1 6
+2 12
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+39 workspace.LargestRectagleUnderHistogram
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

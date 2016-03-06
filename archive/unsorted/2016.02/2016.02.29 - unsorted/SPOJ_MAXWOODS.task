@@ -1,0 +1,98 @@
+13 SPOJ_MAXWOODS
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+36 1
+
+5 5
+0TTTT
+T#T#0
+#TT#T
+T00T0
+T0#T0
+1 8
+1
+1
+67 4
+
+5 5
+0TTTT
+T#T#0
+#TT#T
+T00T0
+T0#T0
+
+1 1
+T
+
+3 3
+T#T
+TTT
+T#T
+
+1 1
+#
+7 8
+1
+3
+0
+1
+2
+85 5
+3 3
+T#T
+TTT
+T#T
+
+3 3
+##T
+TTT
+T#T
+
+3 3
+0#T
+#TT
+T#T
+
+3 3
+000
+0T0
+00T
+
+3 3
+000
+0T0
+T00
+9 3
+0
+0
+2
+2
+1
+3
+25 1
+4 4
+000T
+00T0
+0T00
+T000
+1 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_MAXWOODS
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.29
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

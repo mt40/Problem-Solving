@@ -1,0 +1,30 @@
+9 SPOJ_SPCU
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+14 2
+2
+0 1
+2
+1 1 
+6 YES
+NO
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_SPCU
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.03
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

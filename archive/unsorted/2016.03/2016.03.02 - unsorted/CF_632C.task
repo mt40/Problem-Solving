@@ -1,0 +1,57 @@
+7 CF_632C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+21 4
+abba
+abacaba
+bcd
+er
+16 abacabaabbabcder
+1
+1
+6 2
+c
+cz
+3 ccz
+1
+2
+21 5
+x
+xx
+xxa
+xxaa
+xxaaa
+15 xxaaaxxaaxxaxxx
+1
+3
+10 3
+c
+cb
+cba
+6 cbacbc
+1
+4
+13 2
+aba
+abaaaab
+10 abaaaababa
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_632C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.02
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

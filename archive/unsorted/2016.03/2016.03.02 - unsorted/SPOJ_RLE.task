@@ -1,0 +1,35 @@
+8 SPOJ_RLE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+37 aabbbbbccccc
+aaaabbbbbbbbbbbbbbbccccc
+19 aa5!b5!c
+4!a15!b5!c
+1
+1
+25 bbbbacccc
+bbbac
+dbbbbaacd
+22 4!ba4!c
+bbbac
+d4!baacd
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.SPOJ_RLE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.02
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,63 @@
+7 CF_629B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+6
+0
+40 4
+M 151 307
+F 343 352
+F 117 145
+M 24 128
+1 2
+1
+1
+61 6
+M 128 130
+F 128 131
+F 131 140
+F 131 141
+M 131 200
+M 140 200
+1 4
+1
+2
+13 2
+M 1 2
+F 3 4
+1 0
+1
+3
+13 2
+M 1 2
+M 1 4
+1 0
+1
+4
+7 1
+M 1 2
+1 0
+1
+5
+19 3
+M 1 2
+F 3 4
+M 2 3
+1 2
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_629B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.02.20
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

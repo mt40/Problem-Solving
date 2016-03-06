@@ -1,0 +1,41 @@
+11 SPOJ_SUBSEQ
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+59 2
+
+13
+2 7 1 8 2 8 1 8 2 8 4 5 9
+
+7
+2 47 10047 47 1047 47 47
+3 3
+4
+1
+1
+28 2
+2
+0 47
+5
+47 -47 -10 57 100
+3 2
+3
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_SUBSEQ
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.03
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

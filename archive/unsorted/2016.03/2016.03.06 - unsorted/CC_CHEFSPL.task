@@ -1,0 +1,71 @@
+10 CC_CHEFSPL
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+15 3
+aba
+abac
+abcd
+9 YES
+NO
+NO
+1
+1
+65 8
+acdcbacdc
+abefdabd
+fabcdabc
+aacaaac
+aaaa
+aaaaa
+aaaaaac
+aaabaaac
+28 YES
+NO
+NO
+YES
+YES
+YES
+YES
+NO
+1
+2
+15 4
+a
+ab
+abc
+aabc
+11 NO
+NO
+NO
+NO
+1
+3
+29 4
+aaaa
+aaaaa
+aaaaaac
+aaabaaac
+14 YES
+YES
+YES
+NO
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.CC_CHEFSPL
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.06
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
