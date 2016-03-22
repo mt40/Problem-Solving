@@ -1,2 +1,4 @@
-32 src/workspace/SPOJ_ROBBERY2.task
-0
+29 src/workspace/SPOJ_EMTY2.task
+2
+1
+2

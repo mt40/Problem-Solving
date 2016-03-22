@@ -41,4 +41,8 @@ public class InputReader {
     public long nextLong() {
         return Long.parseLong(next());
     }
+
+    public boolean nextBool() {
+        return Boolean.parseBoolean(next());
+    }
 }

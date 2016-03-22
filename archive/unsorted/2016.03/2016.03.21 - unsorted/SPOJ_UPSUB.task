@@ -1,0 +1,49 @@
+10 SPOJ_UPSUB
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+10 1
+abcbcbcd
+20 abbbcd
+abbccd
+abcccd
+1
+1
+19 2
+abcdnsa
+astuabacs
+18 abcdns
+aaacs
+aabcs
+1
+2
+24 1
+abcdnsaabanjbnkwbjswjs
+89 aaaabbjjs
+aaaabbjss
+aaaabbjsw
+aaabbbjjs
+aaabbbjss
+aaabbbjsw
+abcdnnnss
+abcdnnnsw
+abcdnnnww
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_UPSUB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.21
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

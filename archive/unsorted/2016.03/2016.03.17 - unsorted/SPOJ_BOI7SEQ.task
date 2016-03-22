@@ -1,0 +1,58 @@
+12 SPOJ_BOI7SEQ
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+7
+0
+7 3
+1
+2
+3
+1 5
+1
+1
+13 6
+1 3 4 6 5 2
+2 24
+1
+2
+13 6
+1 4 2 6 3 5
+2 25
+1
+3
+9 4
+3 3 4 6
+2 13
+1
+4
+9 4
+6 4 3 3
+2 13
+1
+5
+9 4
+4 6 3 3
+2 15
+1
+6
+9 4
+4 4 4 4
+2 12
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_BOI7SEQ
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.17
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

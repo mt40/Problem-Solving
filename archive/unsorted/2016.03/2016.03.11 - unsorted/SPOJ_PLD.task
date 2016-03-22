@@ -1,0 +1,86 @@
+8 SPOJ_PLD
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+13
+0
+8 5
+ababab
+1 2
+1
+1
+8 3
+ababab
+1 4
+1
+2
+6 3
+abcb
+1 1
+1
+3
+6 3
+abab
+1 2
+1
+4
+9 4
+abcbabc
+1 0
+1
+5
+12 4
+abcbabccba
+1 1
+1
+6
+6 3
+aaaa
+1 2
+1
+7
+9 0 
+aammnn
+1 0
+1
+8
+8 1
+aammnn
+1 6
+1
+9
+433 20
+aaaabbbbbbbbbbbbbbbbabbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccczzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasadddddddddddddddddddddddddiwwwwwwwwwwwwwwwwwwwwwwwwwwweqdxbamsnxusagdhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazzzvvvvvvvvvvvvvvvvvvvvvvvvvxxxxxzxzvvzvzgxhzxjzh
+3 160
+1
+10
+7 5
+aabbb
+1 0
+1
+11
+8 2
+aammnn
+1 3
+1
+12
+15 3
+bbaaaaaccaaaa
+1 5
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.SPOJ_PLD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

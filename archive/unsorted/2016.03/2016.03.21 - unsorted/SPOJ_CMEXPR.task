@@ -1,0 +1,45 @@
+11 SPOJ_CMEXPR
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+99 8
+(a+(b*c))
+((a+b)*c)
+(a*(b*c))
+(a*(b/c)*d)
+((a/(b/c))/d)
+((x))
+(a+b)-(c-d)-(e/f)
+(a+b)+(c-d)-(e+f)
+67 a+b*c
+(a+b)*c
+a*b*c
+a*b/c*d
+a/(b/c)/d
+x
+a+b-(c-d)-e/f
+a+b+c-d-(e+f)
+0
+1
+9 1
+a*(b*c)
+5 a*b*c
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_CMEXPR
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.21
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

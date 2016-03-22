@@ -1,0 +1,46 @@
+8 CLOPPAIR
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+25 5 
+0 0
+0 1
+100 45
+2 3
+9 9
+12 0 1 1.000000
+1
+1
+24 5
+0 0
+-4 1
+-7 -2
+4 5
+1 1
+12 0 4 1.414214
+1
+2
+13 3
+0 0
+1 1
+1 2
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.CLOPPAIR
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
