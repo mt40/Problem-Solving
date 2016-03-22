@@ -1,2 +1,2 @@
-32 src/workspace/SPOJ_ROBBERY2.task
+31 src/workspace/SPOJ_MAY99_4.task
 0

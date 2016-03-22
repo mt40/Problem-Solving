@@ -1,0 +1,48 @@
+10 SPOJ_HIST2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+19 4
+1 2 3 4
+3
+2 6 5
+0
+9 20 8
+24 2
+0
+1
+9 3
+4 1 2
+0
+4 16 2
+0
+2
+39 15
+1 2 3 4 20 10 1 9 13 4 4 20 10 1 9
+0
+14 188 2307916800
+0
+3
+11 4
+1 2 3 4
+0
+4 20 8
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_HIST2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.06
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
