@@ -10,6 +10,8 @@ public class FastScanner {
         this.in = in;
     }
 
+    public boolean b() { return in.nextBool(); }
+
     public int i() {
         return in.nextInt();
     }

@@ -1,0 +1,30 @@
+11 SPOJ_HALLOW
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+36 4 5
+1 2 3 7 5
+3 6
+7 11 2 5 13 17
+0 0
+9 3 5
+2 3 4
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_HALLOW
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,33 @@
+9 SPOJ_MMAS
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+4 COOH
+2 45
+1
+1
+9 CH(CO2H)3
+3 148
+1
+2
+21 ((CH)2(OH2H)(C(H))O)3
+3 222
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_MMAS
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.13
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

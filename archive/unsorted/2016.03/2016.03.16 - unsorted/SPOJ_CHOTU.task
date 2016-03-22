@@ -1,0 +1,26 @@
+10 SPOJ_CHOTU
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+5 1
+4 2
+5 6.928
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_CHOTU
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

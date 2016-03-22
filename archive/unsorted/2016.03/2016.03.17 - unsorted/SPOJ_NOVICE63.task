@@ -1,0 +1,39 @@
+13 SPOJ_NOVICE63
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+9 3
+8
+16
+32
+5 1
+4
+4
+1
+1
+7 3
+2
+4
+8
+5 1
+1
+1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_NOVICE63
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.17
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

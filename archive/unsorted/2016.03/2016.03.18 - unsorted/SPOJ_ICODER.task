@@ -1,0 +1,47 @@
+11 SPOJ_ICODER
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+107 1
+ADD 3
+1
+MUL 0
+5
+MUL 3
+ADD 4
+MUL 5
+ADD 3
+MUL 2
+8
+ADD 32
+MUL 5312
+ADD 7
+MUL 7
+ADD 32
+MUL 5312
+ADD 7
+MUL 7
+0
+16 65536
+1
+32768
+16
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_ICODER
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.18
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,90 @@
+7 CF_644C
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+6
+0
+217 10
+http://abacaba.ru/test
+http://abacaba.ru/
+http://abacaba.com
+http://abacaba.com/test
+http://abacaba.de/
+http://abacaba.ru/test
+http://abacaba.de/test
+http://abacaba.com/
+http://abacaba.com/t
+http://abacaba.com/test
+38 1
+http://abacaba.de http://abacaba.ru 
+1
+1
+25 2
+http://abc/
+http://a.c/
+23 1
+http://a.c http://abc
+1
+2
+85 4
+http://abacaba.ru/test
+http://abacaba.ru/
+http://abacaba.de/
+http://abacaba.de/test
+38 1
+http://abacaba.de http://abacaba.ru 
+1
+3
+240 14
+http://c
+http://ccc.bbbb/aba..b
+http://cba.com
+http://a.c/aba..b/a
+http://abc/
+http://a.c/
+http://ccc.bbbb
+http://ab.ac.bc.aa/
+http://a.a.a/
+http://ccc.bbbb/
+http://cba.com/
+http://cba.com/aba..b
+http://a.a.a/aba..b/a
+http://abc/aba..b/a
+69 2
+http://cba.com http://ccc.bbbb 
+http://a.a.a http://a.c http://abc 
+1
+4
+92 6
+http://c
+http://ccc.bbbb/aba..b
+http://cba.com
+http://a.c/aba..b/a
+http://abc/
+http://a.c/
+25 1
+http://cba.com http://c
+1
+5
+36 3
+http://abc/
+http://a.c/
+http://a.c
+1 0
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_644C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

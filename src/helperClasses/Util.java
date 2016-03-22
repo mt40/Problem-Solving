@@ -22,6 +22,18 @@ public class Util {
         return m;
     }
 
+    public static int maxIndex(int...v) {
+        if(v.length == 0) return -1;
+        int max = v[0], index = 0;
+        for(int i = 1; i < v.length; ++i) {
+            if(v[i] > max) {
+                max = v[i];
+                index = i;
+            }
+        }
+        return index;
+    }
+
     public static double min(double... v) {
         double m = Double.POSITIVE_INFINITY;
         for (double d : v) if (d < m) m = d;
@@ -49,5 +61,10 @@ public class Util {
             for(char c : ari)
                 rs[i++] = c;
         return rs;
+    }
+
+    public static int[][] get2DMoves() {
+        // left, up, right, down
+        return new int[][] {{0,-1}, {-1,0}, {0,1}, {1,0}};
     }
 }
