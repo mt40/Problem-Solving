@@ -18,52 +18,31 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        SPOJ_ROBBERY2 solver = new SPOJ_ROBBERY2();
-        int testCount = Integer.parseInt(in.next());
-        for (int i = 1; i <= testCount; i++)
-            solver.solve(i, in, out);
+        SPOJ_MAY99_4 solver = new SPOJ_MAY99_4();
+        solver.solve(1, in, out);
         out.close();
     }
 
-    static class SPOJ_ROBBERY2 {
+    static class SPOJ_MAY99_4 {
+        int mod = 1000 * 1000 * 10 + 7;
+        long[][] dp;
+
         public void solve(int testNumber, InputReader input, PrintWriter out) {
             FastScanner in = new FastScanner(input);
-            long n = in.l(), k = in.l();
+            int n = in.i(), r = in.i();
 
-            long t = bSearch(n, k);
-            long left = n - f(k, t);
-            for (int i = 1; i <= k; ++i) {
-                long coins = i * t + csc(t - 1) * k;
-                long last = k * t + i;
-                coins += Math.min(last, left);
-                left = Math.max(left - last, 0);
-
-                out.print(Long.toUnsignedString(coins) + " ");
+            if (n < r) out.println(-1);
+            else {
+                dp = new long[n][r];
+                out.println(comb(n - 1, r - 1) % mod);
             }
-            out.println();
         }
 
-        long bSearch(long n, long k) {
-            long low = 0, hi = n / k, rs = low;
-            while (low <= hi) {
-                long m = low + (hi - low) / 2;
-                long coins = f(k, m);
-                if (Long.compareUnsigned(coins, n) <= 0) {
-                    rs = m;
-                    low = m + 1;
-                }
-                else hi = m - 1;
-            }
-            return rs;
-        }
-
-        long f(long k, long x) {
-            return x * csc(k) + k * k * csc(x - 1);
-        }
-
-        long csc(long n) {
-            if (n <= 0) return 0;
-            return Long.divideUnsigned(n * (n + 1), 2);
+        long comb(int n, int k) {
+            if (k == 0 || k == n) return 1;
+            if (dp[n][k] > 0) return dp[n][k];
+            dp[n][k] = comb(n - 1, k - 1) % mod + comb(n - 1, k) % mod;
+            return dp[n][k];
         }
 
     }
@@ -89,8 +68,8 @@ public class Main {
             return tokenizer.nextToken();
         }
 
-        public long nextLong() {
-            return Long.parseLong(next());
+        public int nextInt() {
+            return Integer.parseInt(next());
         }
 
     }
@@ -102,8 +81,8 @@ public class Main {
             this.in = in;
         }
 
-        public long l() {
-            return in.nextLong();
+        public int i() {
+            return in.nextInt();
         }
 
     }
