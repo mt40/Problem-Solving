@@ -1,0 +1,35 @@
+12 SPOJ_FINDPRM
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 3
+2
+4
+7
+5 1
+1
+2
+1
+1
+10 1
+10000000
+6 316066
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_FINDPRM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.05
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

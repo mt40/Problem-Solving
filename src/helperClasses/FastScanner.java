@@ -41,10 +41,17 @@ public class FastScanner {
     }
 
     public char[][] c(int n, int m) {
+        return c(n, m, false);
+    }
+
+    public char[][] c(int n, int m, boolean from1) {
+        int start = from1 ? 1 : 0;
+        n += start;
+        m += start;
         char [][]a = new char[n][m];
-        for (int i = 0; i < n; ++i) {
+        for (int i = start; i < n; ++i) {
             char []t = c();
-            System.arraycopy(t, 0, a[i], 0, m);
+            System.arraycopy(t, 0, a[i], start, t.length);
         }
         return a;
     }

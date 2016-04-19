@@ -1,0 +1,33 @@
+7 CF_660B
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+3 2 7
+13 5 1 6 2 7 3 4
+1
+1
+4 9 36
+98 19 1 20 2 21 3 22 4 23 5 24 6 25 7 26 8 27 9 28 10 29 11 30 12 31 13 32 14 33 15 34 16 35 17 36 18
+1
+2
+3 3 5
+9 1 2 3 4 5
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_660B
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.11
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

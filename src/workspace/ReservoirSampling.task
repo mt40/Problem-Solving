@@ -1,0 +1,26 @@
+17 ReservoirSampling
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+52 4
+13 16 8 2 3 17 11 15 9 19 18 6 4 20 1 14 7 10 12 5
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+27 workspace.ReservoirSampling
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.08
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

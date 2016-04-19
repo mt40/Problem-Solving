@@ -1,0 +1,36 @@
+10 SPOJ_WORKB
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+32 2
+1 10 10
+5
+5 10 2
+5 10 15 65 70
+23 Case #1: 30
+Case #2: 74
+1
+1
+12 1
+2 1 10
+5 6
+11 Case #1: 22
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+20 workspace.SPOJ_WORKB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.17
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

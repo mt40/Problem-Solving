@@ -1,0 +1,47 @@
+8 SPOJ_RLM
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+11 1124 / 1112
+18 1124 / 1112 = 1112
+1
+1
+25 9252 / 12
+10 * 59
+10 + 10
+42 9252 / 12 = 9151
+10 * 59 = 10
+10 + 10 = 10
+1
+2
+59 11 + 11
+988726 - 978625
+12 * 41
+1124 / 1112
+13 * 33
+15 / 16
+95 11 + 11 = 12
+988726 - 978625 = 919111
+12 * 41 = 42
+1124 / 1112 = 1112
+13 * 33 = 39
+15 / 16 = 10
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+18 workspace.SPOJ_RLM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.29
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

@@ -1,43 +1,47 @@
 package workspace;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import helperClasses.InputReader;
 import java.io.PrintWriter;
+import java.util.Arrays;
+
+import helperClasses.FastScanner;
+import helperClasses.Util;
 
 public class NextSmallestPalindrome {
-    public void solve(int testNumber, Scanner in, PrintWriter out) {
-        String s = in.next();
-        char []c = s.toCharArray();
-        int n = c.length;
-        int []a = new int[n + 1];
-        boolean allNine = true;
-        for(int i = 0; i < n; ++i) {
-            a[i] = c[i] - '0';
-            if(a[i] != 9) allNine = false;
-        }
+    int inf = Integer.MAX_VALUE;
 
-        // case all numbers are 9
-        if(allNine) {
-            Arrays.fill(a, 0);
+    public void solve(int testNumber, InputReader input, PrintWriter out) {
+        FastScanner in = new FastScanner(input);
+        int n = in.i();
+        int []a = in.arr(n);
+
+        boolean isAll9 = isAll9(a);
+
+        if(isAll9) {
+            a = new int[n + 1];
             a[0] = a[n] = 1;
         }
-        else { // normal case
-            int left_mid = (n % 2 == 0) ? (n - 1) / 2 : n / 2 - 1;
-            if (a[left_mid] < a[n - 1 - left_mid]) {
-                if (n % 2 == 0)
-                    a[left_mid]++;
-                else
-                    a[left_mid + 1]++; // increase the middle number
+        else {
+            int left = n / 2 - 1, right = n - 1 - left;
+            if (a[left] <= a[right]) {
+                int mid = (n - 1) / 2;
+                while (mid >= 0 && a[mid] == 9)
+                    a[mid--] = 0;
+                a[mid]++;
             }
-            // mirror the left part
-            for (int i = left_mid; i >= 0; --i) {
+            // copy the left part to the right
+            for (int i = 0; i <= left; ++i)
                 a[n - 1 - i] = a[i];
-            }
         }
-
-        for(int i = 0; i < n; ++i)
-            out.print(a[i]);
-        if(allNine) out.print(a[n]);
+        for(int ai : a)
+            out.print(ai + " ");
         out.println();
+    }
+
+    boolean isAll9(int []a) {
+        for(int ai : a)
+            if(ai != 9)
+                return false;
+        return true;
     }
 }

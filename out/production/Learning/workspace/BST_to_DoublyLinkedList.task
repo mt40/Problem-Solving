@@ -1,0 +1,26 @@
+23 BST_to_DoublyLinkedList
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+10 4
+5 1 4 10
+8 1 4 5 10
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+33 workspace.BST_to_DoublyLinkedList
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.19
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

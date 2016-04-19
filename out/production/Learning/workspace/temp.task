@@ -6,7 +6,10 @@
 10 output.txt
 1
 0
-1 1
+14 3
+minh
+hai
+guy
 -1
 1
 13 src/workspace
@@ -16,10 +19,10 @@
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.11.14
+10 2016.04.04
 0 
 1
-17 java.util.Scanner
+25 helperClasses.InputReader
 19 java.io.PrintWriter
 0
 0

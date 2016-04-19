@@ -48,8 +48,10 @@ public class SPOJ_UPSUB {
             if(len == 0) listAnswer.add(s);
             return;
         }
+        // Choose this character
         if(mark[i] == len && a[i] <= cur)
             recover(i - 1, len - 1, a[i], a[i] + s);
+        // Or ignore this character
         recover(i - 1, len, cur, s);
     }
 

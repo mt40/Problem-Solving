@@ -1,0 +1,38 @@
+13 SPOJ_LUCKYNUM
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+10 4
+6
+8
+43
+5
+9 6
+8
+86
+-1
+1
+1
+12 2
+9999
+10000
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_LUCKYNUM
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

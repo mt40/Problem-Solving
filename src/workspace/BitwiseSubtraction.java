@@ -13,7 +13,7 @@ public class BitwiseSubtraction {
 
     int subtract(int a, int b) {
         while(b != 0) {
-            int carry = (~a) & b; // carry = 1 n?u bit c?a a và b tai cung 1 v? trí là khác nhau
+            int carry = (~a) & b; // carry = 1 if bit a_i = 1 and b_i = 0
             a = a ^ b; // addition without carry
             b = carry << 1; // move the carry to subtract in the next iteration
         }

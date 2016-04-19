@@ -3,6 +3,9 @@ package workspace;
 import java.util.*;
 import java.io.PrintWriter;
 
+/**
+ * Problem 14.2 in the book Elements of Programming Interviews
+ */
 public class ViewFromAbove {
     public void solve(int testNumber, Scanner in, PrintWriter out) {
         int n = in.nextInt();
