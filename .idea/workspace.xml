@@ -2,149 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87707281-7ec6-4764-906d-58738818a3dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.24 - unsorted/SPOJ_MKJUMPS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.24 - unsorted/SPOJ_MKJUMPS.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.24 - unsorted/UVA_11988_BrokenKeyboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.24 - unsorted/UVA_11988_BrokenKeyboard.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.26 - unsorted/CF_652D.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_632E.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_632E.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_658A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_658A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_658B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_658B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/CF_658C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/CF_658C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_ACPC11C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_ACPC11C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_GOODB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_RLM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_RLM.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_659D.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_CAPCITY.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_CAPCITY.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_THREECOL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_THREECOL.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_WATER.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.30 - unsorted/SPOJ_WATER.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.31 - unsorted/CF_659E.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.31 - unsorted/CF_659E.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.31 - unsorted/CF_659F.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.31 - unsorted/CF_659F.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.02 - unsorted/SPOJ_PAIRSUM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.02 - unsorted/SPOJ_PAIRSUM.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.02 - unsorted/SPOJ_XMEN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.03 - unsorted/CF_653A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.03 - unsorted/CF_653A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.03 - unsorted/SPOJ_MINMOVE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.03 - unsorted/SPOJ_MINMOVE.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_ACMT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_ACMT.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_FINDPRM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_FINDPRM.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_NUMOFPAL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.05 - unsorted/SPOJ_NUMOFPAL.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.06 - unsorted/SPOJ_CRAN02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.06 - unsorted/SPOJ_CRAN02.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.06 - unsorted/SPOJ_WEIRDFN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.06 - unsorted/SPOJ_WEIRDFN.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/CF_628C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/SPOJ_SKYLINE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.07 - unsorted/SPOJ_SKYLINE.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_AMR12G.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_AMR12G.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_SUM1SEQ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_SUM1SEQ.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_SUPPER.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.08 - unsorted/SPOJ_SUPPER.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_2016_B_RevengeOfThePancake.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_2016_B_RevengeOfThePancake.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_2016_CoinJam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_2016_CoinJam.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_CountingSheep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.09 - unsorted/CODEJAM_CountingSheep.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.10 - unsorted/SPOJ_NGM2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.10 - unsorted/SPOJ_NGM2.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660C.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660D.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/SPOJ_DFLOOR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/SPOJ_DFLOOR.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.14 - unsorted/SPOJ_MDOLLS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.14 - unsorted/SPOJ_MDOLLS.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_CSQUARE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_CSQUARE.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_DICT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_DICT.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_LUCKYNUM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_LUCKYNUM.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_QCJ2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.15 - unsorted/SPOJ_QCJ2.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.16 - unsorted/CODEJAM_A_TheLastWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.16 - unsorted/CODEJAM_A_TheLastWord.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.16 - unsorted/CODEJAM_B_RankAndFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.16 - unsorted/CODEJAM_B_RankAndFile.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/CF_664A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/CF_664A.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/SPOJ_PICAD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/SPOJ_PICAD.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/SPOJ_WORKB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.17 - unsorted/SPOJ_WORKB.task" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/workspace/BFS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/workspace/NextSmallestPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/workspace/QuickSelect2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/workspace/temp.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/mt.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/mt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.22 - unsorted/CF_665A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.22 - unsorted/CF_665A.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.23 - unsorted/SPOJ_MCIRGAME.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.23 - unsorted/SPOJ_MCIRGAME.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.23 - unsorted/SPOJ_ODDDIV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.23 - unsorted/SPOJ_ODDDIV.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.24 - unsorted/SPOJ_TRAVERSE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.24 - unsorted/SPOJ_TRAVERSE.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/CF_669A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/CF_669A.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/CF_669B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/CF_669B.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/SPOJ_GOSSIPER.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.25 - unsorted/SPOJ_GOSSIPER.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.26 - unsorted/SPOJ_KOPC12A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.26 - unsorted/SPOJ_KOPC12A.task" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.21 - unsorted/SPOJ_UPSUB.java" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.21 - unsorted/SPOJ_UPSUB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/LargestRectagleUnderHistogram.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/LargestRectagleUnderHistogram.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/NextSmallestPalindrome.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/NextSmallestPalindrome.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/QuickSelect.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/QuickSelect.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/QuickSelect2.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/QuickSelect2.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Learning/workspace/temp.task" afterPath="$PROJECT_DIR$/out/production/Learning/workspace/temp.task" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helperClasses/FastScanner.java" afterPath="$PROJECT_DIR$/src/helperClasses/FastScanner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/helperClasses/Util.java" afterPath="$PROJECT_DIR$/src/helperClasses/Util.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/BinarySearchInCircleArray.java" afterPath="$PROJECT_DIR$/src/workspace/BinarySearchInCircleArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/BitwiseSubtraction.java" afterPath="$PROJECT_DIR$/src/workspace/BitwiseSubtraction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/LCA_In_Tree.java" afterPath="$PROJECT_DIR$/src/workspace/LCA_In_Tree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/LargestRectagleUnderHistogram.task" afterPath="$PROJECT_DIR$/src/workspace/LargestRectagleUnderHistogram.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/QuickSelect.task" afterPath="$PROJECT_DIR$/src/workspace/QuickSelect.task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/SuffixArray2.java" afterPath="$PROJECT_DIR$/src/workspace/SuffixArray2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/workspace/ViewFromAbove.java" afterPath="$PROJECT_DIR$/src/workspace/ViewFromAbove.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/workspace/BFS.task" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.11 - unsorted/CF_660A.task" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/workspace/NextSmallestPalindrome.task" afterPath="$PROJECT_DIR$/archive/unsorted/2016.04/2016.04.02 - unsorted/SPOJ_XMEN.task" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/workspace/QuickSelect2.task" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.28 - unsorted/CF_622A.task" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/workspace/temp.task" afterPath="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.29 - unsorted/SPOJ_GOODB.task" />
     </list>
     <ignored path="Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,22 +49,22 @@
     <favorites_list name="Learning" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SPOJ_INCDSEQ.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_INCDSEQ.java">
+    <leaf>
+      <file leaf-file-name="CF_670A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_670A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LCA_In_Tree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/workspace/LCA_In_Tree.java">
+      <file leaf-file-name="CF_670B.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/workspace/CF_670B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+            <state relative-caret-position="180">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -215,16 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/workspace/FrequencyInSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/workspace/MiddleOf3Numbers.java" />
-        <option value="$PROJECT_DIR$/src/workspace/CF_628C.java" />
-        <option value="$PROJECT_DIR$/src/workspace/ClimbTheLadder.java" />
-        <option value="$PROJECT_DIR$/src/workspace/ClimbTheStairs.java" />
-        <option value="$PROJECT_DIR$/src/workspace/BiggestRectangleInHistogram.java" />
-        <option value="$PROJECT_DIR$/src/workspace/BinarySearchInCircleArray.java" />
-        <option value="$PROJECT_DIR$/src/workspace/StartOfCircularArray.java" />
-        <option value="$PROJECT_DIR$/src/workspace/MaximumSubmatrix.java" />
-        <option value="$PROJECT_DIR$/src/workspace/ResevoirSampling.java" />
         <option value="$PROJECT_DIR$/src/workspace/ReservoirSampling.java" />
         <option value="$PROJECT_DIR$/src/workspace/SPOJ_SUPPER.java" />
         <option value="$PROJECT_DIR$/src/workspace/SPOJ_AMR12G.java" />
@@ -266,6 +132,16 @@
         <option value="$PROJECT_DIR$/src/workspace/SortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/archive/unsorted/2016.03/2016.03.21 - unsorted/SPOJ_UPSUB.java" />
         <option value="$PROJECT_DIR$/src/workspace/LCA_In_Tree.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_665A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_ODDDIV.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_MCIRGAME.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_TRAVERSE.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_669A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_669B.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_GOSSIPER.java" />
+        <option value="$PROJECT_DIR$/src/workspace/SPOJ_KOPC12A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_670A.java" />
+        <option value="$PROJECT_DIR$/src/workspace/CF_670B.java" />
       </list>
     </option>
   </component>
@@ -392,7 +268,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="SearchEverywhereHistoryKey" value="viewf&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/workspace/ViewFromAbove.java&#10;view&#9;RUN_CONFIGURATION&#9;ViewFromAbove&#10;Uti&#9;PSI&#9;JAVA://helperClasses.Util&#10;uti&#9;FILE&#9;file:///home/minhthai/Documents/Programming/Java/Problem-Solving/src/helperClasses/Util.java&#10;util&#9;PSI&#9;JAVA://helperClasses.Util&#10;input&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/InputReader.java&#10;inpu&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/InputReader.java&#10;fas&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;fa&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;Input&#9;PSI&#9;JAVA://helperClasses.InputReader&#10;ShortS&#9;PSI&#9;JAVA://helperClasses.ShortScanner&#10;fast&#9;PSI&#9;JAVA://helperClasses.FastScanner&#10;FastSca&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/src/helperClasses/FastScanner.java&#10;Fast&#9;FILE&#9;file://D:/My Document/Programming/Java projects/Problem-Solving/FastIOTaskClass.template&#10;my&#9;FILE&#9;file://D:/My Document/Java projects/Problem-Solving/MyTaskClass.template" />
   </component>
-  <component name="RunManager" selected="Task.LCA_In_Tree">
+  <component name="RunManager" selected="Task.CF_670B">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1500,7 +1376,15 @@
       <taskConf>src/workspace/SortedArrayToBST.task</taskConf>
       <method />
     </configuration>
-    <list size="178">
+    <configuration default="false" name="CF_670A" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_670A.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="CF_670B" type="Task" factoryName="Task">
+      <taskConf>src/workspace/CF_670B.task</taskConf>
+      <method />
+    </configuration>
+    <list size="180">
       <item index="0" class="java.lang.String" itemvalue="Task.ASCII_and_Integer" />
       <item index="1" class="java.lang.String" itemvalue="Task.AVL_Implementation" />
       <item index="2" class="java.lang.String" itemvalue="Task.AdobeHackathon_APerfectArray" />
@@ -1679,6 +1563,8 @@
       <item index="175" class="java.lang.String" itemvalue="Task.SPOJ_INCDSEQ" />
       <item index="176" class="java.lang.String" itemvalue="Task.BST_to_DoublyLinkedList" />
       <item index="177" class="java.lang.String" itemvalue="Task.SortedArrayToBST" />
+      <item index="178" class="java.lang.String" itemvalue="Task.CF_670A" />
+      <item index="179" class="java.lang.String" itemvalue="Task.CF_670B" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -1865,7 +1751,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5581015" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1880,6 +1765,7 @@
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1962,7 +1848,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="2474" />
+      <option name="time" value="2513" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Task">
@@ -1977,57 +1863,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_SUM1SEQ.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/CODEJAM_CountingSheep.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/CODEJAM_2016_CoinJam.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_NGM2.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/LineInHashmap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_660D.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_660C.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_660B.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/CF_660A.java" />
-    <entry file="file://$PROJECT_DIR$/src/helperClasses/FastScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_DFLOOR.java" />
-    <entry file="file://$PROJECT_DIR$/src/workspace/InfixToPostfix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/PostfixEvaluation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/PostfixToInfix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/TestError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/temp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2060,13 +1895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSelect2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -2146,26 +1974,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/Merge2BSTs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/Merge2BSTs.java" />
     <entry file="file://$PROJECT_DIR$/src/workspace/SortedArrayToBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2173,14 +1986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#1948#1949#0" expanded="true" />
-            <element signature="e#1986#1987#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2079#2080#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2188,7 +1993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-273">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2196,20 +2000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
-          <folding>
-            <element signature="method#parent#0;class#SplayTree#0;class#SplayTreeImplementation#0" expanded="false" />
-            <element signature="method#subtree_max#0;class#SplayTree#0;class#SplayTreeImplementation#0" expanded="false" />
-            <element signature="method#rotateLeft#0;class#SplayTree#0;class#SplayTreeImplementation#0" expanded="false" />
-            <element signature="method#rotateRight#0;class#SplayTree#0;class#SplayTreeImplementation#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_INCDSEQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2217,14 +2007,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/workspace/LCA_In_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        <state relative-caret-position="180">
+          <caret line="75" column="7" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_INCDSEQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/unsorted/2016.02/2016.02.17 - unsorted/SPOJ_LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/SuffixArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/BigIntegerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/QuickSelect2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_665A.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_ODDDIV.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_MCIRGAME.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/MedianOf2SortedArrays_set2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/MedianOf2SortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_669A.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_TRAVERSE.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_669B.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_GOSSIPER.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/SPOJ_KOPC12A.java" />
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_670A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workspace/CF_670B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,57 @@
+13 SPOJ_TRAVERSE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+26 4 
+2331 
+1213 
+1231 
+3110 
+1 3
+1
+1
+25 4 
+3332 
+1213 
+1232 
+2120
+1 0
+1
+2
+36 5 
+11101 
+01111 
+11111 
+11101 
+11101
+1 7
+1
+3
+3 1
+0
+1 1
+1
+4
+7 2
+01
+10
+1 0
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+23 workspace.SPOJ_TRAVERSE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.24
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

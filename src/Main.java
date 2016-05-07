@@ -2,6 +2,7 @@ import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 import java.io.IOException;
 import java.io.BufferedReader;
@@ -18,78 +19,28 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        SortedArrayToBST solver = new SortedArrayToBST();
+        CF_670B solver = new CF_670B();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class SortedArrayToBST {
+    static class CF_670B {
         public void solve(int testNumber, InputReader input, PrintWriter out) {
             FastScanner in = new FastScanner(input);
-            int n = in.i();
+            int n = in.i(), k = in.i();
             int[] a = in.arr(n);
 
-            BST tree = new BST();
-            tree.root = build(a, 0, a.length - 1);
-
-            out.println(1);
-        }
-
-        Node build(int[] a, int low, int hi) {
-            if (low > hi)
-                return null;
-            int mid = (low + hi) >>> 1;
-            Node cur = new Node(a[mid]);
-            cur.left = build(a, low, mid - 1);
-            cur.right = build(a, mid + 1, hi);
-            return cur;
-        }
-
-        class BST {
-            Node root;
-
-        }
-
-        class Node {
-            int key;
-            Node left;
-            Node right;
-
-            public Node(int key) {
-                this.key = key;
+            long[] index = new long[n + 1];
+            for (int i = 1; i <= n; ++i) {
+                index[i] = i + index[i - 1];
             }
 
-
-            public String toString() {
-                return key + "";
-            }
-
-        }
-
-    }
-
-    static class InputReader {
-        public BufferedReader reader;
-        public StringTokenizer tokenizer;
-
-        public InputReader(InputStream stream) {
-            reader = new BufferedReader(new InputStreamReader(stream));
-            tokenizer = null;
-        }
-
-        public String next() {
-            while (tokenizer == null || !tokenizer.hasMoreTokens()) {
-                try {
-                    tokenizer = new StringTokenizer(reader.readLine());
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-            }
-            return tokenizer.nextToken();
-        }
-
-        public int nextInt() {
-            return Integer.parseInt(next());
+            int pos = Arrays.binarySearch(index, k);
+            if (pos < 0)
+                pos = ~pos;
+            pos--;
+            long ans = a[(int) (k - index[pos] - 1)];
+            out.println(ans);
         }
 
     }
@@ -119,6 +70,32 @@ public class Main {
                 for (int i = 0; i < n; ++i) a[i] = in.nextInt();
             }
             return a;
+        }
+
+    }
+
+    static class InputReader {
+        public BufferedReader reader;
+        public StringTokenizer tokenizer;
+
+        public InputReader(InputStream stream) {
+            reader = new BufferedReader(new InputStreamReader(stream));
+            tokenizer = null;
+        }
+
+        public String next() {
+            while (tokenizer == null || !tokenizer.hasMoreTokens()) {
+                try {
+                    tokenizer = new StringTokenizer(reader.readLine());
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+            return tokenizer.nextToken();
+        }
+
+        public int nextInt() {
+            return Integer.parseInt(next());
         }
 
     }

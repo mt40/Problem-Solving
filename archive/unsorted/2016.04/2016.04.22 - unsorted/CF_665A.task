@@ -1,0 +1,33 @@
+7 CF_665A
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+17 10 30
+10 35
+05:20
+1 5
+1
+1
+19 60 120
+24 100
+13:00
+1 9
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_665A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.22
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

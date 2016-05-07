@@ -1,0 +1,35 @@
+11 SPOJ_ODDDIV
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+25 3
+3 2 49
+9 1 100
+5 55 235
+5 4
+2
+1
+1
+1
+17 1
+5 1 10000000000
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+21 workspace.SPOJ_ODDDIV
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.23
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0
