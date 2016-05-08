@@ -1,5 +1,8 @@
 package helperClasses;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Created by mt on 1/8/2016.
  */
@@ -63,8 +66,22 @@ public class Util {
         return rs;
     }
 
-    public static int[][] get2DMoves() {
+    /**
+     * Get moves of the chess King
+     */
+    public static int[][] getKingMoves() {
         // left, up, right, down
         return new int[][] {{0,-1}, {-1,0}, {0,1}, {1,0}};
+    }
+
+    public static int[] unique(int []arr) {
+        Set<Integer> set = new HashSet<>(arr.length);
+        for(int ai : arr)
+            set.add(ai);
+        int []rs = new int[set.size()];
+        int idx = 0;
+        for(int si : set)
+            rs[idx++] = si;
+        return rs;
     }
 }

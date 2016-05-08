@@ -1,0 +1,57 @@
+7 CF_652D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+29 6
+1 4
+2 11
+3 6
+5 7
+8 10
+9 12
+
+11 0
+3
+0
+0
+0
+0
+0
+1
+17 4
+1 8
+2 3
+4 7
+5 6
+7 3
+0
+1
+0
+0
+2
+13 3
+3 4
+1 5
+2 6
+5 0
+1
+1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+17 workspace.CF_652D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.03.26
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

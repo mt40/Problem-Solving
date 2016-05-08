@@ -1,0 +1,43 @@
+12 SPOJ_SKYLINE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+5 3
+4
+0
+4 5
+14
+1
+1
+18 100
+3
+4
+5
+8
+1000
+0
+25 909320
+5
+14
+42
+1430
+29120
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+22 workspace.SPOJ_SKYLINE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.07
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

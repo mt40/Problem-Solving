@@ -1,0 +1,63 @@
+9 SPOJ_DICT
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+86 11
+seet
+se
+set
+lol
+setter
+setting
+settings
+harpy
+happ
+happyer
+happyy
+3
+set
+crazy
+happy
+75 Case #1:
+setter
+setting
+settings
+Case #2:
+No match.
+Case #3:
+happyer
+happyy
+1
+1
+39 5
+se
+sbc
+super
+dark
+souls
+2
+pre
+segment
+37 Case #1:
+No match.
+Case #2:
+No match.
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+19 workspace.SPOJ_DICT
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.15
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

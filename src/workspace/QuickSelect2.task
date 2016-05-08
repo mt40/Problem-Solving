@@ -6,26 +6,28 @@
 10 output.txt
 2
 0
-40 10 6
-5 3 10 2 1 6 9 10 22 7
+39 10 5
+8 1 9 4 3 16 10 12 2 27
 10
-7
 1
-2
-9
 5
-13 22
-9
-1
-2
-10
 6
+8
+11 27
 1
+8
+9
+12
+0
 1
-29 10 1
-5 3 10 2 1 6 9 10 22 7
-2
-1 2
+23 7 3
+5 1 4 5 2 5 3
+4
+3
+7
+5 4
+3
+5
 1
 13 src/workspace
 16 -Xmx256m -Xss64m
@@ -34,10 +36,10 @@
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.09.10
+10 2016.04.14
 0 
 1
-17 java.util.Scanner
+25 helperClasses.InputReader
 19 java.io.PrintWriter
 0
 0

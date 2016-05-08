@@ -1,0 +1,36 @@
+20 CODEJAM_2016_CoinJam
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+5 1
+6 3
+-1
+0
+1
+7 1
+16 50
+-1
+0
+2
+8 1
+32 500
+-1
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+30 workspace.CODEJAM_2016_CoinJam
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.09
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

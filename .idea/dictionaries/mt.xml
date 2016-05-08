@@ -2,8 +2,12 @@
   <dictionary name="mt">
     <words>
       <w>dest</w>
+      <w>kadane</w>
+      <w>nlogn</w>
       <w>preprocess</w>
       <w>spoj</w>
+      <w>subarray</w>
+      <w>submatrix</w>
       <w>upheap</w>
       <w>warshall</w>
     </words>

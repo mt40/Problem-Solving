@@ -1,32 +1,39 @@
 package workspace;
 
-import java.math.BigInteger;
-import java.util.Scanner;
+import helperClasses.InputReader;
 import java.io.PrintWriter;
+import java.text.CharacterIterator;
+import java.text.StringCharacterIterator;
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
+import helperClasses.FastScanner;
+import helperClasses.Util;
 
 public class temp {
-    BigInteger one = BigInteger.ONE;
-    public void solve(int testNumber, Scanner in, PrintWriter out) {
-        int n = 1;
-        BigInteger cur = BigInteger.valueOf(70);
-        while(n <= 250) {
-            do {
-                cur = cur.add(one);
-            } while(!check(cur));
-            n++;
-            System.out.printf("%d. %d - %d\n", n, cur, cur.multiply(cur));
+    int inf = Integer.MAX_VALUE;
+
+    public void solve(int testNumber, InputReader input, PrintWriter out) {
+        FastScanner in = new FastScanner(input);
+        C item = new C();
+        item.f();
+        ((D)item).f();
+    }
+
+    interface A {
+        void f();
+    }
+
+    interface B {
+        void f();
+    }
+
+    abstract class D {
+        public void f() {
+            System.out.println("D");
         }
     }
 
-    boolean check(BigInteger x) {
-        x = x.multiply(x);
-        char []a = x.toString().toCharArray();
-        boolean []b = new boolean[10];
-        for(char c : a) {
-            b[c - '0'] = true;
-            if(c != '0' && c != '4' && c != '9')
-                return false;
-        }
-        return b[0] && b[4] && b[9];
+    class C extends D implements A, B {
     }
 }

@@ -4,11 +4,16 @@
 9 input.txt
 8 STANDARD
 10 output.txt
-1
+2
 0
 15 7
 6 2 5 4 5 1 6
 2 12
+1
+1
+11 5
+1 2 3 6 5
+2 10
 1
 13 src/workspace
 16 -Xmx256m -Xss64m

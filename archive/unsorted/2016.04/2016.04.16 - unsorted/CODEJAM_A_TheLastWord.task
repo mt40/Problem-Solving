@@ -1,0 +1,66 @@
+21 CODEJAM_A_TheLastWord
+12 MULTI_NUMBER
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+4
+0
+50 7
+CAB
+JAM
+CODE
+ABAAB
+CABCBBABC
+ABCABCABC
+ZXCASDQWE
+111 Case #1: CAB
+Case #2: MJA
+Case #3: OCDE
+Case #4: BBAAA
+Case #5: CCCABBBAB
+Case #6: CCCBAABAB
+Case #7: ZXCASDQWE
+1
+1
+16 4
+AAA
+BAA
+Z
+ZAAZ
+-1
+1
+2
+21 4
+BAAZA
+ZZAZAA
+A
+ABCD
+19 ZBAAA
+ZZZAAA
+A
+DCBA
+1
+3
+16 3
+ZABZ
+BBAA
+AABB
+14 ZZAB
+BBAA
+BBAA
+1
+13 src/workspace
+16 -Xmx256m -Xss64m
+4 Main
+31 workspace.CODEJAM_A_TheLastWord
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.04.16
+0 
+1
+25 helperClasses.InputReader
+19 java.io.PrintWriter
+0
+0

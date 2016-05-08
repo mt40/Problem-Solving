@@ -83,7 +83,7 @@ public class LCA_In_Tree {
         // construct the ancestor array
         for(int j = 1; (1 << j) <= n; ++j) {
             for(int i = 1; i <= n; ++i) {
-                if(anc[i][j - 1] > 0) // not root
+                if(anc[i][j - 1] > 0) // i is not root
                     anc[i][j] = anc[anc[i][j - 1]][j - 1];
             }
         }
