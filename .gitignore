@@ -10,6 +10,11 @@
 
 # IntelliJ idea files
 # =========================
+**/src/Main.java
+**/CHelperReport.txt
+
+# Miscellaneous
+.gitignore~
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

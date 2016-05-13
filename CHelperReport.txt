@@ -1,2 +1,0 @@
-26 src/workspace/CF_670B.task
-0
